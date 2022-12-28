@@ -1,9 +1,10 @@
-| English | Uro        |
-|-----------|----------|
-| monday    | monden   |
-| tuesday   | diensden |
-| wednesday | mitden   |
-| thursday  | tursden  |
-| friday    | friden   |
-| saturday  | saturden |
-| sunday    | sunden   |
+| English   | Uro (M)  | Uro (AI) | Croatian    | Czech   | Danish  | Dutch     | French   | German     | Italian   | Polish       | Portuguese    | Romanian | Russian                    | Serbian                | Slovak   | Spanish   | Swedish |
+|-----------|----------|----------|-------------|---------|---------|-----------|----------|------------|-----------|--------------|---------------|----------|----------------------------|------------------------|----------|-----------|---------|
+| monday    | monden   | luna     | ponedjeljak | pondělí | mandag  | maandag   | lundi    | Montag     | lunedì    | poniedziałek | segunda-feira | luni     | понеделник [ponedel'nik]   | понедејак [ponedeljak] | pondelok | lunes     | måndag  |
+| tuesday   | diensden | marte    | utorak      | úterý   | tirsdag | dinsdag   | mardi    | Dienstag   | martedì   | wtorek       | terça-feira   | marți    | вторник [vtornik]          | уторак [utorak]        | utorok   | martes    | tisdag  |
+| wednesday | mitden   | mercurio | srijeda     | středa  | onsdag  | woensdag  | mercredi | Mittwoch   | mercoledì | środa        | quarta-feira  | miercuri | среда [sreda]              | среда [sreda]          | streda   | miércoles | onsdag  |
+| thursday  | tursden  | jove     | četvrtak    | čtvrtek | torsdag | donderdag | jeudi    | Donnerstag | giovedì   | czwartek     | quinta-feira  | joi      | четверг [četverg]          | четвртак [četvrtak]    | štvrtok  | jueves    | torsdag |
+| friday    | friden   | venerdio | petak       | pátek   | fredag  | vrijdag   | vendredi | Freitag    | venerdì   | piątek       | sexta-feira   | vineri   | пятница [pyatnica]         | петак [petak]          | piatok   | viernes   | fredag  |
+| saturday  | saturden | sabbato  | subota      | sobota  | lørdag  | zaterdag  | samedi   | Samstag    | sabato    | sobota       | sábado        | sâmbătă  | суббота [subbota]          | субота [subota]        | sobota   | sábado    | lördag  |
+| sunday    | sunden   | dominica | nedjelja    | neděle  | søndag  | zondag    | dimanche | Sonntag    | domenica  | niedziela    | domingo       | duminică | воскресенье [voskresen'je] | недеља [nedelja]       | nedeľa   | domingo   | söndag  |
+
