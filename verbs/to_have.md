@@ -1,8 +1,8 @@
-| English  | Uro       |
-|----------|-----------|
-| I have   | je haf    |
-| you have | ju haf    |
-| he has   | on haf    |
-| she has  | ona haf   |
-| we have  | we haf    |
-| they have| oni haf   |
+| English  | Uro (M)   | Uro (A) | Croatian | Czech | Danish | Dutch  | French | German | Italian | Polish | Portuguese | Romanian | Russian                      | Serbian       | Slovak | Spanish | Swedish |
+|----------|-----------|---------|----------|-------|--------|--------|--------|--------|---------|--------|------------|----------|------------------------------|---------------|--------|---------|---------|
+| I have   | haf       | habeo   | imam     | mám   | har    | heb    | ai     | habe   | ho      | mam    | tenho      | am       | имею [iméju]                 | имам [imam]   | mám    | tengo   | har     |
+| you have | haf       | habes   | imaš     | máš   | har    | hebt   | as     | hast   | hai     | masz   | tens       | ai       | ты имеешь [ty iméješ']       | имаш [imaš]   | máš    | tienes  | har     |
+| he has   | haf       | habet   | ima      | má    | har    | heeft  | a      | hat    | ha      | ma     | tem        | are      | он/она имеет [on/ona iméjet] | има [ima]     | má     | tiene   | har     |
+| she has  | haf       | habemus | imamo    | máme  | har    | hebben | avons  | haben  | abbiamo | mamy   | temos      | avem     | мы имеем [my iméem]          | имамо [imamo] | máme   | tenemos | har     |
+| we have  | haf       | habetis | imate    | máte  | har    | hebt   | avez   | habt   | avete   | macie  | tens       | aveți    | вы имеете [vy iméete]        | имате [imate] | máte   | tienes  | har     |
+| they have| haf       | habent  | imaju    | mají  | har    | hebben | ont    | haben  | hanno   | mają   | têm        | au       | они имеют [oni iméjut]       | имају [imaju] | majú   | tienen  | har     |
