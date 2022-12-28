@@ -1,12 +1,23 @@
-| English | Uro     |
-|---------|---------|
-| one     | un      |
-| two  	  | du      |
-| three   | tri     |
-| four    | fir     |
-| five    | fif     |
-| six     | siks    |
-| seven   | set   |
-| eight   | okt     |
-| nine    | nein    |
-| ten     | ten     |
+| English   | Uro     |
+|-----------|---------|
+| zero      | zero    |
+| one       | un      |
+| two  	    | du      |
+| three     | tri     |
+| four      | fir     |
+| five      | fif     |
+| six       | siks    |
+| seven     | set     |
+| eight     | okt     |
+| nine      | nein    |
+| ten       | ten     |
+| eleven    | unten   |
+| twelve    | duten   |
+| thirteen  | triten  |
+| fourteen  | firten  |
+| fifteen   | fiften  |
+| sixteen   | siksten |
+| seventeen | setten  |
+| eightteen | oktten  |
+| nineteen  | neinten |
+| twenty    | vinti   |
