@@ -1,13 +1,13 @@
-| English | Uro     |
-|---------|---------|
-| red     | rot     |
-| orange  | orange  |
-| yellow  | jellow  |
-| green   | verde   |
-| blue    | blau    |
-| purple  | violet  |
-| pink    | rosa    |
-| grey    | grau    |
-| brown   | braun   |
-| black   | nero    |
-| white   | blanko  |
+| English | Uro (M) |Uro (AI) | Croatian   | Czech    | Danish  | Dutch  | French | German  | Italian   | Polish       | Portuguese | Romanian   | Russian                  | Serbian                  | Slovak   | Spanish  | Swedish |
+|---------|---------|---------|------------|----------|---------|--------|--------|---------|-----------|--------------|------------|------------|--------------------------|--------------------------|----------|----------|---------|
+| red     | rot     |rubro    | crvena     | červená  | rød     | rood   | rouge  | rot     | rosso     | czerwony     | vermelho   | roșu       | красный [krasniy]        | црвена [crvena]          | červená  | rojo     | röd     |
+| orange  | orange  |orangio  | narančasta | oranžová | orange  | oranje | orange | orange  | arancione | pomarańczowy | laranja    | portocaliu | оранжевый [oranževiy]    | наранџаста [narandžasta] | oranžová | naranja  | orange  |
+| yellow  | jellow  |flavo    | žuta       | žlutá    | gul     | geel   | jaune  | gelb    | giallo    | żółty        | amarelo    | galben     | желтый [želtiy]          | жута [žuta]              | žltá     | amarillo | gul     |
+| green   | verde   |virido   | zelena     | zelená   | grøn    | groen  | vert   | grün    | verde     | zielony      | verde      | verde      | зеленый [zeleniy]        | зелена [zelena]          | zelená   | verde    | grön    |
+| blue    | blau    |caeruleo | plava      | modrá    | blå     | blauw  | bleu   | blau    | blu       | niebieski    | azul       | albastru   | синий [siniy]            | плава [plava]            | modrá    | azul     | blå     |
+| purple  | violet  |purpuro  | ljubičasta | fialová  | lilla   | paars  | violet | violett | viola     | fioletowy    | roxo       | violet     | фиолетовый [fioletoviy]  | љубичаста [ljubičasta]   | fialová  | morado   | lila    |
+| pink    | rosa    |roseo    | ružičasta  | růžová   | lyserød | roze   | rose   | rosa    | rosa      | różowy       | rosa       | roz        | розовый [rozoviy]        | ружичаста [ružičasta]    | ružová   | rosa     | rosa    |
+| grey    | grau    |griseo   | siva       | šedá     | grå     | grijs  | gris   | grau    | grigio    | szary        | cinza      | gri        | серый [séryj]            | сива [siva]              | sivá     | gris     | grå     |
+| brown   | braun   |fusco    | smeđa      | hnědá    | brun    | bruin  | marron | braun   | marrone   | brązowy      | marrom     | maro       | коричневый [korichnéviy] | маштава [maštava]        | hnedá    | marrón   | brun    |
+| black   | nero    |nigrum   | crna       | černá    | sort    | zwart  | noir   | schwarz | nero      | czarny       | preto      | negru      | черный [čérniy]          | црна [crna]              | čierna   | negro    | svart   |
+| white   | blanko  |albus    | bijela     | bílá     | hvid    | wit    | blanc  | weiß    | bianco    | biały        | branco     | alb        | белый [bélyj]            | бела [bela]              | biela    | blanco   | vit     |
