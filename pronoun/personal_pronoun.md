@@ -1,8 +1,8 @@
-| English | Uro     |
-|---------|---------|
-| I       | je      |
-| you     | ju      |
-| he      | on      |
-| she     | ona     |
-| we      | we      |
-| they    | oni     |
+| English | Uro (M) | Uro (AI) |
+|---------|---------|----------|
+| I       | je      | me       |
+| you     | ju      | tu       |
+| he      | on      | ille     |
+| she     | ona     | illa     |
+| we      | we      | nos      |
+| they    | oni     | illes    |
