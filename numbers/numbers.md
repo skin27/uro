@@ -6,7 +6,7 @@
 | four    | fir     |
 | five    | fif     |
 | six     | siks    |
-| seven   | sevne   |
+| seven   | set   |
 | eight   | okt     |
 | nine    | nein    |
 | ten     | ten     |
