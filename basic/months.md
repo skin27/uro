@@ -1,15 +1,15 @@
+| English   | Uro (M)   |Uro (AI)  | Croatian | Czech    | Danish      | Dutch     | French    | German    | Italian   | Polish      | Portuguese | Romanian   | Russian              | Serbian               | Slovak    | Spanish    | Swedish   | 
+|-----------|-----------|----------|---------|----------|-------------|-----------|-----------|-----------|-----------|-------------|------------|------------|----------------------|-----------------------|-----------|------------|------------|
+| January   | januar    |januario  | siječanj | leden    | januar      | januari   | janvier   | Januar    | gennaio   | styczeń     | janeiro    | ianuarie   | январь [yanvar']     | јануар [januar]       | január    | enero      | januari   | 
+| February  | februar   |februario | veljača  | únor     | februar     | februari  | février   | Februar   | febbraio  | luty        | fevereiro  | februarie  | февраль [févral']    | фебруар [februar]     | február   | febrero    | februari  | 
+| March     | mars      |martio    | ožujak   | březen   | marts       | maart     | mars      | März      | marzo     | marzec      | março      | martie     | март [mart]          | март [mart]           | marec     | marzo      | mars      | 
+| April     | april     |aprilis   | travanj  | duben    | april       | april     | avril     | April     | aprile    | kwiecień    | abril      | aprilie    | апрель [aprel']      | април [april]         | apríl     | abril      | april     | 
+| May       | mai       |maio      | svibanj  | květen   | maj         | mei       | mai       | Mai       | maggio    | maj         | maio       | mai        | май [maj]            | мај [maj]             | máj       | mayo       | maj       | 
+| June      | juni      |junio     | lipanj   | červen   | juni        | juni      | juin      | Juni      | giugno    | czerwiec    | junho      | iunie      | июнь [ijun']         | јун [jun]             | jún       | junio      | juni      | 
+| July      | juli      |julio     | srpanj   | červenec | juli        | juli      | juillet   | Juli      | luglio    | lipiec      | julho      | iulie      | июль [ijul']         | јул [jul]             | júl       | julio      | juli      | 
+| August    | august    |augusto   | kolovoz  | srpen    | august      | augustus  | août      | August    | agosto    | sierpień    | agosto     | august     | август [avgust]      | август [avgust]       | august    | agosto     | augusti   | 
+| September | september |septembro | rujan    | září     | september   | september | septembre | September | settembre | wrzesień    | setembro   | septembrie | сентябрь [sentyabr'] | септембар [septembar] | september | septiembre | september | 
+| October   | oktober   |octobro   | listopad | říjen    | oktober     | oktober   | octobre   | Oktober   | ottobre   | październik | outubro    | octombrie  | октябрь [oktyabr']   | октобар [oktobar]     | október   | octubre    | oktober   | 
+| November  | november  |novembro  | studeni  | listopad | november    | november  | novembre  | November  | novembre  | listopad    | novembro   | noiembrie  | ноябрь [noyabr']     | новембар [novembar]   | november  | noviembre  | november  | 
+| December  | december  |decembro  | prosinac | prosinec | december    | december  | décembre  | Dezember  | dicembre  | grudzień    | dezembro   | decembrie  | декабрь [dekabr']    | децембар [decembar]   | december  | diciembre  | december  | 
 
-| English   | Uro       |
-|-----------|-----------|
-| January   | januar    |
-| February  | februar   |
-| March     | mars      |
-| April     | april     |
-| May       | mai       |
-| June      | juni      |
-| July      | juli      |
-| August    | august    |
-| September | september |
-| October   | oktober   |
-| November  | november  |
-| December  | december  |
