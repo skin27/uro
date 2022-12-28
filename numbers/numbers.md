@@ -1,23 +1,24 @@
-| English   | Uro     |
-|-----------|---------|
-| zero      | zero    |
-| one       | un      |
-| two  	    | du      |
-| three     | tri     |
-| four      | fir     |
-| five      | fif     |
-| six       | siks    |
-| seven     | set     |
-| eight     | okt     |
-| nine      | nein    |
-| ten       | ten     |
-| eleven    | unten   |
-| twelve    | duten   |
-| thirteen  | triten  |
-| fourteen  | firten  |
-| fifteen   | fiften  |
-| sixteen   | siksten |
-| seventeen | setten  |
-| eightteen | oktten  |
-| nineteen  | neinten |
-| twenty    | vinti   |
+| English   | Uro (M) | Uro (AI)      | Croatian   | Czech      | Danish  | Dutch     | French   | German   | Italian     | Polish        | Portuguese | Romanian      | Russian          | Serbian         | Slovak    | Spanish    | Swedish |
+|-----------|---------|---------------|------------|------------|---------|-----------|----------|----------|-------------|---------------|------------|---------------|------------------|-----------------|-----------|------------|---------|
+| zero      | zero    | zero          | nula       | nula       | nul     | nul       | zéro     | null     | zero        | zero          | zero       | zero          | нула [nula]      | нула [nula]     | nula      | cero       | noll    |
+| one       | un      | uno           | jedan      | jeden      | én      | één       | un       | eins     | uno         | jeden         | um         | unu           | один [odin]      | један [jedan]   | jeden     | uno        | en      |
+| two  	    | du      | duo           | dva        | dva        | to      | twee      | deux     | zwei     | due         | dwa           | dois       | doi           | два [dva]        | два [dva]       | dva       | dos        | två     |
+| three     | tri     | tres          | tri        | tři        | tre     | drie      | trois    | drei     | tre         | trzy          | três       | trei          | три [tri]        | три [tri]       | tri       | tres       | tre     |
+| four      | fir     | quatro        | četiri     | čtyři      | fire    | vier      | quatre   | vier     | quattro     | cztery        | quatro     | patru         | четыре [četyre]  | четири [četiri] | štyri     | cuatro     | fyra    |
+| five      | fif     | quinque       | pet        | pět        | fem     | vijf      | cinq     | fünf     | cinque      | pięć          | cinco      | cinci         | пять [pyat']     | пет [pet]       | päť       | cinco      | fem     |
+| six       | siks    | sex           | šest       | šest       | seks    | zes       | six      | sechs    | sei         | sześć         | seis       | șase          | шесть [šest']    | шест [šest]     | šesť      | seis       | sex     |
+| seven     | set     | septem        | sedam      | sedm       | syv     | zeven     | sept     | sieben   | sette       | siedem        | sete       | șapte         | семь [sem']      | седам [sedam]   | sedem     | siete      | sju     |
+| eight     | okt     | octo          | osam       | osm        | otte    | acht      | huit     | acht     | otto        | osiem         | oito       | opt           | восемь [vosem']  | осам [osam]     | osem      | ocho       | åtta    |
+| nine      | nein    | novem         | devet      | devět      | ni      | negen     | neuf     | neun     | nove        | dziewięć      | nove       | nouă          | девять [dévyat'] | девет [devet]   | deväť     | nueve      | nio     |
+| ten       | ten     | decem         | deset      | deset      | ti      | tien      | dix      | zehn     | dieci       | dziesięć      | dez        | zece          | десять [désyat'] | десет [deset]   | desať     | diez       | tio     |
+| eleven    | unten   | undecim		  | jedanaest  | jedenáct   | elleve  | elf       | onze     | elf      | undici      | jedenaście    | onze       | unsprezece    | одиннадцать      | jedanaest       | jedenásť  | once       | elva    |
+| twelve    | duten   | duodecim      | dvanaest   | dvanáct    | tolv    | twaalf    | douze    | zwölf    | dodici      | dwanaście     | doze       | doisprezece   | двенадцать   	  | dvanaest        | dvanásť   | doce       | tolv    |
+| thirteen  | triten  | tredecim      | trinaest   | třináct    | tretten | dertien   | treize   | dreizehn | tredici     | trzynaście    | treze      | treisprezece  | тринадцать       | trinaest        | trojnasť  | trece      | tretton |
+| fourteen  | firten  | quattuordecim | četrnaest  | čtrnáct    | fjorten | veertien  | quatorze | vierzehn | quattordici | czternaście   | catorze    | paisprezece   | четырнадцать     | četrnaest       | štyrnasť  | catorce    | fjorton |
+| fifteen   | fiften  | quindecim     | petnaest   | patnáct    | femten  | vijftien  | quinze   | fünfzehn | quindici    | piętnaste     | quinze     | cincisprezece | пятнадцать       | petnaest        | pätnásť   | quince     | femton  |
+| sixteen   | siksten | sedecim       | šesnaest   | šestnáct   | seksten | zestien   | seize    | sechzehn | sedici      | szesnaste     | dezasseis  | şaisprezece   | шестнадцать      | šesnaest        | šestnasť  | dieciséis  | sexton  |
+| seventeen | setten  | septendecim   | sedamnaest | sedmnáct   | sytten  | zeventien | dix-sept | siebzehn | diciassette | siedemnaste   | dezassete  | şaptesprezece | семнадцать       | sedamnaest      | sedemnasť | diecisiete | sjutton |
+| eightteen | oktten  | duodeviginti  | osamnaest  | osmnáct    | atten   | achttien  | dix-huit | achtzehn | diciotto    | osiemnaste    | dezoito    | optsprezece   | восемнадцать     | osamnaest       | osemnasť  | dieciocho  | arton   |
+| nineteen  | neinten | undeviginti   | devetnaest | devatenáct | nitten  | negentien | dix-neuf | neunzehn | diciannove  | dziewiętnaste | dezanove   | nouăsprezece  | девятнадцать     | devetnaest      | devätnásť | diecinueve | nitton  |
+| twenty    | vinti   | viginti       | dvadeset   | dvacet     | tyve    | twintig   | vingt    | zwanzig  | venti       | dwadzieścia   | vinte      | douăzeci      | двадцать         | dvadeset        | dvadsať   | veinte     | tjugo   |
+
