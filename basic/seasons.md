@@ -1,6 +1,6 @@
-| English | Uro    |
-|---------|--------|
-| spring  | spring |
-| summer  | lato   |
-| autumn  | autom  |
-| winter  | winter |
+| English | Uro (M)  | Uro (M)   | Croatian | Czech  | Danish  | Dutch  | French    | German   | Italian   | Polish | Portuguese | Romanian  | Russian       | Serbian           | Slovak | Spanish   | Swedish |
+|---------|----------|-----------|----------|--------|---------|--------|-----------|----------|-----------|--------|------------|-----------|---------------|-------------------|--------|-----------|---------|
+| spring  | spring   | primavera | proljeće | jaro   | forår   | lente  | printemps | Frühling | primavera | wiosna | primavera  | primăvară | весна [vesna] | пролеће [proleće] | jar    | primavera | vår     |
+| summer  | lato     | estate    | ljeto    | léto   | sommer  | zomer  | été       | Sommer   | estate    | lato   | verão      | vară      | лето [létó]   | лето [ljeto]      | leto   | verano    | sommar  |
+| autumn  | autom    | autumno   | jesen    | podzim | efterår | herfst | automne   | Herbst   | autunno   | jesień | outono     | toamnă    | осень [osén'] | јесен [jesen]     | jeseň  | otoño     | höst    |
+| winter  | winter   | hiverno   | zima     | zima   | vinter  | winter | hiver     | Winter   | inverno   | zima   | inverno    | iarnă     | зима [zimá]   | зима [zima]       | zima   | invierno  | vinter  |
