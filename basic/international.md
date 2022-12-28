@@ -31,7 +31,7 @@
 | university  | universiti  | 
 | vanilla     | vanilla     |
 | violin      | violin      |
-| vodka		  | vodka       |
-| whisky      | whiki		|
+| vodka		    | vodka       |
+| whisky      | whiski	    |
 | zebra       | zebra       |
 | Zoology     | zoo         |
