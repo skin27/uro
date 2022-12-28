@@ -1,2 +1,2 @@
 # uro
-A constructed language for the European Union
+A constructed language for Europe
