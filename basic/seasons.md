@@ -1,4 +1,4 @@
-| English | Uro (M)  | Uro (M)   | Croatian | Czech  | Danish  | Dutch  | French    | German   | Italian   | Polish | Portuguese | Romanian  | Russian       | Serbian           | Slovak | Spanish   | Swedish |
+| English | Uro (M)  | Uro (AI)  | Croatian | Czech  | Danish  | Dutch  | French    | German   | Italian   | Polish | Portuguese | Romanian  | Russian       | Serbian           | Slovak | Spanish   | Swedish |
 |---------|----------|-----------|----------|--------|---------|--------|-----------|----------|-----------|--------|------------|-----------|---------------|-------------------|--------|-----------|---------|
 | spring  | spring   | primavera | proljeće | jaro   | forår   | lente  | printemps | Frühling | primavera | wiosna | primavera  | primăvară | весна [vesna] | пролеће [proleće] | jar    | primavera | vår     |
 | summer  | lato     | estate    | ljeto    | léto   | sommer  | zomer  | été       | Sommer   | estate    | lato   | verão      | vară      | лето [létó]   | лето [ljeto]      | leto   | verano    | sommar  |
