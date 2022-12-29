@@ -1,52 +1,52 @@
-| English  | Uro         |
-|----------|---------|
-| All      | al      |
-| And      | i       |
-| Boy      | chiko   |
-| Book     | libre   |
-| Call     | appel   |
-| Car      | auto    |
-| Chair    | stol    |
-| Children | ninios  |
-| City     | citi    |
-| Dog      | dog     |
-| Door     | porta   |
-| Enemy    | enemi   |
-| End      | fin     |
-| Enough   | genug   |
-| Eat      | jest    |
-| Father   | pap     |
-| Friend   | ami     |
-| Go       | go      |
-| Good     | bon     |
-| Girl     | chika   |
-| Food     | jedlo   |
-| Hear     | hor     |
-| House    | casa    |
-| Inside   | in      |
-| Laugh    | rir     |
-| Listen   | listen  |
-| Man      | man     |
-| Name     | nom     |
-| Never    | ni      |
-| New      | novo    |
-| Next     | nekst   |
-| Noise    | melu    |
-| Often    | often   |
-| Pair     | par     |
-| Pick     | pluk    |
-| Play     | spelen  |
-| Room     | rom     |
-| See      | vider   |
-| Sell     | vender  |
-| Sister   | sister  |
-| Sit      | sit     |
-| Smile    | smil    |
-| Speak    | parler  |
-| Then     | then    |
-| Think    | penser  |
-| Walk     | walk    |
-| Water    | water   |
-| Woman    | woman   |
-| Work     | work    |
-| Write    | skriber |
+| English  | Uro (M) | Uro (AI)  | Croatian    | Czech      | Danish  | Dutch     | French     | German    | Italian    | Polish      | Portuguese | Romanian   | Russian                 | Serbian                  | Slovak      | Spanish    | Swedish      |
+|----------|---------|-----------|-------------|------------|---------|-----------|------------|-----------|------------|-------------|------------|------------|-------------------------|--------------------------|-------------|------------|--------------|
+| all      | al      | omne      | sve         | vše        | alt     | alles     | tout       | alles     | tutto      | wszystko    | tudo       | tot        | все [vse]               | све [sve]                | všetko      | todo       | allt         |
+| and      | i       | et        | i           | a          | og      | en        | et         | und       | e          | i           | e          | și         | и [i]                   | и [i]                    | a           | y          | och          |
+| boy      | chiko   | puer      | dječak      | chlapec    | dreng   | jongen    | garçon     | Junge     | ragazzo    | chłopiec    | menino     | băiat      | мальчик [mál'čik]       | момак [momak]            | chlapec     | chico      | pojke        |
+| book     | libre   | liber     | knjiga      | kniha      | bog     | boek      | livre      | Buch      | libro      | książka     | livro      | carte      | книга [kníga]           | књига [knjiga]           | kniha       | libro      | bok          |
+| call     | appel   | vocare    | zvati       | volat      | kalde   | bellen    | appeler    | anrufen   | chiamare   | dzwonić     | chamar     | a chema    | звать [zvat']           | звати [zvati]            | volať       | llamar     | ringa        |
+| car      | auto    | vehiculum | auto        | auto       | bil     | auto      | voiture    | Auto      | auto       | samochód    | carro      | mașină     | машина [mašína]         | ауто [auto]              | auto        | coche      | bil          |
+| chair    | stol    | sella     | stolica     | židle      | stol    | stoel     | chaise     | Stuhl     | sedia      | krzesło     | cadeira    | scaun      | стул [stul]             | столица [stolica]        | stolička    | silla      | stol         |
+| children | ninios  | infantes  | djeca       | děti       | børn    | kinderen  | enfants    | Kinder    | bambini    | dzieci      | crianças   | copii      | дети [déti]             | деца [deca]              | deti        | niños      | barn         |
+| city     | citi    | urbs      | grad        | město      | by      | stad      | ville      | Stadt     | città      | miasto      | cidade     | oraș       | город [gorod]           | град [grad]              | mesto       | ciudad     | stad         |
+| dog      | dog     | canis     | pas         | pes        | hund    | hond      | chien      | Hund      | cane       | pies        | cão        | câine      | собака [sóbaka]         | пас [pas]                | pes         | perro      | hund         |
+| door     | porta   | porta     | vrata       | dveře      | dør     | deur      | porte      | Tür       | porta      | drzwi       | porta      | ușă        | дверь [dvér']           | врата [vrata]            | dvere       | puerta     | dörr         |
+| enemy    | enemi   | hostis    | neprijatelj | nepřítel   | fjende  | vijand    | ennemi     | Feind     | nemico     | wrog        | inimigo    | dușman     | враг [vrаg]             | непријатељ [neprijatelj] | nepriateľ   | enemigo    | fiende       |
+| end      | fin     | finis     | kraj        | konec      | ende    | einde     | fin        | Ende      | fine       | koniec      | fim        | sfârșit    | конец [konéc]           | крај [kraj]              | koniec      | fin        | slut         |
+| enough   | genug   | satis     | dovoljno    | dost       | nok     | genoeg    | assez      | genug     | abbastanza | wystarczyć  | suficiente | destul     | достаточно [dostatóčno] | довољно [dovoljno]       | dosť        | bastante   | tillräckligt |
+| eat      | jest    | manducare | jesti       | jíst       | spise   | eten      | manger     | essen     | mangiare   | jeść        | comer      | mânca      | есть [jest']            | јести [jesti]            | jesť        | comer      | äta          |
+| father   | pap     | pater     | otac        | otec       | far     | vader     | père       | Vater     | padre      | ojciec      | pai        | tată       | отец [otéc]             | отац [otac]              | otec        | padre      | far          |
+| friend   | ami     | amicus    | prijatelj   | přítel     | ven     | vriend    | ami        | Freund    | amico      | przyjaciel  | amigo      | prieten    | друг [druk]             | пријатељ [prijatelj]     | priateľ     | amigo      | vän          |
+| go       | go      | ire       | ići         | jít        | gå      | gaan      | aller      | gehen     | andare     | iść         | ir         | merge      | идти [idt']             | ићи [ići]                | ísť         | ir         | gå           |
+| good     | bon     | bene      | dobro       | dobře      | godt    | goed      | bien       | gut       | bene       | dobrze      | bem        | bine       | хорошо [xaróšo]         | добро [dobro]            | dobre       | bien       | bra          |
+| girl     | chika   | puella    | djevojčica  | dívka      | pige    | meisje    | fillette   | Mädchen   | bambina    | dziewczynka | menina     | fetiță     | девочка [dévočka]       | девојчица [djevojčica]   | dievča      | niña       | flicka       |
+| food     | jedlo   | cibus     | hrana       | jídlo      | mad     | eten      | nourriture | Nahrung   | cibo       | jedzenie    | comida     | mâncare    | еда [jéda]              | храна [hrana]            | jedlo       | comida     | mat          |
+| hear     | hor     | audire    | čuti        | slyšet     | høre    | horen     | entendre   | hören     | sentire    | słyszeć     | ouvir      | auzi       | слышать [slýšat']       | чути [čuti]              | počuť       | oír        | höra         |
+| house    | casa    | domus     | kuća        | dům        | hus     | huis      | maison     | Haus      | casa       | dom         | casa       | casă       | дом [dom]               | кућа [kuća]              | dom         | casa       | hus          |
+| inside   | in      | intra     | unutra      | uvnitř     | inden   | binnen    | intérieur  | innen     | dentro     | wewnątrz    | dentro     | înăuntru   | внутри [vnútri]         | унутра [unutra]          | vnútri      | dentro     | inne         |
+| laugh    | rir     | ridere    | smijati se  | smát se    | le      | lachen    | rire       | lachen    | ridere     | śmiać się   | rir        | râde       | смеяться [sméjat'sja]   | смејати се [smijati se]  | smiať sa    | reír       | skratta      |
+| listen   | listen  | audire    | slušati     | poslouchat | lytte   | luisteren | écouter    | hören     | ascoltare  | słuchać     | ouvir      | asculta    | слушать [slúšat']       | слушати [slušati]        | počúvať     | escuchar   | lyssna       |
+| man      | man     | vir       | čovjek      | muž        | mand    | man       | homme      | Mann      | uomo       | mężczyzna   | homem      | om         | мужчина [mužčina]       | човек [čovek]            | muž         | hombre     | man          |
+| name     | nom     | nomen     | ime         | jméno      | navn    | naam      | nom        | Name      | nome       | imię        | nome       | nume       | имя [im'ja]             | име [ime]                | meno        | nombre     | namn         |
+| never    | ni      | nunquam   | nikad       | nikdy      | aldrig  | nooit     | jamais     | nie       | mai        | nigdy       | nunca      | niciodată  | никогда [nikagdа]       | никад [nikad]            | nikdy       | nunca      | aldrig       |
+| new      | novo    | novus     | novi        | nový       | ny      | nieuw     | nouveau    | neu       | nuovo      | nowy        | novo       | nou        | новый [novyj]           | нов [nov]                | nový        | nuevo      | ny           |
+| next     | nekst   | sequente  | sljedeći    | další      | næste   | volgende  | prochain   | nächste   | successivo | następny    | próximo    | următor    | следующий [sledujúšij]  | следећи [sljedeći]       | nasledujúci | próximo    | nästa        |
+| noise    | melu    | strepitus | buka        | rámus      | støj    | lawaai    | bruit      | Lärm      | rumore     | hałas       | barulho    | zgomot     | шум [šum]               | бука [buka]              | rachot      | ruido      | buller       |
+| often    | often   | saepe     | često       | často      | ofte    | vaak      | souvent    | oft       | spesso     | często      | frequente  | des        | часто [často]           | често [često]            | často       | a menudo   | ofta         |
+| pair     | par     | par       | par         | pár        | par     | paar      | paire      | Paar      | coppia     | para        | par        | pereche    | пара [pára]             | пар [par]                | pár         | par        | par          |
+| pick     | pluk    | capere    | uzeti       | vzít       | tage    | nemen     | prendre    | nehmen    | prendere   | wziąć       | pegar      | lua        | брать [brat']           | узети [uzeti]            | vziať       | tomar      | ta           |
+| play     | spelen  | ludere    | igrati se   | hrát       | lege    | spelen    | jouer      | spielen   | giocare    | grać        | jogar      | a juca     | играть [igrat']         | играти [igrati]          | hrať        | jugar      | leka         |
+| room     | rom     | camera    | soba        | pokoj      | værelse | kamer     | chambre    | Zimmer    | stanza     | pokój       | quarto     | cameră     | комната [kómnata]       | соба [soba]              | izba        | habitación | rum          |
+| see      | vider   | videre    | vidjeti     | vidět      | se      | zien      | voir       | sehen     | vedere     | widzieć     | ver        | a vedea    | видеть [vídet']         | видети [videti]          | vidieť      | ver        | se           |
+| sell     | vender  | vendere   | prodati     | prodat     | sælge   | verkopen  | vendre     | verkaufen | vendere    | sprzedać    | vender     | a vinde    | продать [prodat']       | продати [prodati]        | predať      | vender     | sälja        |
+| sister   | sister  | soror     | sestra      | sestra     | søster  | zus       | sœur       | Schwester | sorella    | siostra     | irmã       | soră       | сестра [séstra]         | сестра [sestra]          | sestra      | hermana    | syster       |
+| sit      | sit     | sedere    | sjediti     | sedět      | sidde   | zitten    | s'asseoir  | sitzen    | sedere     | siedzieć    | sentar     | a se aşeza | сидеть [sidét']         | седети [sedeti]          | sedieť      | sentarse   | sitta        |
+| smile    | smil    | risus     | osmijeh     | úsměv      | smil    | glimlach  | sourire    | lächeln   | sorriso    | uśmiech     | sorrir     | zâmbet     | улыбка [ulýbka]         | осмех [osmeh]            | úsmev       | sonrisa    | le           |
+| speak    | parler  | loqui     | govoriti    | mluvit     | tale    | spreken   | parler     | sprechen  | parlare    | mówić       | falar      | a vorbi    | говорить [govorit']     | говорити [govoriti]      | hovoriť     | hablar     | tala         |
+| then     | then    | tunc      | onda        | pak        | så      | dan       | alors      | dann      | poi        | wtedy       | então      | atunci     | тогда [togdа]           | онда [onda]              | potom       | entonces   | då           |
+| think    | penser  | cogitare  | misliti     | myslet     | tænke   | denken    | penser     | denken    | pensare    | myśleć      | pensar     | a gândi    | думать [dumat']         | мислити [misliti]        | myslieť     | pensar     | tänka        |
+| walk     | walk    | ambulare  | hodati      | chodit     | gå      | lopen     | marcher    | gehen     | camminare  | chodzić     | andar      | a merge    | ходить [xodit']         | ходати [hodati]          | chodiť      | caminar    | gå           |
+| water    | water   | aqua      | voda        | voda       | vand    | water     | eau        | Wasser    | acqua      | woda        | água       | apă        | вода [voda]             | вода [voda]              | voda        | agua       | vatten       |
+| woman    | woman   | mulier    | žena        | žena       | kvinde  | vrouw     | femme      | Frau      | donna      | kobieta     | mulher     | femeie     | женщина [ženščina]      | жена [žena]              | žena        | mujer      | kvinna       |
+| work     | work    | laborare  | raditi      | pracovat   | arbejde | werken    | travailler | arbeiten  | lavorare   | pracować    | trabalhar  | a lucra    | работать [rabotat']     | радити [raditi]          | pracovať    | trabajar   | arbeta       |
+| write    | skriber | albus     | bijela      | bílý       | hvid    | wit       | blanc      | weiß      | bianco     | biały       | branco     | alb        | белый [bélyj]           | бела [bela]              | biela       | blanco     | vit          |
