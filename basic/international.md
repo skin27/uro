@@ -1,37 +1,37 @@
-| English     | Uro         |
-|-------------|-------------|
-| alcohol     | alkohol     |
-| aluminium   | aluminium   |
-| cafe        | kneipe      |
-| calendar    | kalendar    |
-| cigarette   | sigarette   |
-| club        | klub        |
-| cocktail    | koktail     |
-| hotel       | hotel       |
-| half        | half        |
-| influenza   | influenza   |
-| engineer    | enginir     |
-| gas         | gas         |
-| gram        | gram        |
-| jazz        | jez         |
-| macaroni    | makaroni    |
-| Museum      | museum      |
-| olive       | olif        |
-| piaon       | piano       |
-| police      | polis	    |
-| President   | president   |
-| radio       | radio       |
-| rum         | rum         |
-| salad       | salad       |
-| telephone   | telefon     |
-| theatre     | theater     |
-| torpedo     | torpedo     |
-| taxi        | taksi       |
-| toast       | toast       |
-| university  | universiti  | 
-| vanilla     | vanilla     |
-| violin      | violin      |
-| vodka		    | vodka       |
-| whisky      | whiski	    |
-| zebra       | zebra       |
-| Zoology     | zoo         |
+| English     | Uro (M)     | Uro (AI)     | Croatian        | Czech      | Danish      | Dutch        | French     | German      | Italian    | Polish      | Portuguese   | Romanian          | Russian                   | Serbian                   | Slovak     | Spanish     | Swedish     |
+|-------------|-------------|--------------|-----------------|------------|-------------|--------------|------------|-------------|------------|-------------|--------------|-------------------|---------------------------|---------------------------|------------|-------------|-------------|
+| alcohol     | alkohol     | alcohol      | alkohol         | alkohol    | alkohol     | alcohol      | alcool     | Alkohol     | alcol      | alkohol     | álcool       | alcool            | алкоголь [alkogól']       | алкохол [alkohol]         | alkohol    | alcohol     | alkohol     |
+| aluminium   | aluminium   | aluminium    | aluminijum      | hliník     | aluminium   | aluminium    | aluminium  | Aluminium   | alluminio  | aluminium   | alumínio     | aluminiu          | алюминий [alyuminiy]      | алуминијум [aluminijum]   | hliník     | aluminio    | aluminium   |
+| cafe        | kneipe      | cafea        | kavana          | kavárna    | café        | café         | café       | Café        | caffè      | kawiarnia   | café         | cafenea           | кафе [káfe]               | кафана [kafana]           | kaviareň   | café        | café        |
+| calendar    | kalendar    | calendar     | kalendar        | kalendář   | kalender    | kalender     | calendrier | Kalender    | calendario | kalendarz   | calendário   | calendar          | календарь [kalendár']     | календар [kalendar]       | kalendár   | calendario  | kalender    |
+| cigarette   | sigarette   | tabacco      | duhan           | tabák      | tobak       | tabak        | tabac      | Tabak       | tabacco    | tytoń       | tabaco       | tutun             | табак [tabák]             | тутун [tutan]             | tabak      | tabaco      | tobacco     |
+| club        | klub        | club         | klub            | klub       | klub        | club         | club       | Club        | club       | klub        | clube        | club              | клуб [klub]               | клуб [klub]               | klub       | club        | klubb       |
+| cocktail    | koktail     | cocktail     | koktel          | koktejl    | cocktail    | cocktail     | cocktail   | Cocktail    | cocktail   | koktajl     | coquetel     | cocktail          | коктейль [koktéjl']       | коктељ [koktel]           | koktail    | cóctel      | cocktail    |
+| hotel       | hotel       | hotel        | hotel           | hotel      | hotel       | hotel        | hôtel      | Hotel       | hotel      | hotel       | hotel        | hotel             | отель [otél']             | хотел [hotel]             | hotel      | hotel       | hotell      |
+| half        | half        | medietas     | pola            | polovina   | halv        | half         | moitié     | Hälfte      | mezzo      | połowa      | meio         | jumătate          | половина [polovinа]       | пола [pola]               | polovica   | medio       | halv        |
+| influenza   | influenza   | gripa        | gripa           | chřipka    | influenz    | influenza    | grippe     | Grippe      | influenza  | grypa       | gripe        | gripă             | грипп [gripp]             | грипа [gripa]             | chrípka    | gripe       | influens    |
+| engineer    | enginir     | ingeniator   | inženjer        | inženýr    | ingeniør    | ingenieur    | ingénieur  | Ingenieur   | ingegnere  | inżynier    | engenheiro   | inginer           | инженер [inžéner]         | инжењер [inženjer]        | inžinier   | ingeniero   | ingenjör    |
+| gas         | gas         | gas          | gas             | plyn       | gas         | gas          | gaz        | Gas         | gas        | gaz         | gás          | gaz               | газ [gaz]                 | газ [gaz]                 | plyn       | gas         | gas         |
+| gram        | gram        | gramma       | gram            | gram       | gram        | gram         | gramme     | Gramm       | grammo     | gram        | grama        | gram              | грамм [gramm]             | грам [gram]               | gram       | gramo       | gram        |
+| jazz        | jez         | jazz         | jazz            | jazz       | jazz        | jazz         | jazz       | Jazz        | jazz       | jazz        | jazz         | jazz              | джаз [džaz]               | джаз [džaz]               | jazz       | jazz        | jazz        |
+| macaroni    | makaroni    | macaroni     | makaroni        | těstoviny  | pasta       | pasta        | pâtes      | Nudeln      | pasta      | makaron     | massa        | paste             | макароны [makaróny]       | макарони [makaroni]       | cestoviny  | pasta       | pasta       |
+| Museum      | museum      | museum       | muzej           | muzeum     | museum      | museum       | musée      | Museum      | museo      | muzeum      | museu        | muzeu             | музей [muzéj]             | музеј [muzej]             | múzeum     | museo       | museum      |
+| olive       | olif        | oliva        | maslina         | olivový    | oliven      | olijf        | olive      | Olive       | oliva      | oliwa       | azeitona     | măsline           | олива [olíva]             | маслина [maslina]         | olivový    | oliva       | olja        |
+| piaon       | piano       | pianino      | pijano          | klavír     | klaver      | klavier      | piano      | Klavier     | piano      | pianino     | piano        | pian              | фортепиано [fortepiáno]   | пианино [pianino]         | klavír     | piano       | piano       |
+| police      | polis	    | policia      | policija        | policie    | politi      | politie      | police     | Polizei     | polizia    | policja     | polícia      | poliţie           | полиция [polícija]        | полиција [policija]       | polícia    | policía     | polis       |
+| President   | president   | presidente   | predsjednik     | prezident  | præsident   | president    | président  | Präsident   | presidente | prezydent   | presidente   | preşedinte        | президент [prezident]     | председник [predsednik]   | prezident  | presidente  | president   |
+| radio       | radio       | radio        | radio           | rádio      | radio       | radio        | radio      | Radio       | radio      | radio       | rádio        | radio             | радио [rádio]             | радио [radio]             | rádio      | radio       | radio       |
+| rum         | rum         | rumma        | rum             | rum        | rom         | rum          | rhum       | Rum         | rum        | rum         | rum          | rom               | ром [rom]                 | рум [rum]                 | rum        | ron         | rom         |
+| salad       | salad       | salata       | salata          | salát      | salat       | salade       | salade     | Salat       | insalata   | sałata      | salada       | salată            | салат [salat]             | салата [salata]           | šalát      | ensalada    | sallad      |
+| telephone   | telefon     | telefono     | telefon         | telefon    | telefon     | telefoon     | téléphone  | Telefon     | telefono   | telefon     | telefone     | telefon           | телефон [télefon]         | телефон [telefon]         | telefón    | teléfono    | telefon     |
+| theatre     | theater     | teatro       | pozorište       | divadlo    | teater      | theater      | théâtre    | Theater     | teatro     | teatr       | teatro       | teatru            | театр [téatr]             | театар [teatar]           | divadlo    | teatro      | teater      |
+| torpedo     | torpedo     | torpedine    | torpeda         | torpédo    | torpedoen   | torpedo      | torpille   | Torpedo     | torpedine  | torpeda     | torpeda      | torpedou          | торпеда [torpéda]         | торпеда [torpeda]         | torpédo    | torpedo     | torped      |
+| taxi        | taksi       | taxi         | taksi           | taxi       | taxi        | taxi         | taxi       | Taxi        | taxi       | taksówka    | táxi         | taxi              | такси [táksi]             | такси [taksi]             | taxi       | taxi        | taxi        |
+| toast       | toast       | toast        | tost            | toast      | toast       | toast        | toast      | Toast       | toast      | tost        | torrada      | toast             | тост [tost]               | тост [tost]               | toast      | tost        | toast       |
+| university  | universiti  | universitato | univerzitet     | univerzita | universitet | universiteit | université | Universität | università | uniwersytet | universidade | universitate      | университет [universitét] | универзитет [univerzitet] | univerzita | universidad | universitet | 
+| vanilla     | vanilla     | vanilia      | vanilija        | vanilka    | vanilje     | vanille      | vanille    | Vanille     | vaniglia   | wanilia     | baunilha     | vanilie           | ваниль [vaníl']           | ванила [vanila]           | vanilka    | vainilla    | vanilj      |
+| violin      | violin      | violin       | violina         | housle     | violin      | viool        | violon     | Violine     | violino    | skrzypce    | violino      | vioară            | скрипка [skripká]         | виолина [violina]         | husle      | violín      | violin      |
+| vodka		  | vodka       | vodka        | vodka           | vodka      | vodka       | vodka        | vodka      | Wodka       | vodka      | wódka       | vodka        | votcă             | водка [vódka]             | водка [vodka]             | vodka      | vodka       | vodka       |
+| whisky      | whiski	    | whisky       | viski           | whisky     | whisky      | whisky       | whisky     | Whiskey     | whisky     | whisky      | whisky       | whisky            | виски [viski]             | виски [viski]             | whisky     | whisky      | whisky      |
+| zebra       | zebra       | zebro        | žirafa          | zebra      | zebra       | zebra        | zèbre      | Zebra       | zebra      | zebra       | zebra        | zebru             | зебра [zébra]             | жирафа [žirafa]           | zebra      | cebra       | zebra       |
+| Zoo		  | zoo         | zoologio     | životinjski vrt | zoo        | zoo         | zoo          | zoo        | Zoo         | zoo        | zoo         | zoológico    | grădina zoologică | зоопарк [zopark]          | заоварник [zaovarnik]     | zoo        | zoológico   | zoo         |
