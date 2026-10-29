@@ -33,6 +33,7 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - **Breaking, negation**: `not` before the verb (`Je not vider.`), `no` as the answer, `not … not` for *neither … nor*. `ne` is gone. `nikdi` (never, was `nunka`).
 - `mashina` (machine), `magazin` (magazine), `manajement` (management), `matrimonio` (marriage), `afer` (matter), `messager` (message), `monni` (money), `monat` (month), `matin` (morning), `noht` (night), `biuro` (office).
 - `festa` (party), `pazient` (patient), `performer` / `performanz` (perform, performance), `fizikal` (physical), `plaza` (place, site; `in plaza fon`), `polizia` (police), `properti` (property), `objektiv` (purpose, the same word as goal).
+- `pronto` (ready), `rekonozer` (recognize), `resercher` (research), `resurs` (resource), `rich` (rich), `strada` (road; *way* stays `weg`), `dir` (say, tell, was `sag`), `skena` (scene, stage), `sijentia` / `sijentist` (science, scientist), `shaker` (shake); *simply* uses the bare adverb `simpel`.
 
 ---
 

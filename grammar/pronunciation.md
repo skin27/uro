@@ -73,7 +73,7 @@ New words, especially international ones, are adapted with these rules (see also
 | Source spelling | Uro | Example |
 |-----------------|-----|---------|
 | `c`, `ck`, `ch`, `q` pronounced /k/ | `k` | electric → `elektrik`, club → `klub`, cocktail → `koktail` |
-| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarette`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sijensa`), and *-tion* / *-sion* become `-zion` (nation → `nazion`) |
+| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarette`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sijentia`), and *-tion* / *-sion* become `-zion` (nation → `nazion`) |
 | `x` | `ks` | six → `siks`, taxi → `taksi` |
 | `qu` | `ku` | quality → `kualiti` |
 | `y` at the start of a word | `j` | yellow → `jellow` |

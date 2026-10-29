@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 68 of 99 done** (next: *read*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 78 of 99 done** (next: *skin*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -690,3 +690,103 @@ Status: **batch 68 of 99 done** (next: *read*). Batches 4 onward are reviewed in
 | 68 | rate | rata | kept |
 | 68 | rather | genug | kept |
 | 68 | reach | ariver a | kept |
+| 69 | read | lezer | kept |
+| 69 | ready | pronto | changed (was gotov) |
+| 69 | real | real | kept |
+| 69 | reality | realiti | kept |
+| 69 | realize | realizer | kept |
+| 69 | really | realli | kept |
+| 69 | reason | razon | kept |
+| 69 | receive | reziper | kept |
+| 69 | recent | rezent | kept |
+| 69 | recently | rezentli | kept |
+| 70 | recognize | rekonozer | changed (was rekenner; replaces rekenner) |
+| 70 | record | rekord | kept |
+| 70 | red | rot | kept |
+| 70 | reduce | reduzer | kept |
+| 70 | reflect | reflekter | kept |
+| 70 | region | region | kept |
+| 70 | relate | relater | kept |
+| 70 | relationship | relazion | kept |
+| 70 | religious | religios | kept |
+| 70 | remain | rester | kept |
+| 71 | remember | memorer | kept |
+| 71 | remove | remover | kept |
+| 71 | report | raport | kept |
+| 71 | represent | representer | kept |
+| 71 | require | treb | kept |
+| 71 | research | resercher | changed (was reserch; note: -er is the verb ending) |
+| 71 | resource | resurs | changed (was resurz; s kept, like Russian/Swedish resurs (an exception to c → z)) |
+| 71 | respond | responder | kept |
+| 71 | response | respons | kept |
+| 71 | responsibility | responsabiliti | kept |
+| 72 | rest | repos | kept |
+| 72 | result | rezultat | kept |
+| 72 | return | returner | kept |
+| 72 | reveal | reveler | kept |
+| 72 | rich | rich | changed (was rik) |
+| 72 | right (side) | pravo | kept |
+| 72 | rise | lever se | kept |
+| 72 | risk | risk | kept |
+| 72 | road | strada | changed (was weg; *way* and *away* stay `weg`) |
+| 72 | rock | petra | kept |
+| 73 | role | rol | kept |
+| 73 | room | rom | kept |
+| 73 | rule | regula | kept |
+| 73 | run | korer | kept |
+| 73 | safe | sekur | kept |
+| 73 | same | idem | kept |
+| 73 | save | spar | kept |
+| 73 | say | dir | changed (was sag; *tell* follows) |
+| 73 | scene | skena | changed (was sena; *stage* follows) |
+| 73 | school | skola | kept |
+| 74 | science | sijentia | changed (was sijensa; chosen as *sientia*, ije because ie is /i/) |
+| 74 | scientist | sijentist | changed (was sijensist; chosen as *sientist*, ije because ie is /i/) |
+| 74 | score | skor | kept |
+| 74 | sea | mare | kept |
+| 74 | season | sezon | kept |
+| 74 | seat | sit | kept |
+| 74 | second (2nd) | sekund | kept |
+| 74 | section | sekzion | kept |
+| 74 | security | sekuriti | kept |
+| 74 | see | vider | kept |
+| 75 | seek | serch | kept |
+| 75 | seem | aparer | kept |
+| 75 | sell | vender | kept |
+| 75 | send | send | kept |
+| 75 | senior | senior | kept |
+| 75 | sense | sens | kept |
+| 75 | series | serija | kept |
+| 75 | serious | serios | kept |
+| 75 | serve | server | kept |
+| 75 | service | serviz | kept |
+| 76 | set | leger | kept |
+| 76 | seven | set | kept |
+| 76 | several | vari | kept |
+| 76 | sex | seks | kept |
+| 76 | sexual | seksual | kept |
+| 76 | shake | shaker | changed (was shak) |
+| 76 | share | deler | kept |
+| 76 | she | ona | kept |
+| 76 | shoot | streler | kept |
+| 76 | short | kort | kept |
+| 77 | shot | strel | kept |
+| 77 | should | dever | kept |
+| 77 | shoulder | shulder | kept |
+| 77 | show | mostrer | kept |
+| 77 | side | lado | kept |
+| 77 | sign | signer | kept |
+| 77 | significant | signifikant | kept |
+| 77 | similar | similar | kept |
+| 77 | simple | simpel | kept |
+| 77 | simply | simpel | changed (was simpelli; the bare adverb variant (§6)) |
+| 78 | since | od kando | kept |
+| 78 | sing | sing | kept |
+| 78 | single | singel | kept |
+| 78 | sister | sister | kept |
+| 78 | sit | sit | kept |
+| 78 | site | plaza | kept |
+| 78 | situation | situazion | kept |
+| 78 | six | siks | kept |
+| 78 | size | dimenzion | kept |
+| 78 | skill | abiliti | kept |
