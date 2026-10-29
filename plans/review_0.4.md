@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 78 of 99 done** (next: *skin*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 88 of 99 done** (next: *three*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -790,3 +790,103 @@ Status: **batch 78 of 99 done** (next: *skin*). Batches 4 onward are reviewed in
 | 78 | six | siks | kept |
 | 78 | size | dimenzion | kept |
 | 78 | skill | abiliti | kept |
+| 79 | skin | skin | changed (was pel; English (rule 4)) |
+| 79 | small | malen | kept |
+| 79 | smile | smil | kept |
+| 79 | so | so | kept |
+| 79 | social | sozial | kept |
+| 79 | society | sozijeti | kept |
+| 79 | soldier | soldat | kept |
+| 79 | some | som | kept |
+| 79 | somebody | somun | kept |
+| 79 | someone | somun | kept |
+| 80 | something | somting | kept |
+| 80 | sometimes | som temps | kept |
+| 80 | son | son | kept |
+| 80 | song | song | kept |
+| 80 | soon | in kort | kept |
+| 80 | sort | sort | kept |
+| 80 | sound | klang | changed (was zvuk) |
+| 80 | source | surza | changed (was surz) |
+| 80 | south | sud | kept |
+| 80 | southern | sud | kept |
+| 81 | space | spazio | kept |
+| 81 | speak | parler | kept |
+| 81 | special | spezial | kept |
+| 81 | specific | spezifik | kept |
+| 81 | speech | diskurs | kept |
+| 81 | spend | spend | kept |
+| 81 | sport | sport | kept |
+| 81 | spring | spring | kept |
+| 81 | staff | personal | kept |
+| 81 | stage (phase) | etapa | changed (was faza) |
+| 82 | stand | stand | kept |
+| 82 | standard | standard | kept |
+| 82 | star | ster | kept |
+| 82 | start | start | kept |
+| 82 | state | stat | kept |
+| 82 | statement | deklarazion | kept |
+| 82 | station | stazion | kept |
+| 82 | stay | rester | kept |
+| 82 | step | pas | kept |
+| 82 | still | ankora | changed (was ankor; *yet* follows) |
+| 83 | stock | stok | kept |
+| 83 | stop | stop | kept |
+| 83 | store | butik | kept |
+| 83 | story | histori | kept |
+| 83 | strategy | strategi | kept |
+| 83 | street | strada | kept |
+| 83 | strong | sterk | kept |
+| 83 | structure | struktur | kept |
+| 83 | student | student | kept |
+| 83 | study | studi | kept |
+| 84 | stuff | ting | kept |
+| 84 | style | stil | kept |
+| 84 | subject | tema | kept |
+| 84 | success | sukzes | kept |
+| 84 | successful | mit sukzes | kept |
+| 84 | such | tal | kept |
+| 84 | suddenly | subitli | kept |
+| 84 | suffer | sufrer | kept |
+| 84 | suggest | sugerer | kept |
+| 84 | summer | lato | kept |
+| 85 | support | suporter | kept |
+| 85 | sure | sekur | kept |
+| 85 | surface | surfaz | kept |
+| 85 | system | sistem | kept |
+| 85 | table | tabel | kept |
+| 85 | take | nemer | kept |
+| 85 | talk | parler | kept |
+| 85 | task | task | kept |
+| 85 | tax | taksa | kept |
+| 85 | teach | instruer | kept |
+| 86 | teacher | instruktor | kept |
+| 86 | team | ekip | kept |
+| 86 | technology | teknologi | kept |
+| 86 | television | televizion | kept |
+| 86 | tell | dir | kept |
+| 86 | ten | ten | kept |
+| 86 | tend | tender | kept |
+| 86 | term | termin | kept |
+| 86 | test | test | kept |
+| 86 | than | niz | changed (was ke; the comparison now uses niz) |
+| 87 | thank | dank | kept |
+| 87 | that (conjunction) | dat | changed (was ke; also the demonstrative that; ke stays for relative clauses) |
+| 87 | the | de | kept |
+| 87 | their | oni | kept |
+| 87 | them | oni | kept |
+| 87 | themselves | se | kept |
+| 87 | then | then | kept |
+| 87 | theory | teori | kept |
+| 87 | there | tam | kept |
+| 87 | these | dis | kept |
+| 88 | they | oni | kept |
+| 88 | thing | ting | kept |
+| 88 | think | penser | kept |
+| 88 | third | tride | kept |
+| 88 | this | dis | kept |
+| 88 | those | dat | kept |
+| 88 | though | mem if | kept |
+| 88 | thought | pens | kept |
+| 88 | thousand | mil | kept |
+| 88 | threat | menaz | kept |

@@ -10,7 +10,7 @@ De wind i de sol dired: "De prim ke fakter de man open su mantel, ar de plus ste
 De wind blased so sterk jak on kan, ale de man holded su mantel plus sterk rund se.
 Then de wind stoped.
 Then de sol komed, warm i bel, i de man direkt opened su mantel.
-Pro dis, de wind haf dir ke de sol ar de plus sterk fon de du.
+Pro dis, de wind haf dir dat de sol ar de plus sterk fon de du.
 
 ## English
 
@@ -31,7 +31,7 @@ Therefore the wind said that the sun was the strongest of the two.
 | `Ki fon we` | question word `ki` + preposition `fon` (of) + `we` |
 | `plus sterk` / `de plus sterk` | analytic comparison |
 | `so sterk jak` | equality: *so … jak* |
-| `de prim ke …` | relative clause with the universal `ke` |
+| `de prim ke …` | relative clause with `ke` |
 | `fakter de man open` | causative: `fakter` + object + bare verb |
 | `rund se` | reflexive `se` after a preposition |
 | `Pro dis` | transparent phrase "for this" = therefore |

@@ -17,7 +17,7 @@ Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spell
   - *Example*: `un novo dom` ("a new house")
   - *Example*: `de bon libres` ("the good books")
 - **Subordinate clauses keep `SVO`**. The verb never moves to the end (unlike German or Dutch).
-  - *Example*: `Je kenner ke on ar in de dom.` ("I know that he is in the house.")
+  - *Example*: `Je kenner dat on ar in de dom.` ("I know that he is in the house.")
 - **Adverbs**: Manner adverbs follow the verb (or its object). Time and place adverbs go at the start or the end of the sentence.
   - *Example*: `On parler rapid.` ("He speaks fast.")
   - *Example*: `Morgen we go a Berlin.` / `We go a Berlin morgen.` ("Tomorrow we go to Berlin.")
@@ -129,9 +129,9 @@ Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endi
 
 | Degree | Uro | Example |
 |--------|-----|---------|
-| More … (than) | `plus` + Adj (+ `ke` …) | `Mi auto ar plus rapid ke tu auto.` |
+| More … (than) | `plus` + Adj (+ `niz` …) | `Mi auto ar plus rapid niz tu auto.` |
 | Most … | `de plus` + Adj | `de plus bel ziti` |
-| Less … (than) | `min` + Adj (+ `ke` …) | `Dis libre ar min dorog.` |
+| Less … (than) | `min` + Adj (+ `niz` …) | `Dis libre ar min dorog.` |
 | Least … | `de minst` + Adj | `de minst difizil frag` |
 | As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
@@ -313,7 +313,9 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `o` | or | `kafe o te?` |
 | `ale` | but | `Je voler go, ale je mus work.` |
 | `if` | if | `If ju haf temp, we go a de museum.` |
-| `ke` | that / which / who (relative) / than | see below |
+| `dat` | that | `Je penser dat on ar hir.` (Dutch *dat*, German *dass*) |
+| `ke` | which / who (relative) | see below |
+| `niz` | than | `On ar plus grand niz je.` (Polish *niż*, Czech *než*) |
 | `pro ke` | because | `We rester in de dom, pro ke to ar kold.` |
 | `kando` | when | `Kando je kom, we jester.` |
 | `jak` | as, like | `On parler jak un enginir.` |
@@ -329,11 +331,11 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 - Like `pro ke`, the compound conjunctions are built from a preposition or adverb + a conjunction, as in French *pendant que* (`durant ke`), Italian *da quando*, Polish *od kiedy* (`od kando`) and Danish *selv om* (`mem if`).
 - *However* at the start of a sentence is `ale` (but).
 
-### The universal `ke`
-A single subordinator, **`ke`**, introduces every kind of subordinate clause. It works like Romance *que/che/că* and Polish/Czech *że/že*:
-- **That-clause**: `Je penser ke on ar hir.` ("I think that he is here.")
-- **Relative clause**: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.")
-- **Comparison**: `On ar plus grand ke je.` ("He is taller than me.")
+### Subordinate clauses: `dat`, `ke`, `niz`
+Three short words introduce subordinate clauses:
+- **That-clause**: `dat`, like Dutch *dat* and German *dass*: `Je penser dat on ar hir.` ("I think that he is here.") `dat` is also the demonstrative *that*, as in Dutch and English.
+- **Relative clause**: `ke`, like Romance *que/che*: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.") `ke` also stays in the compounds `pro ke` (because), `durant ke` (while) and `al ke` (whatever).
+- **Comparison**: `niz`, like Polish *niż* and Czech *než*: `On ar plus grand niz je.` ("He is taller than me.")
 
 Indirect questions use the question word directly: `Je not kenner wo on ar.` ("I don't know where he is.")
 
@@ -374,7 +376,7 @@ Short function words are reserved. A new content word must not take any of these
 | Negation & answers | `not`, `no`, `ja` |
 | Prepositions | `in`, `fon`, `od`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
 | Direction adverbs | `ab` (and `op`, above) |
-| Conjunctions | `i`, `o`, `ale`, `if`, `ke`, `kando`, `jak` |
+| Conjunctions | `i`, `o`, `ale`, `if`, `dat`, `ke`, `niz`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
 
 ---
@@ -412,8 +414,8 @@ VerbChain      ::= Verb (Verb)*
 Verb           ::= BaseVerb | BaseVerb "ed"
 Complement     ::= NP | AdjP | PP | Adv | ThatClause | Comparison | Causative
 Causative      ::= NP VerbChain (Complement)*
-ThatClause     ::= "ke" Clause
-Comparison     ::= "ke" NP | "jak" NP
+ThatClause     ::= "dat" Clause
+Comparison     ::= "niz" NP | "jak" NP
 Adv            ::= Adj | Adj "li" | TimeAdv | PlaceAdv | DirAdv
 DirAdv         ::= "op" | "ab" | "weg" | "retur" | "avant"
 
