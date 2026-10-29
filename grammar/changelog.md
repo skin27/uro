@@ -10,7 +10,7 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 ---
 
-## 0.4.0 (in progress)
+## 0.4.0
 
 Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v0.4.md)). Coverage is measured with `python tools/coverage.py`.
 
@@ -21,6 +21,9 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 | M2 verbs | 51.5% |
 | M3 adjectives & adverbs | 62.9% |
 | M4 everyday nouns | 76.2% |
+| M5 international nouns | 98.8% |
+
+The remaining 12 words are left out on purpose (*American, Congress, Democrat, Republican, attorney, yard, PM, Mr, Mrs, oh, yeah, ok*).
 
 ### Tooling (M0)
 - New `tools/coverage.py` and `tools/top1000.txt` (the EF top 1000 English words).
@@ -38,6 +41,15 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 - Question words: `ki` is also *whom*; `fon ki` is *whose*.
 - Other adverbs: `unka` (ever, pairs with `nunka`), `just` (just), `un temp` (once), `samen` (together), `solo` (alone, also *only*), `bon` / `bonli` (well).
 - The reserved word list and the EBNF include all new function words.
+
+### International nouns (M5)
+- New tables: [`society.md`](../basic/society.md) (35), [`work.md`](../basic/work.md) (26), [`media.md`](../basic/media.md) (42), [`leisure.md`](../basic/leisure.md) (17) and [`abstract.md`](../basic/abstract.md) (104), plus `kolor` in `colours.md`.
+- Most words follow [`word_formation.md`](word_formation.md) §4: `informasion`, `sekuriti`, `teknologi`, `sistem`, `rezultat`, `kultur`.
+- Nouns from Uro verbs by §3 (drop `-er`): `kres` (growth), `perd` (loss), `pens` (thought), `strel` (shot), `vid` (view), `spel` (game), `reserch` (research, *re-* + `serch`).
+- Shared with an existing word, as in the main languages: `politik` (politics, policy, political), `histori` (history, story), `proses` (process, trial), `eleksion` (election, choice), `mir` (world, peace, like Russian *mir*), `film` (film, movie), `work` (work, job), `sorg` (worry, care), `problem` (problem, trouble).
+- Two rows for two meanings: *party* (`parti` / `fest`), *race* (`korsa` / `rasa`), *rest* (`rest` / `repos`).
+- New spelling rule in [`pronunciation.md`](pronunciation.md): *i* + *e* in two syllables is written `ije`, because `ie` is /i/. Earlier words were respelled: `klijent`, `pasijent`, `sijensist`, `proprijetar`, `ambijental`; new words use it too (`sosijeti`, `eksperijens`, `karijera`, `serija`).
+- Fixed the 0.3 open point on Cyrillic letters in Latin transliterations (`[vrag]`, `[sestra]`, `[nikagda]`, `[togda]`, `[polovina]`).
 
 ### Everyday nouns (M4)
 - New tables: [`people.md`](../basic/people.md) (44 rows), [`home.md`](../basic/home.md) (28), [`places.md`](../basic/places.md) (30) and [`health.md`](../basic/health.md) (10). Time words go to `nature_time.md` (13), body parts to `food_body.md` (6), and `sentiment`, `kalor`, `tref`, `peso` to `everyday.md`.

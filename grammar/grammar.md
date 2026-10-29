@@ -4,7 +4,7 @@ Uro is designed with an analytical, rule-based structure inspired by European la
 
 Where natural European languages diverge, Uro allows **at most two valid variants** for a grammatical construction.
 
-Version: **0.4.0** (in progress, see [`changelog.md`](changelog.md)). Pronunciation and spelling: [`pronunciation.md`](pronunciation.md). Word formation: [`word_formation.md`](word_formation.md).
+Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spelling: [`pronunciation.md`](pronunciation.md). Word formation: [`word_formation.md`](word_formation.md).
 
 ---
 

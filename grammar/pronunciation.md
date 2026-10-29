@@ -85,6 +85,7 @@ New words, especially international ones, are adapted with these rules (see also
 | `eau` | `o` | |
 | `-le` at the end | `-el` | example → `eksampel`, uncle → `unkel`, apple → `apel` |
 | double letter at the end | single | process → `proses`, ball → `bal` |
+| *i* + *e* in two syllables (*client*, *patient*, *society*) | `ije`, because `ie` is /i/ | client → `klijent`, patient → `pasijent`, society → `sosijeti` (like Croatian *klijent*, *pacijent*) |
 
 ---
 

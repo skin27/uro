@@ -55,6 +55,11 @@ Examples of the vocabulary can be found in the various markdown files:
   - [`basic/home.md`](basic/home.md) — Home, things & materials
   - [`basic/places.md`](basic/places.md) — Places & directions
   - [`basic/health.md`](basic/health.md) — Health
+  - [`basic/society.md`](basic/society.md) — Society, politics & law
+  - [`basic/work.md`](basic/work.md) — Business, money & work
+  - [`basic/media.md`](basic/media.md) — Knowledge, media & technology
+  - [`basic/leisure.md`](basic/leisure.md) — Arts, sport & leisure
+  - [`basic/abstract.md`](basic/abstract.md) — Abstract nouns
   - [`basic/phrases.md`](basic/phrases.md) — Greetings & useful phrases
   - [`basic/adjectives.md`](basic/adjectives.md) — Common adjectives & opposites
   - [`basic/adjectives_international.md`](basic/adjectives_international.md) — International adjectives (`-al`, `-ik`, `-iv`, …)
