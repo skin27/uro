@@ -50,7 +50,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | Uro | Literally | English | Same pattern in |
 |-----|-----------|---------|-----------------|
 | `dis den` | this day | today | Russian *se-godnja*, Dutch *van-daag*, English *to-day* |
-| `fon novo` | from new | again | Polish *od nowa*, Czech *z-novu*, Portuguese *de novo*, German *von neuem* |
+| `od novo` | from new | again | Polish *od nowa*, Czech *z-novu*, Portuguese *de novo*, German *von neuem* |
 | `pro ke` | for what | why / because | Italian *perché*, Spanish *por qué*, Czech *pro-č* |
 | `pro dis` | for this | therefore | Spanish *por eso*, Polish *dlatego* |
 | `kan ar` | can be | maybe | Polish *może*, Romanian *poate*, English *may be* |
@@ -60,7 +60,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `in plaz fon` | in place of | instead of | Dutch *in plaats van*, Danish *i stedet for*, Romanian *în loc de*, Russian *vmesto*, Croatian *umjesto* |
 | `mem if` | even if | although | Danish *selv om*, French *même si*, Czech *i když*, Croatian *iako* |
 | `durant ke` | during that | while | French *pendant que*, Spanish *mientras que* |
-| `fon kando` | from when | since | Italian *da quando*, Polish *od kiedy*, Croatian *otkad* |
+| `od kando` | from when | since | Italian *da quando*, Polish *od kiedy*, Croatian *otkad* |
 | `un temp` | one time | once | Spanish *una vez*, French *une fois*, German *einmal*, Swedish *en gång* |
 | `un alter` | an other | another | French *un autre*, Italian *un altro*, German *ein anderer* |
 | `al ke` | all that | whatever | French *tout ce que*, German *alles, was*, Polish *wszystko, co* |
@@ -116,7 +116,7 @@ Most verbs that Europeans share come from Latin. They are found as *accepter / a
 - English *-ize* becomes `-izer`: realize → `realizer`.
 - The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `dezider` / `dezision`, `kreater` / `kreasion`, `produzer` / `produksion`.
 
-A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `fang`, `folg`, `forget`, `hang`, `sing`, `spend`, `start`.
+A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `fang`, `find`, `forget`, `help`, `sing`, `spend`, `start`.
 
 ### One verb, several English verbs
 

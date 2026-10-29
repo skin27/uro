@@ -270,9 +270,10 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | Uro | English | Example |
 |-----|---------|---------|
 | `in` | in, into | `in de dom` |
-| `fon` | of, from | `de dom fon mi papa` ("my father's house"); `Je kom fon Polska.` |
+| `fon` | of | `de dom fon mi papa` ("my father's house") |
+| `od` | from | `Je kom od Polska.` (Slavic *od*, *ot*) |
 | `a` | to (direction, recipient) | `We go a Paris.`; `Je dar de libre a ju.` |
-| `op` | on, onto | `de libre op de stol` |
+| `op` | on, onto | `de libre op de tabel` |
 | `mit` / `bez` | with / without | `kafe mit melk`, `kafe bez suker` |
 | `pro` | for | `un libre pro ju` |
 | `pre` / `post` | before / after | `pre de den`, `post de work` |
@@ -318,14 +319,14 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `jak` | as, like | `On parler jak un enginir.` |
 | `mem if` | although, even if | `We go, mem if to ar kold.` |
 | `durant ke` | while | `Je lezer durant ke ju work.` |
-| `fon kando` | since (time) | `Fon kando je ar hir, …` |
+| `od kando` | since (time) | `Od kando je ar hir, …` |
 | `if` | whether | `Je ne znar if on kom.` |
 | `o … o` | either … or | `o kafe o te` |
 | `ne … ne` | neither … nor | `ne kafe ne te` |
 | `ambo … i` | both … and | `ambo papa i mama` |
 | `pro dis` | therefore, thus | `To ar kold, pro dis we rester in de dom.` |
 
-- Like `pro ke`, the compound conjunctions are built from a preposition or adverb + a conjunction, as in French *pendant que* (`durant ke`), Italian *da quando* (`fon kando`) and Danish *selv om* (`mem if`).
+- Like `pro ke`, the compound conjunctions are built from a preposition or adverb + a conjunction, as in French *pendant que* (`durant ke`), Italian *da quando*, Polish *od kiedy* (`od kando`) and Danish *selv om* (`mem if`).
 - *However* at the start of a sentence is `ale` (but).
 
 ### The universal `ke`
@@ -371,7 +372,7 @@ Short function words are reserved. A new content word must not take any of these
 | Degree | `mer`, `mest`, `min`, `minst`, `so`, `trop`, `skoro`, `mem` |
 | Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb`, `wud`, `las` |
 | Negation & answers | `ne`, `ja` |
-| Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
+| Prepositions | `in`, `fon`, `od`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
 | Direction adverbs | `ab` (and `op`, above) |
 | Conjunctions | `i`, `o`, `ale`, `if`, `ke`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
@@ -399,7 +400,7 @@ Pronoun        ::= "je" | "me" | "ju" | "on" | "ona" | "to" | "it" | "we" | "nos
 AdjP           ::= (Degree)? Adj
 Degree         ::= "mer" | "mest" | "min" | "minst" | "mult" | "so" | "trop" | "genug" | "skoro" | "mem"
 PP             ::= Prep NP
-Prep           ::= "in" | "fon" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
+Prep           ::= "in" | "fon" | "od" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
                  | "rund" | "eks" | "za" | "durant" | "trans" | "langs" | "vers"
                  | "trots" | "segun" | "inklusiv" | "in plaz fon"
@@ -417,6 +418,6 @@ Adv            ::= Adj | Adj "li" | TimeAdv | PlaceAdv | DirAdv
 DirAdv         ::= "op" | "ab" | "weg" | "retur" | "avant"
 
 Conj           ::= "i" | "o" | "ale" | "if" | "pro ke" | "kando" | "pro dis"
-                 | "mem if" | "durant ke" | "fon kando"
+                 | "mem if" | "durant ke" | "od kando"
 QWord          ::= "ki" | "ke" | "wo" | "kando" | "komo" | "kuanto" | "kual" | "pro ke"
 ```

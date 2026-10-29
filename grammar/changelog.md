@@ -25,6 +25,8 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - Other words: `kariera` (career, was `karijera`), `zenturi` (century, was `sekul`), `zertan` (certain, was `sert`), `stul` (chair, was `stol`), `okasion` (chance, was `shans`), `lader` (charge, was `lad`), `reklamer` (claim, was `afirmer`), `fermer` (close, was `kloz`).
 - `delikt` (crime, was `krimen`), `rezer` (cut, was `tajer`), `design` (design, was `dizain`), `trots` (despite, was `malgre`; the reserved list and the EBNF are updated).
 - `hund` (dog, was `dog`), `drop` (drop, was `las fal`), `emploje` (employee; *worker* stays `workor`), `enter` (enter, was `entrer`), `entero` (entire; *whole* stays `hel`), `medio` (environment, was `ambijent`), `ekologik` (environmental, was `ambijental`), `etabler` (establish, was `stabiler`), `ever` (ever, was `unka`), `eksist` (exist, was `eksister`).
+- `pole` (field, was `kamp`), `flai` (fly, was `flig`), `sleder` (follow, was `folg`), `reziper` (get, receive, was `reziver`), `government` (was `guvern`), `terra` (ground, earth, was `tera`), `viser` (hang, was `hang`), `herz` (heart, was `kord`).
+- New preposition `od` (from); `fon` now means only *of*. `od kando` (since) and `od novo` (again) follow. The reserved list and the EBNF are updated.
 
 ---
 

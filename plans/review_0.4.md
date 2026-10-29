@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 28 of 99 done** (next: *expert*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 38 of 99 done** (next: *history*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -288,3 +288,103 @@ Status: **batch 28 of 99 done** (next: *expert*). Batches 4 onward are reviewed 
 | 28 | exist | eksist | changed (was eksister) |
 | 28 | expect | ekspekter | kept |
 | 28 | experience | eksperijenz | kept |
+| 29 | expert | ekspert | kept |
+| 29 | explain | ekspliker | kept |
+| 29 | eye | oko | kept |
+| 29 | face | faz | kept |
+| 29 | fact | fakt | kept |
+| 29 | factor | faktor | kept |
+| 29 | fail | fail | kept |
+| 29 | fall | fal | kept |
+| 29 | family | famili | kept |
+| 29 | far | daleko | kept |
+| 30 | fast | rapid | kept |
+| 30 | father | papa | kept |
+| 30 | fear | strah | kept |
+| 30 | federal | federal | kept |
+| 30 | feel | senter | kept |
+| 30 | feeling | sentiment | kept |
+| 30 | few | poko | kept |
+| 30 | field | pole | changed (was kamp) |
+| 30 | fight | kombater | kept |
+| 30 | figure | figur | kept |
+| 31 | fill | plener | kept |
+| 31 | film | film | kept |
+| 31 | final | final | kept |
+| 31 | finally | finalli | kept |
+| 31 | financial | finanzial | kept |
+| 31 | find | find | kept |
+| 31 | fine | fain | kept |
+| 31 | finger | finger | kept |
+| 31 | finish | finer | kept |
+| 31 | fire | feuer | kept |
+| 32 | firm | firma | kept |
+| 32 | first | prim | kept |
+| 32 | fish | fisk | kept |
+| 32 | five | fif | kept |
+| 32 | floor | pod | kept |
+| 32 | fly | flai | changed (was flig) |
+| 32 | focus | fokus | kept |
+| 32 | follow | sleder | changed (was folg) |
+| 32 | food | jedlo | kept |
+| 32 | foot | fut | kept |
+| 33 | for | pro | kept |
+| 33 | force | forz | kept |
+| 33 | foreign | fremd | kept |
+| 33 | forget | forget | kept |
+| 33 | form | form | kept |
+| 33 | former | eks- | kept |
+| 33 | forward | avant | kept |
+| 33 | four | fir | kept |
+| 33 | free | fri | kept |
+| 33 | friend | ami | kept |
+| 34 | from | od | changed (was fon; *of* stays `fon`; `od kando` (since) and `od novo` (again) follow) |
+| 34 | front | front | kept |
+| 34 | full | plen | kept |
+| 34 | fund | fond | kept |
+| 34 | future | futur | kept |
+| 34 | game | spel | kept |
+| 34 | garden | garden | kept |
+| 34 | gas | gas | kept |
+| 34 | general | general | kept |
+| 34 | generation | generasion | kept |
+| 35 | get / receive | reziper | changed (was reziver; chosen as *reciper*, spelled with z by the c → z rule) |
+| 35 | girl | chika | kept |
+| 35 | give | dar | kept |
+| 35 | glass | glas | kept |
+| 35 | go | go | kept |
+| 35 | goal | objektiv | kept |
+| 35 | good | bon | kept |
+| 35 | government | government | changed (was guvern; English (rule 4)) |
+| 35 | great | grand | kept |
+| 35 | green | verde | kept |
+| 36 | ground | terra | changed (was tera; *earth* follows) |
+| 36 | group | grup | kept |
+| 36 | grow | kreser | kept |
+| 36 | growth | kres | kept |
+| 36 | guess | ges | kept |
+| 36 | gun | pistol | kept |
+| 36 | guy | tip | kept |
+| 36 | hair | har | kept |
+| 36 | half | half | kept |
+| 36 | hand | hand | kept |
+| 37 | hang | viser | changed (was hang) |
+| 37 | happen | paser | kept |
+| 37 | happy | feli | kept |
+| 37 | hard | hard | kept |
+| 37 | have | haf | kept |
+| 37 | he | on | kept |
+| 37 | head | kop | kept |
+| 37 | health | saniti | kept |
+| 37 | hear | hor | kept |
+| 37 | heart | herz | changed (was kord) |
+| 38 | heat | kalor | kept |
+| 38 | heavy | pesant | kept |
+| 38 | help | help | kept |
+| 38 | her | ona | kept |
+| 38 | here | hir | kept |
+| 38 | herself | se | kept |
+| 38 | high | alto | kept |
+| 38 | him | on | kept |
+| 38 | himself | se | kept |
+| 38 | his | su / on | kept |
