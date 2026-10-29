@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 88 of 99 done** (next: *three*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **review complete: all 99 batches done**. 988 rows: 857 kept, 131 changed or respelled. Grammar-level decisions are listed in the Unreleased section of [`changelog.md`](../grammar/changelog.md). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -890,3 +890,111 @@ Status: **batch 88 of 99 done** (next: *three*). Batches 4 onward are reviewed i
 | 88 | thought | pens | kept |
 | 88 | thousand | mil | kept |
 | 88 | threat | menaz | kept |
+| 89 | three | tri | kept |
+| 89 | through | per | kept |
+| 89 | throughout | durant al / in al | kept |
+| 89 | throw | lanzer | kept |
+| 89 | thus | pro dis | kept |
+| 89 | time | temp | kept |
+| 89 | to | a | kept |
+| 89 | today | dis den | kept |
+| 89 | together | samen | kept |
+| 89 | tonight | dis nok | kept |
+| 90 | too | zu | changed (was trop; reserved degree word, grammar updated) |
+| 90 | top | top | kept |
+| 90 | total | total | kept |
+| 90 | tough | hard | kept |
+| 90 | toward | vers | kept |
+| 90 | town | ziti | kept |
+| 90 | trade | komerz | kept |
+| 90 | traditional | tradizional | kept |
+| 90 | training | trening | kept |
+| 90 | travel | travel | changed (was reis; English (rule 4); *travel* and *trip* share it) |
+| 91 | treat | trakter | kept |
+| 91 | treatment | traktament | kept |
+| 91 | tree | baum | kept |
+| 91 | trial | prozes | kept |
+| 91 | trip | travel | changed (was reis; English (rule 4); *travel* and *trip* share it) |
+| 91 | trouble | problem | kept |
+| 91 | true | ver | kept |
+| 91 | truth | veriti | kept |
+| 91 | try | prober | kept |
+| 91 | turn | turner | kept |
+| 92 | TV | televizion | kept |
+| 92 | two | du | kept |
+| 92 | type | tip | kept |
+| 92 | under | under | kept |
+| 92 | understand | komprender | kept |
+| 92 | unit | uniti | kept |
+| 92 | until | til | kept |
+| 92 | up | op | kept |
+| 92 | upon | op | kept |
+| 92 | us | nos | kept |
+| 93 | use | uzer | kept |
+| 93 | usually | normalli | kept |
+| 93 | value | valor | kept |
+| 93 | various | vari | kept |
+| 93 | very | multi | changed (was mult; *many, much* stay `mult`) |
+| 93 | victim | viktim | kept |
+| 93 | view | vid | kept |
+| 93 | violence | violenz | kept |
+| 93 | visit | visiter | kept |
+| 93 | voice | voz | kept |
+| 94 | vote | vot | kept |
+| 94 | wait | wait | kept |
+| 94 | walk | walk | kept |
+| 94 | wall | mur | kept |
+| 94 | want | voler | kept |
+| 94 | war | krig | changed (was vojna) |
+| 94 | watch | watch | changed (was luk; *look* stays `luk`) |
+| 94 | water | water | kept |
+| 94 | way | weg | kept |
+| 94 | we | we | kept |
+| 95 | weapon | arma | kept |
+| 95 | wear | porter | kept |
+| 95 | week | wike | kept |
+| 95 | weight | peso | kept |
+| 95 | well | bon / bonli | kept |
+| 95 | west | west | kept |
+| 95 | western | west | kept |
+| 95 | what | ke | kept |
+| 95 | whatever | al ke | kept |
+| 95 | when | kando | kept |
+| 96 | where | wo | kept |
+| 96 | whether | if | kept |
+| 96 | which | ke | kept |
+| 96 | while | durant ke | kept |
+| 96 | white | blanko | kept |
+| 96 | who (relative) | ke | kept |
+| 96 | whole | hel | kept |
+| 96 | whom | ki | kept |
+| 96 | whose | fon ki | kept |
+| 96 | why | pro ke | kept |
+| 97 | wide | breit | changed (was larg) |
+| 97 | wife | woman | kept |
+| 97 | will | wil | kept |
+| 97 | win | win | changed (was vinzer; English, bare root) |
+| 97 | wind | wind | kept |
+| 97 | window | okno | changed (was fenestra) |
+| 97 | wish | wish | kept |
+| 97 | with | mit | kept |
+| 97 | within | in | kept |
+| 97 | without | bez | kept |
+| 98 | woman | woman | kept |
+| 98 | wonder | demander se | kept |
+| 98 | word | word | kept |
+| 98 | work | work | kept |
+| 98 | worker | workor | kept |
+| 98 | world | mir | kept |
+| 98 | worry | sorg | kept |
+| 98 | would | wud | kept |
+| 98 | write | skriber | kept |
+| 98 | writer | skritor | kept |
+| 99 | wrong | fals | kept |
+| 99 | year | ano | changed (was jar; `pre tri ano` (three years ago)) |
+| 99 | yes | ja | kept |
+| 99 | yet | ankora | kept |
+| 99 | you (singular) | ju | kept |
+| 99 | young | jung | kept |
+| 99 | your | tu / ju | kept |
+| 99 | yourself | se | kept |

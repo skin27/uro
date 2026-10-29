@@ -39,4 +39,4 @@
 | week     | wike    | hebdomas | tjedan   | týden   | uge     | week    | semaine   | Woche   | settimana | tydzień   | semana     | săptămână| неделя [nedélja]      | недеља [nedelja]    | týždeň  | semana    | vecka   |
 | wind     | wind    | ventus   | vjetar   | vítr    | vind    | wind    | vent      | Wind    | vento     | wiatr     | vento      | vânt     | ветер [véter]         | ветар [vetar]       | vietor  | viento    | vind    |
 | world    | mir     | mundus   | svijet   | svět    | verden  | wereld  | monde     | Welt    | mondo     | świat     | mundo      | lume     | мир [mir]             | свет [svet]         | svet    | mundo     | värld   |
-| year     | jar     | annus    | godina   | rok     | år      | jaar    | an        | Jahr    | anno      | rok       | ano        | an       | год [god]             | година [godina]     | rok     | año       | år      |
+| year     | ano     | annus    | godina   | rok     | år      | jaar    | an        | Jahr    | anno      | rok       | ano        | an       | год [god]             | година [godina]     | rok     | año       | år      |

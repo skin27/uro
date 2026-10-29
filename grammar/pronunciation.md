@@ -24,7 +24,7 @@ Vowels are "pure" continental vowels, as in Italian, Spanish, Polish or Dutch. T
 |---------|-------|---------|
 | `ai` | /ai/ as in *my* | `air`, `mai` |
 | `au` | /au/ as in *house* | `blau`, `auto` |
-| `ei` | /ei/ as in *day* | `ei` (egg), `reis` |
+| `ei` | /ei/ as in *day* | `ei` (egg), `breit` |
 | `eu` | /eu/ (e + u) | `euro`, `feuer` |
 | `ie` | /i/ (long i, as in Dutch/German *ie*) | — |
 
@@ -39,7 +39,7 @@ All other vowel combinations are pronounced as separate syllables: `ninio` = *ni
 | `b d f l m n p t` | as in English | |
 | `g` | /g/ as in *go* | always hard: `genug`, `regen` |
 | `h` | /h/ (or /x/) | always pronounced: `haf`, `hand`. Never silent, because `har` (hair) ≠ `ar` (is) |
-| `j` | /j/ as in *yes* | `je`, `jar`, `jung`, `jellow` |
+| `j` | /j/ as in *yes* | `je`, `ja`, `jung`, `jellow` |
 | `k` | /k/ | `kalendar`, `klub` |
 | `r` | trilled, tapped or uvular /r ʀ ʁ/ | all are fine |
 | `s` | /s/ as in *sun* | always voiceless: `sol`, `sistem`, `rasa` |

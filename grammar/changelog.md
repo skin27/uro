@@ -36,6 +36,7 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - `pronto` (ready), `rekonozer` (recognize), `resercher` (research), `resurs` (resource), `rich` (rich), `strada` (road; *way* stays `weg`), `dir` (say, tell, was `sag`), `skena` (scene, stage), `sijentia` / `sijentist` (science, scientist), `shaker` (shake); *simply* uses the bare adverb `simpel`.
 - `skin` (skin, was `pel`), `klang` (sound, was `zvuk`), `surza` (source), `etapa` (stage, phase), `ankora` (still, yet).
 - **Breaking, subordinate clauses**: `dat` (that, like Dutch *dat*), `niz` (than, like Polish *niż*); `ke` stays for relative clauses, *what* and the compounds `pro ke`, `durant ke`, `al ke`. The reserved list and the EBNF are updated.
+- `zu` (too, was `trop`), `multi` (very; *many, much* stay `mult`), `travel` (travel, trip, was `reis`), `krig` (war, was `vojna`), `watch` (watch, was `luk`), `breit` (wide, was `larg`), `win` (win, was `vinzer`), `okno` (window, was `fenestra`), `ano` (year, was `jar`).
 
 ---
 

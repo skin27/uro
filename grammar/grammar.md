@@ -95,7 +95,7 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 | `dat` | that / those | `dat dom` |
 | `al` | all | `al ludi` ("everyone") |
 | `som` | some | `som water` |
-| `mult` | many / much / very | `mult libres`, `mult bon` |
+| `mult` | many / much | `mult libres` |
 | `poko` | few / little | `poko temp` |
 | `nul` | no / none | `nul penge` |
 | `kada` | every / each | `kada den` |
@@ -142,8 +142,8 @@ Degree words go before an adjective or adverb:
 
 | Uro | English | Example |
 |-----|---------|---------|
-| `mult` | very | `mult bon` |
-| `trop` | too | `trop dorog` ("too expensive") |
+| `multi` | very | `multi bon` (also *a lot*) |
+| `zu` | too | `zu dorog` ("too expensive", German *zu*) |
 | `genug` | quite, rather | `genug bon` ("quite good"), like French *assez*, Italian *abbastanza*, Polish *dość* |
 | `skoro` | almost, nearly | `skoro plen` ("almost full") |
 | `mem` | even | `mem on` ("even he") |
@@ -298,7 +298,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 - **Possession** is expressed with `fon`: `de nom fon de chiko` ("the boy's name"). There is no `'s` ending.
 - Uro never contracts a preposition with an article (no *du/del/zum*): `fon de`, `a de`, `in de`.
 - `in` and `eks` also mean *inside* and *outside*; `inter` also means *among*.
-- **Ago** is `pre` + a time: `pre tri jar` ("three years ago"), like German *vor drei Jahren*, Czech *před třemi lety* and Serbian *pre tri godine*.
+- **Ago** is `pre` + a time: `pre tri ano` ("three years ago"), like German *vor drei Jahren*, Czech *před třemi lety* and Serbian *pre tri godine*.
 - **Direction adverbs**: `op` (up) and `ab` (down, off) are used without a noun, like German *auf und ab* and Dutch *op en af*: `On go op i ab.` ("He walks up and down."), `Nemer ab tu mantel.` ("Take off your coat.") Other direction adverbs are `weg` (away), `retur` (back) and `avant` (ahead, forward); see [`adverbs.md`](../basic/adverbs.md).
 
 ---
@@ -371,7 +371,7 @@ Short function words are reserved. A new content word must not take any of these
 | Possessives | `mi`, `tu`, `su` |
 | Demonstratives & quantifiers | `dis`, `dat`, `al`, `som`, `mult`, `poko`, `nul`, `kada`, `alter`, `ambo`, `vari` |
 | Determiner-like adjectives | `idem`, `tal`, `propri` |
-| Degree | `plus`, `min`, `minst`, `so`, `trop`, `skoro`, `mem` |
+| Degree | `plus`, `min`, `minst`, `multi`, `so`, `zu`, `skoro`, `mem` |
 | Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb`, `wud`, `las` |
 | Negation & answers | `not`, `no`, `ja` |
 | Prepositions | `in`, `fon`, `od`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
@@ -400,7 +400,7 @@ Quantifier     ::= "al" | "som" | "mult" | "poko" | "nul" | "kada" | "alter" | "
 Possessive     ::= "mi" | "tu" | "ju" | "su" | "on" | "ona" | "to" | "we" | "nos" | "oni"
 Pronoun        ::= "je" | "me" | "ju" | "on" | "ona" | "to" | "it" | "we" | "nos" | "oni" | "se"
 AdjP           ::= (Degree)? Adj
-Degree         ::= "plus" | "min" | "minst" | "mult" | "so" | "trop" | "genug" | "skoro" | "mem"
+Degree         ::= "plus" | "min" | "minst" | "multi" | "so" | "zu" | "genug" | "skoro" | "mem"
 PP             ::= Prep NP
 Prep           ::= "in" | "fon" | "od" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
