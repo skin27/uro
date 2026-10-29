@@ -57,6 +57,15 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `som temps` | some times | sometimes | English *sometimes*, Dutch *soms* |
 | `alting` / `somting` / `nulting` | all/some/no thing | everything / something / nothing | Swedish *allting*, English *everything* |
 | `somun` / `nulun` | some/no one | someone / nobody | English *someone*, *no one* |
+| `in plas fon` | in place of | instead of | Dutch *in plaats van*, Danish *i stedet for*, Romanian *în loc de*, Russian *vmesto*, Croatian *umjesto* |
+| `mem if` | even if | although | Danish *selv om*, French *même si*, Czech *i když*, Croatian *iako* |
+| `durant ke` | during that | while | French *pendant que*, Spanish *mientras que* |
+| `fon kando` | from when | since | Italian *da quando*, Polish *od kiedy*, Croatian *otkad* |
+| `un temp` | one time | once | Spanish *una vez*, French *une fois*, German *einmal*, Swedish *en gång* |
+| `un alter` | an other | another | French *un autre*, Italian *un altro*, German *ein anderer* |
+| `al ke` | all that | whatever | French *tout ce que*, German *alles, was*, Polish *wszystko, co* |
+| `pre` + time | before … | … ago | German *vor drei Jahren*, Czech *před třemi lety*, Serbian *pre tri godine* |
+| `unka` / `nunka` | ever / not-ever | ever / never | Latin *umquam* / *numquam*, Croatian *ikad* / *nikad*, Dutch *ooit* / *nooit* |
 
 ---
 

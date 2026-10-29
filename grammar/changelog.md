@@ -10,6 +10,38 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 ---
 
+## 0.4.0 (in progress)
+
+Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v0.4.md)). Coverage is measured with `python tools/coverage.py`.
+
+| Milestone | Coverage |
+|-----------|---------:|
+| 0.3.0 baseline | 30.9% |
+| M1 function words | 37.5% |
+
+### Tooling (M0)
+- New `tools/coverage.py` and `tools/top1000.txt` (the EF top 1000 English words).
+
+### Grammar (M1)
+- Conditional: `wud` + bare verb (`je wud go`, `je wud haf go`, `je wud kan go`). `if` clauses take the past for an unreal condition.
+- `las` + object + bare verb (let): `Las nos go!`
+- *Any* has no words of its own: `som` in questions and `if` clauses, `nul` with negation, `kada` for "any you like". `whatever` = `al ke`, `another` = `un alter`, `else` = `alter` after a pronoun.
+- Negative words (`nul`, `nulting`, `nulun`, `nunka`) can be used with or without `ne` (2 variants); two negatives never cancel out. *Neither … nor* = `ne … ne`.
+- New quantifiers `ambo` (both) and `vari` (several); adjectives `idem` (same), `tal` (such), `propri` (own).
+- Degree words: `trop` (too), `genug` (quite, rather), `kuasi` (almost), `mem` (even).
+- New prepositions: `trans` (across, beyond), `long` (along), `vers` (toward), `malgre` (despite), `segun` (according to), `inklusiv` (including), `in plas fon` (instead of). `in` / `eks` also mean *inside* / *outside*; `inter` also means *among*; `pre` + time means *ago*.
+- Direction adverbs: `op` (up), `ab` (down, off), `weg` (away), `retur` (back), `avant` (ahead, forward).
+- New conjunctions: `mem if` (although), `durant ke` (while), `fon kando` (since), `if` (whether), `o … o`, `ne … ne`, `ambo … i`.
+- Question words: `ki` is also *whom*; `fon ki` is *whose*.
+- Other adverbs: `unka` (ever, pairs with `nunka`), `just` (just), `un temp` (once), `samen` (together), `solo` (alone, also *only*), `bon` / `bonli` (well).
+- The reserved word list and the EBNF include all new function words.
+
+### Vocabulary (M1)
+- 54 new rows in `verbs.md`, `demonstrative.md`, `questions.md`, `conjunctions.md`, `prepositions.md` and `adverbs.md`.
+- Existing rows now also list *these*, *those*, *somebody*, *everybody*, *thus*, *into*, *onto*, *upon* and *out*.
+
+---
+
 ## 0.3.0
 
 ### Grammar
