@@ -157,7 +157,7 @@ Lexical verbs follow **2 valid morphological patterns**:
 1. **Bare root form**: `hor` (hear), `go` (go), `appel` (call), `sit` (sit), `smil` (smile), `walk` (walk), `work` (work), `pluk` (pick), `listen` (listen).
 2. **Unified `-er` suffix**: `vider` (see), `vender` (sell), `parler` (speak), `penser` (think), `skriber` (write), `speler` (play), `jester` (eat), `rirer` (laugh).
 
-**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`).
+**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`aksepter`, `desider`, `ekspliker`).
 
 The verb root can also be used as a noun: `frager` → `frag` (question), `finer` → `fin` (end), `work` → `work`.
 

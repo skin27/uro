@@ -94,3 +94,57 @@ Rules for choosing the form:
 1. Prefer the form that is **shared by most of the Germanic, Romance and Slavic languages** (e.g. `bilet`: Polish *bilet*, Russian *bilet*, Romanian *bilet*, French *billet*, Danish *billet*, Swedish *biljett*).
 2. If the forms differ, prefer the **shortest recognizable** one (`bus` rather than `autobus`).
 3. Remove grammatical endings of individual languages (*-o*, *-a*, *-e*, *-um*, *-us*) unless they are needed for pronunciation (`auto`, `piano`, `radio` keep their vowel).
+
+---
+
+## 5. Making verbs
+
+Most verbs that Europeans share come from Latin. They are found as *accepter / accettare / aceptar* in Romance, as *akzeptieren / accepteren / acceptere* in Germanic and as *akceptować / akceptovat* in Slavic. Uro makes them with one rule:
+
+**Take the stem shared by the Romance infinitives (drop *-are*, *-ere*, *-ire*, *-ar*, *-er*, *-ir*, *-re*), spell it by §4, and add `-er`.**
+
+| English | Shared stem | Uro |
+|---------|-------------|-----|
+| accept | *accept-* (Fr *accepter*, De *akzeptieren*, Pl *akceptować*) | `aksepter` |
+| decide | *decid-* (It *decidere*, Es *decidir*) | `desider` |
+| explain | *explic-* (Es *explicar*, Ro *a explica*) | `ekspliker` |
+| discuss | *discut-* (Fr *discuter*, De *diskutieren*, Pl *dyskutować*) | `diskuter` |
+| produce | *produc-* (Es *producir*, Nl *produceren*) | `produser` |
+
+- A stem that ends in a vowel keeps the *-t-* of its noun: create (*kreasion*) → `kreater`.
+- English *-fy* becomes `-fiker`: identify → `identifiker`, mean (signify) → `signifiker`.
+- English *-ize* becomes `-izer`: realize → `realizer`.
+- The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `desider` / `desision`, `kreater` / `kreasion`, `produser` / `produksion`.
+
+A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `fang`, `folg`, `forget`, `hang`, `sing`, `spend`, `start`.
+
+### One verb, several English verbs
+
+Uro does not copy every English distinction. When the main language families use one verb for two English verbs, Uro does the same:
+
+| Uro | English | Same in |
+|-----|---------|---------|
+| `porter` | carry, wear | French *porter*, German *tragen*, Dutch *dragen*, Polish *nosić*, Russian *nosit'* |
+| `hold` | hold, keep | Dutch *houden*, Italian *tenere*, Polish *trzymać*, Russian *deržat'* |
+| `leg` | put, lay, set | German *legen*, Dutch *leggen*, Swedish *lägga* |
+| `konduser` | drive, lead | Spanish *conducir*, Portuguese *conduzir*, Romanian *a conduce* |
+| `paser` | pass, happen | Spanish *pasar*, Portuguese *passar*, German *passieren* |
+| `prober` | try, prove | Italian *provare*, Spanish *probar*, Portuguese *provar* |
+| `bater` | beat, hit | Portuguese *bater*, German *schlagen*, Dutch *slaan* |
+| `aparer` | appear, seem | English *appear*, French *paraître* |
+| `kontroler` | control, check | German *kontrollieren*, Dutch *controleren*, Polish *kontrolować* |
+| `luk` | look, watch | Dutch *kijken*, French *regarder*, Italian *guardare* |
+| `rester` | stay, remain | French *rester*, German *bleiben*, Russian *ostavat'sja* |
+| `treb` | need, require | Croatian *trebati*, Russian *trebovat'* |
+
+### Verb phrases
+
+| Uro | Literally | English | Same pattern in |
+|-----|-----------|---------|-----------------|
+| `las fal` | let fall | drop | French *laisser tomber*, German *fallen lassen*, Dutch *laten vallen* |
+| `lever se` | raise oneself | rise, get up | French *se lever*, Spanish *levantarse*, Italian *alzarsi* |
+| `frager se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
+| `ariver a` | arrive at | reach | Spanish *llegar a*, Portuguese *chegar a*, Romanian *a ajunge la* |
+| `reznar` | re-know | recognize | Italian *riconoscere*, Dutch *herkennen*, Croatian *prepoznati* |
+| `diskover` | un-cover | discover | Spanish *descubrir*, German *entdecken*, Russian *otkryvat'* |
+| `plener` | make full (`plen`) | fill | French *remplir*, Polish *napełniać*, Russian *napolnjat'* |

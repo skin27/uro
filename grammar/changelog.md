@@ -18,6 +18,7 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 |-----------|---------:|
 | 0.3.0 baseline | 30.9% |
 | M1 function words | 37.5% |
+| M2 verbs | 51.5% |
 
 ### Tooling (M0)
 - New `tools/coverage.py` and `tools/top1000.txt` (the EF top 1000 English words).
@@ -35,6 +36,12 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 - Question words: `ki` is also *whom*; `fon ki` is *whose*.
 - Other adverbs: `unka` (ever, pairs with `nunka`), `just` (just), `un temp` (once), `samen` (together), `solo` (alone, also *only*), `bon` / `bonli` (well).
 - The reserved word list and the EBNF include all new function words.
+
+### Verbs (M2)
+- 142 new rows in `verbs.md` (140 verbs; *lie* and *save* have two rows each, one per meaning).
+- New [`word_formation.md`](word_formation.md) §5: Latin verbs take the shared Romance stem + `-er` (`aksepter`, `desider`, `ekspliker`, `kreater`, `identifiker`, `realizer`).
+- Where the main language families use one verb for two English verbs, Uro does too: `porter` (carry, wear), `hold` (hold, keep), `leg` (put, lay, set), `konduser` (drive, lead), `paser` (pass, happen), `prober` (try, prove), `bater` (beat, hit), `aparer` (appear, seem), `kontroler` (control, check), `luk` (look, watch), `rester` (stay, remain), `treb` (need, require). Earlier verbs are reused for *talk* (`parler`), *tell* (`sag`) and *respond* (`responder`).
+- Verb phrases: `las fal` (drop), `lever se` (rise), `frager se` (wonder), `ariver a` (reach). Derived verbs: `reznar` (recognize, from `znar`), `plener` (fill, from `plen`), `diskover` (discover, from `kover`), `remover` (remove, from `mover`).
 
 ### Vocabulary (M1)
 - 54 new rows in `verbs.md`, `demonstrative.md`, `questions.md`, `conjunctions.md`, `prepositions.md` and `adverbs.md`.
