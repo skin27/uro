@@ -51,6 +51,10 @@ Examples of the vocabulary can be found in the various markdown files:
   - [`basic/international.md`](basic/international.md) — International words
   - [`basic/everyday.md`](basic/everyday.md) — Everyday nouns (person, thing, place, money, language…)
   - [`basic/travel.md`](basic/travel.md) — Travel & services
+  - [`basic/people.md`](basic/people.md) — People & roles
+  - [`basic/home.md`](basic/home.md) — Home, things & materials
+  - [`basic/places.md`](basic/places.md) — Places & directions
+  - [`basic/health.md`](basic/health.md) — Health
   - [`basic/phrases.md`](basic/phrases.md) — Greetings & useful phrases
   - [`basic/adjectives.md`](basic/adjectives.md) — Common adjectives & opposites
   - [`basic/adjectives_international.md`](basic/adjectives_international.md) — International adjectives (`-al`, `-ik`, `-iv`, …)

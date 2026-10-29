@@ -20,6 +20,7 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 | M1 function words | 37.5% |
 | M2 verbs | 51.5% |
 | M3 adjectives & adverbs | 62.9% |
+| M4 everyday nouns | 76.2% |
 
 ### Tooling (M0)
 - New `tools/coverage.py` and `tools/top1000.txt` (the EF top 1000 English words).
@@ -37,6 +38,14 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 - Question words: `ki` is also *whom*; `fon ki` is *whose*.
 - Other adverbs: `unka` (ever, pairs with `nunka`), `just` (just), `un temp` (once), `samen` (together), `solo` (alone, also *only*), `bon` / `bonli` (well).
 - The reserved word list and the EBNF include all new function words.
+
+### Everyday nouns (M4)
+- New tables: [`people.md`](../basic/people.md) (44 rows), [`home.md`](../basic/home.md) (28), [`places.md`](../basic/places.md) (30) and [`health.md`](../basic/health.md) (10). Time words go to `nature_time.md` (13), body parts to `food_body.md` (6), and `sentiment`, `kalor`, `tref`, `peso` to `everyday.md`.
+- Agent nouns take `-or` on the verb stem: `spelor` (player), `workor` (worker, employee), `trenor` (coach), `manejor` (manager). International ones keep their form: `direktor`, `profesor`, `instruktor`, `autor`.
+- Like German *Mann* / *Frau*, Dutch *man* / *vrouw* and French *homme* / *femme*, `man` and `woman` also mean *husband* and *wife*.
+- Compass points: `nord`, `sud`, `ost`, `west`; as modifiers they make the adjectives (`sud Europa`).
+- Words shared with an existing meaning: `dom` (house, home), `karta` (map, card), `weg` (way, road), `siti` (city, town), `mort` (dead, death), `sena` (scene, stage), `publik` (public, audience), `personal` (personal, staff).
+- Two meanings, two rows: *floor* (`pod`, surface / `etazh`, storey), *stage* (`sena` / `faza`), *drug* (`medikament` / `narkotik`).
 
 ### Adjectives & adverbs (M3)
 - 36 new rows in `adjectives.md` and a new [`adjectives_international.md`](../basic/adjectives_international.md) with 62 international adjectives (`nasional`, `sosial`, `politik`, `publik`, `modern`, `posibel`, …).

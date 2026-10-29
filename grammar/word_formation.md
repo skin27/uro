@@ -14,7 +14,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | Suffix | Meaning | Examples |
 |--------|---------|----------|
 | `-ist` | person: profession, follower | `piano` → `pianist`; `turist`; `artist` |
-| `-or` | person or thing that acts | `autor`, `direktor`, `aktor` |
+| `-or` | person or thing that acts; replaces the verb ending `-er` or follows a bare root | `autor`, `direktor`, `aktor`; `speler` → `spelor` (player), `trener` → `trenor` (coach, like Romanian *antrenor*), `manejer` → `manejor`, `work` → `workor` |
 | `-sion` | action or result (English *-tion*, *-sion*) | `nasion`, `stasion`, `informasion` |
 | `-iti` | quality, state (English *-ity*) | `universiti`, `kualiti`, `realiti` |
 | `-ism` | doctrine, system | `turism`, `sosialism` |
