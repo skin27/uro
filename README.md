@@ -53,6 +53,7 @@ Examples of the vocabulary can be found in the various markdown files:
   - [`basic/travel.md`](basic/travel.md) — Travel & services
   - [`basic/phrases.md`](basic/phrases.md) — Greetings & useful phrases
   - [`basic/adjectives.md`](basic/adjectives.md) — Common adjectives & opposites
+  - [`basic/adjectives_international.md`](basic/adjectives_international.md) — International adjectives (`-al`, `-ik`, `-iv`, …)
   - [`basic/adverbs.md`](basic/adverbs.md) — Adverbs of time, place & degree; yes/no
   - [`basic/prepositions.md`](basic/prepositions.md) — Prepositions
   - [`basic/conjunctions.md`](basic/conjunctions.md) — Conjunctions

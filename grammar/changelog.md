@@ -19,6 +19,7 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 | 0.3.0 baseline | 30.9% |
 | M1 function words | 37.5% |
 | M2 verbs | 51.5% |
+| M3 adjectives & adverbs | 62.9% |
 
 ### Tooling (M0)
 - New `tools/coverage.py` and `tools/top1000.txt` (the EF top 1000 English words).
@@ -36,6 +37,14 @@ Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v
 - Question words: `ki` is also *whom*; `fon ki` is *whose*.
 - Other adverbs: `unka` (ever, pairs with `nunka`), `just` (just), `un temp` (once), `samen` (together), `solo` (alone, also *only*), `bon` / `bonli` (well).
 - The reserved word list and the EBNF include all new function words.
+
+### Adjectives & adverbs (M3)
+- 36 new rows in `adjectives.md` and a new [`adjectives_international.md`](../basic/adjectives_international.md) with 62 international adjectives (`nasional`, `sosial`, `politik`, `publik`, `modern`, `posibel`, …).
+- Pairs: `alto` / `bas` (high / low), `rano` / `tard` (early / late), `levo` / `pravo` (left / right), `ver` / `fals` (true / false, wrong), `korekt` (right, correct).
+- One adjective where the families share one: `sekur` (safe, sure: German *sicher*, Swedish *säker*, Spanish *seguro*), `grand` (big, large, great), `hard` (hard, tough), `hel` (whole, entire).
+- `aktual` means *current*, as in German *aktuell*, Polish *aktualny*, French *actuel* and Spanish *actual* (not English *actual*).
+- *-ly* adverbs come from the adjective by grammar.md §6 (`klarli`, `normalli`). New adverb rows only for the irregular ones: `realli` (actually), `spesialli` (especially), `in efekt` (indeed), `kan ar` (perhaps), `mer tard` (later), `in kort` (soon), `dis nok` (tonight).
+- `tools/coverage.py` counts an *-ly* adverb as covered when its adjective is in an adjectives table.
 
 ### Verbs (M2)
 - 142 new rows in `verbs.md` (140 verbs; *lie* and *save* have two rows each, one per meaning).

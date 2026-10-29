@@ -121,6 +121,8 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 An adverb of manner is either the **bare adjective** (German/Dutch style) or the adjective + **`-li`**:
 - `On parler rapid.` / `On parler rapidli.` ("He speaks quickly.")
 - `Je slaper bon.` / `Je slaper bonli.` ("I sleep well.")
+- Every English adverb in *-ly* follows this rule, so it needs no word of its own: `klar` → `klar` / `klarli` (clearly), `normal` → `normalli` (usually), `posibel` → `posibelli` (possibly).
+- Comparison works on adverbs too: `mer tard` (later), like Spanish *más tarde* and French *plus tard*.
 
 ### Comparison
 Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endings, which would clash with the verb ending `-er`.

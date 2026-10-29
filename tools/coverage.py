@@ -13,7 +13,10 @@ column of a vocabulary table. Cells are read like this:
 - Entries of more than one word are phrases and cover nothing: `how much`.
 
 Some words have no table row because a grammar rule covers them. They are
-listed in GRAMMAR below. Words that Uro leaves out on purpose are in SKIPPED.
+listed in GRAMMAR below. English adverbs in -ly are covered when their
+adjective is in an adjectives table, because Uro makes them with -li
+(grammar.md §6): clearly -> klar / klarli. Words that Uro leaves out on purpose
+are in SKIPPED.
 """
 
 import re
@@ -76,6 +79,16 @@ def table_words():
     return words
 
 
+def adverb_base(word, tables):
+    """Return the adjective of an -ly adverb if it is in an adjectives table."""
+    if not word.endswith("ly"):
+        return None
+    for base in (word[:-2], word[:-1] + "e", word[:-3] + "y"):
+        if base in tables and "adjectives" in tables[base][1]:
+            return base
+    return None
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     word_list = Path(args[0]) if args else ROOT / "tools" / "top1000.txt"
@@ -84,11 +97,12 @@ def main():
 
     tables = table_words()
     in_tables = [w for w in wanted if w.lower() in tables]
-    by_grammar = [w for w in wanted if w.lower() not in tables and w.lower() in GRAMMAR]
+    by_grammar = [w for w in wanted if w.lower() not in tables
+                  and (w.lower() in GRAMMAR or adverb_base(w.lower(), tables))]
     skipped = [w for w in wanted if w.lower() in SKIPPED]
     covered = len(in_tables) + len(by_grammar)
-    missing = [w for w in wanted
-               if w.lower() not in tables and w.lower() not in GRAMMAR and w.lower() not in SKIPPED]
+    missing = [w for w in wanted if w.lower() not in tables and w not in by_grammar
+               and w.lower() not in SKIPPED]
 
     print(f"Covered: {covered} / {len(wanted)} ({100 * covered / len(wanted):.1f}%)")
     print(f"  in vocabulary tables: {len(in_tables)}")
