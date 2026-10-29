@@ -10,6 +10,16 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 ---
 
+## Unreleased: 0.4 review
+
+A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](../plans/review_0.4.md).
+
+- Nouns: `aktion` (action, was `aksion`), `suma` (amount, was `kuantiti`), `analisis` (analysis, was `analiz`), `pristup` (approach, was `aproch`).
+- Verbs: `admit` (was `admiter`), `influer` (affect, was `afekter`), `permit` (allow, was `permiter`), `demander` (ask, was `frager`), `asumer` (assume, was `suposer`). *Wonder* follows *ask*: `demander se` (was `frager se`).
+- Function words: `skoro` (almost, was `kuasi`), `langs` (along, was `long`; `long` stays the adjective), `tambjen` (also, was `auk`), `jak` (as, like, was `komo`; *as … as* is now `so … jak`, and `komo` stays *how*). The reserved list and the EBNF are updated.
+
+---
+
 ## 0.4.0
 
 Goal: cover the 1000 most common English words (see [`plans/v0.4.md`](../plans/v0.4.md)). Coverage is measured with `python tools/coverage.py`.

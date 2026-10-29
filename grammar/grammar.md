@@ -133,7 +133,7 @@ Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endi
 | Most … | `de mest` + Adj | `de mest bel siti` |
 | Less … (than) | `min` + Adj (+ `ke` …) | `Dis libre ar min dorog.` |
 | Least … | `de minst` + Adj | `de minst difisil frag` |
-| As … as | `so` + Adj + `komo` | `On ar so grand komo su brat.` |
+| As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
 - There are no irregular comparatives: `mer bon` ("better"), `de mest bon` ("the best").
 
@@ -145,7 +145,7 @@ Degree words go before an adjective or adverb:
 | `mult` | very | `mult bon` |
 | `trop` | too | `trop dorog` ("too expensive") |
 | `genug` | quite, rather | `genug bon` ("quite good"), like French *assez*, Italian *abbastanza*, Polish *dość* |
-| `kuasi` | almost, nearly | `kuasi plen` ("almost full") |
+| `skoro` | almost, nearly | `skoro plen` ("almost full") |
 | `mem` | even | `mem on` ("even he") |
 - *Sources*: `mer`/`mest` (Dutch *meer/meest*, German *mehr/meist*, Scandinavian *mer/mest*, English *more/most*); `min`/`minst` (Romance *meno/moins/menos*, Slavic *mniej/méně/manje*, Dutch *minder/minst*, Swedish *mindre/minst*).
 
@@ -161,7 +161,7 @@ Lexical verbs follow **2 valid morphological patterns**:
 
 **Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`aksepter`, `desider`, `ekspliker`).
 
-The verb root can also be used as a noun: `frager` → `frag` (question), `finer` → `fin` (end), `work` → `work`.
+The verb root can also be used as a noun: `finer` → `fin` (end), `work` → `work`.
 
 Irregular/Auxiliary verbs in the present tense are invariant:
 - **To be**: `ar` ([`to_be.md`](../verbs/to_be.md)) — `je ar`, `ju ar`, `on ar`, `we ar`, `oni ar`.
@@ -287,7 +287,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `za` | behind | `za de dom` |
 | `durant` | during | `durant de nok` |
 | `trans` | across, beyond | `trans de strada`, `trans de monts` |
-| `long` | along | `long de reka` (like Italian *lungo*) |
+| `langs` | along | `langs de reka` (like Dutch and Danish *langs*) |
 | `vers` | toward | `vers de stasion` |
 | `malgre` | despite | `malgre de regen` |
 | `segun` | according to | `segun de doktor` |
@@ -315,7 +315,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `ke` | that / which / who (relative) / than | see below |
 | `pro ke` | because | `We rester in de dom, pro ke to ar kold.` |
 | `kando` | when | `Kando je kom, we jester.` |
-| `komo` | as, like | `On parler komo un enginir.` |
+| `jak` | as, like | `On parler jak un enginir.` |
 | `mem if` | although, even if | `We go, mem if to ar kold.` |
 | `durant ke` | while | `Je lezer durant ke ju work.` |
 | `fon kando` | since (time) | `Fon kando je ar hir, …` |
@@ -368,12 +368,12 @@ Short function words are reserved. A new content word must not take any of these
 | Possessives | `mi`, `tu`, `su` |
 | Demonstratives & quantifiers | `dis`, `dat`, `al`, `som`, `mult`, `poko`, `nul`, `kada`, `alter`, `ambo`, `vari` |
 | Determiner-like adjectives | `idem`, `tal`, `propri` |
-| Degree | `mer`, `mest`, `min`, `minst`, `so`, `trop`, `kuasi`, `mem` |
+| Degree | `mer`, `mest`, `min`, `minst`, `so`, `trop`, `skoro`, `mem` |
 | Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb`, `wud`, `las` |
 | Negation & answers | `ne`, `ja` |
-| Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `long` (also the adjective *long*), `vers`, `malgre`, `segun`, `inklusiv` |
+| Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `malgre`, `segun`, `inklusiv` |
 | Direction adverbs | `ab` (and `op`, above) |
-| Conjunctions | `i`, `o`, `ma`, `if`, `ke`, `kando`, `komo` |
+| Conjunctions | `i`, `o`, `ma`, `if`, `ke`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
 
 ---
@@ -397,11 +397,11 @@ Quantifier     ::= "al" | "som" | "mult" | "poko" | "nul" | "kada" | "alter" | "
 Possessive     ::= "mi" | "tu" | "ju" | "su" | "on" | "ona" | "to" | "we" | "nos" | "oni"
 Pronoun        ::= "je" | "me" | "ju" | "on" | "ona" | "to" | "it" | "we" | "nos" | "oni" | "se"
 AdjP           ::= (Degree)? Adj
-Degree         ::= "mer" | "mest" | "min" | "minst" | "mult" | "so" | "trop" | "genug" | "kuasi" | "mem"
+Degree         ::= "mer" | "mest" | "min" | "minst" | "mult" | "so" | "trop" | "genug" | "skoro" | "mem"
 PP             ::= Prep NP
 Prep           ::= "in" | "fon" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
-                 | "rund" | "eks" | "za" | "durant" | "trans" | "long" | "vers"
+                 | "rund" | "eks" | "za" | "durant" | "trans" | "langs" | "vers"
                  | "malgre" | "segun" | "inklusiv" | "in plas fon"
 RelClause      ::= "ke" (NP)? VP
 
@@ -412,7 +412,7 @@ Verb           ::= BaseVerb | BaseVerb "ed"
 Complement     ::= NP | AdjP | PP | Adv | ThatClause | Comparison | Causative
 Causative      ::= NP VerbChain (Complement)*
 ThatClause     ::= "ke" Clause
-Comparison     ::= "ke" NP | "komo" NP
+Comparison     ::= "ke" NP | "jak" NP
 Adv            ::= Adj | Adj "li" | TimeAdv | PlaceAdv | DirAdv
 DirAdv         ::= "op" | "ab" | "weg" | "retur" | "avant"
 

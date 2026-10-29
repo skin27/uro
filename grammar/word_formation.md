@@ -43,7 +43,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 
 ## 3. Verb roots, conversion and compounds
 
-- **Verb root as noun**: dropping the verb ending `-er` gives the noun. `frager` (ask) → `frag` (question); `finer` (end) → `fin` (end). A bare-root verb is its own noun: `work`, `help`, `drink`.
+- **Verb root as noun**: dropping the verb ending `-er` gives the noun. `finer` (end) → `fin` (end). A bare-root verb is its own noun: `work`, `help`, `drink`.
 - **Compounds** are written as separate words, with the modifier first (as with adjectives): `skola bus` (school bus), `telefon numer` (phone number).
 - **Transparent phrases** replace many irregular words of the natural languages. Each copies a pattern that all three families already use:
 
@@ -143,7 +143,7 @@ Uro does not copy every English distinction. When the main language families use
 |-----|-----------|---------|-----------------|
 | `las fal` | let fall | drop | French *laisser tomber*, German *fallen lassen*, Dutch *laten vallen* |
 | `lever se` | raise oneself | rise, get up | French *se lever*, Spanish *levantarse*, Italian *alzarsi* |
-| `frager se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
+| `demander se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
 | `ariver a` | arrive at | reach | Spanish *llegar a*, Portuguese *chegar a*, Romanian *a ajunge la* |
 | `reznar` | re-know | recognize | Italian *riconoscere*, Dutch *herkennen*, Croatian *prepoznati* |
 | `diskover` | un-cover | discover | Spanish *descubrir*, German *entdecken*, Russian *otkryvat'* |
