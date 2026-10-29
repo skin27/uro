@@ -126,7 +126,7 @@ Uro does not copy every English distinction. When the main language families use
 |-----|---------|---------|
 | `porter` | carry, wear | French *porter*, German *tragen*, Dutch *dragen*, Polish *nosić*, Russian *nosit'* |
 | `hold` | hold, keep | Dutch *houden*, Italian *tenere*, Polish *trzymać*, Russian *deržat'* |
-| `leg` | put, lay, set | German *legen*, Dutch *leggen*, Swedish *lägga* |
+| `leger` | put, lay, set | German *legen*, Dutch *leggen*, Swedish *lägga* |
 | `konduzer` | drive, lead | Spanish *conducir*, Portuguese *conduzir*, Romanian *a conduce* |
 | `paser` | pass, happen | Spanish *pasar*, Portuguese *passar*, German *passieren* |
 | `prober` | try, prove | Italian *provare*, Spanish *probar*, Portuguese *provar* |
@@ -144,6 +144,6 @@ Uro does not copy every English distinction. When the main language families use
 | `lever se` | raise oneself | rise, get up | French *se lever*, Spanish *levantarse*, Italian *alzarsi* |
 | `demander se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
 | `ariver a` | arrive at | reach | Spanish *llegar a*, Portuguese *chegar a*, Romanian *a ajunge la* |
-| `reznar` | re-know | recognize | Italian *riconoscere*, Dutch *herkennen*, Croatian *prepoznati* |
+| `rekenner` | re-know | recognize | Dutch *herkennen*, German *erkennen*, Italian *riconoscere* |
 | `diskover` | un-cover | discover | Spanish *descubrir*, German *entdecken*, Russian *otkryvat'* |
 | `plener` | make full (`plen`) | fill | French *remplir*, Polish *napełniać*, Russian *napolnjat'* |

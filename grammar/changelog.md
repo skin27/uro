@@ -27,6 +27,7 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - `hund` (dog, was `dog`), `drop` (drop, was `las fal`), `emploje` (employee; *worker* stays `workor`), `enter` (enter, was `entrer`), `entero` (entire; *whole* stays `hel`), `medio` (environment, was `ambijent`), `ekologik` (environmental, was `ambijental`), `etabler` (establish, was `stabiler`), `ever` (ever, was `unka`), `eksist` (exist, was `eksister`).
 - `pole` (field, was `kamp`), `flai` (fly, was `flig`), `sleder` (follow, was `folg`), `reziper` (get, receive, was `reziver`), `government` (was `guvern`), `terra` (ground, earth, was `tera`), `viser` (hang, was `hang`), `herz` (heart, was `kord`).
 - New preposition `od` (from); `fon` now means only *of*. `od kando` (since) and `od novo` (again) follow. The reserved list and the EBNF are updated.
+- `improver` (improve, was `meliorer`), `interviu` (was `intervju`), `problem` (issue, was `kestion`), `kuchnia` (kitchen, was `kuchin`), `kenner` (know, was `znar`; *recognize* is `rekenner`), `kennis` (knowledge, was `znanje`), `leger` (lay, put, set, was `leg`), `lider` (leader, was `shef`), `nivo` (level, was `nivel`), `liger` (lie, was `lig`), `multi` (a lot, was `mult`), `amer` (love, was `luber`).
 
 ---
 

@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 38 of 99 done** (next: *history*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 48 of 99 done** (next: *machine*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -388,3 +388,103 @@ Status: **batch 38 of 99 done** (next: *history*). Batches 4 onward are reviewed
 | 38 | him | on | kept |
 | 38 | himself | se | kept |
 | 38 | his | su / on | kept |
+| 39 | history | histori | kept |
+| 39 | hit | biter | kept |
+| 39 | hold | hold | kept |
+| 39 | home | dom | kept |
+| 39 | hope | esperer | kept |
+| 39 | hospital | hospital | kept |
+| 39 | hot | kalid | kept |
+| 39 | hotel | hotel | kept |
+| 39 | hour | ur | kept |
+| 39 | house | dom | kept |
+| 40 | how | komo | kept |
+| 40 | however | ale | kept |
+| 40 | huge | enorm | kept |
+| 40 | human | human | kept |
+| 40 | hundred | zent | kept |
+| 40 | husband | man | kept |
+| 40 | I | je | kept |
+| 40 | idea | idea | kept |
+| 40 | identify | identifiker | kept |
+| 40 | if | if | kept |
+| 41 | image | imagin | kept |
+| 41 | imagine | imaginer | kept |
+| 41 | impact | impakt | kept |
+| 41 | important | important | kept |
+| 41 | improve | improver | changed (was meliorer) |
+| 41 | in | in | kept |
+| 41 | include | inkluder | kept |
+| 41 | including | inklusiv | kept |
+| 41 | increase | aumenter | kept |
+| 41 | indeed | in efekt | kept |
+| 42 | indicate | indiker | kept |
+| 42 | individual | individual | kept |
+| 42 | industry | industri | kept |
+| 42 | information | informasion | kept |
+| 42 | inside | in | kept |
+| 42 | instead | in plaz (fon) | kept |
+| 42 | institution | institusion | kept |
+| 42 | interest | interes | kept |
+| 42 | interesting | interesant | kept |
+| 42 | international | internasional | kept |
+| 43 | interview | interviu | changed (was intervju) |
+| 43 | into | in | kept |
+| 43 | investment | investision | kept |
+| 43 | involve | involver | kept |
+| 43 | issue | problem | changed (was kestion; *matter* stays `kestion`) |
+| 43 | it | to | kept |
+| 43 | item | objekt | kept |
+| 43 | its | su / to | kept |
+| 43 | itself | se | kept |
+| 43 | job | work | kept |
+| 44 | join | uniter | kept |
+| 44 | just | just | kept |
+| 44 | keep | hold | kept |
+| 44 | key | klav | kept |
+| 44 | kid | ninio | kept |
+| 44 | kill | kil | kept |
+| 44 | kind / sort | sort | kept |
+| 44 | kitchen | kuchnia | changed (was kuchin; Polish spelling, Uro ch = /tʃ/) |
+| 44 | know | kenner | changed (was znar; chosen as *kennen*, -er by grammar §7; *recognize* follows: `rekenner`) |
+| 44 | knowledge | kennis | changed (was znanje) |
+| 45 | land | land | kept |
+| 45 | language | lingua | kept |
+| 45 | large | grand | kept |
+| 45 | last | ultim | kept |
+| 45 | late | tard | kept |
+| 45 | later | mer tard | kept |
+| 45 | laugh | rirer | kept |
+| 45 | law | lei | kept |
+| 45 | lawyer | advokat | kept |
+| 45 | lay | leger | changed (was leg; *put* and *set* follow) |
+| 46 | lead | konduzer | kept |
+| 46 | leader | lider | changed (was shef) |
+| 46 | learn | lern | kept |
+| 46 | least | minst | kept |
+| 46 | leave | parter | kept |
+| 46 | left | levo | kept |
+| 46 | leg | noga | kept |
+| 46 | legal | legal | kept |
+| 46 | less | min | kept |
+| 46 | let | las | kept |
+| 47 | letter | letra | kept |
+| 47 | level | nivo | changed (was nivel) |
+| 47 | lie (lie down) | liger | changed (was lig) |
+| 47 | life | vita | kept |
+| 47 | light | lumin | kept |
+| 47 | like (as) | jak | kept |
+| 47 | likely | probabel | kept |
+| 47 | line | linia | kept |
+| 47 | list | lista | kept |
+| 47 | listen | listen | kept |
+| 48 | little | poko | kept |
+| 48 | live | viver | kept |
+| 48 | local | lokal | kept |
+| 48 | long | long | kept |
+| 48 | look | luk | kept |
+| 48 | lose | perder | kept |
+| 48 | loss | perd | kept |
+| 48 | lot (a lot) | multi | changed (was mult; `mult` stays *many, much, very*) |
+| 48 | love | amer | changed (was luber; chosen as *amar*, -er by grammar §7) |
+| 48 | low | bas | kept |

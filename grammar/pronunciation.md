@@ -45,7 +45,7 @@ All other vowel combinations are pronounced as separate syllables: `ninio` = *ni
 | `s` | /s/ as in *sun* | always voiceless: `sol`, `sistem`, `nasion` |
 | `v` | /v/ | `vider`, `vin` |
 | `w` | /w/ as in *water* (or /v/) | `water`, `we`, `wil`. German, Dutch and Slavic speakers may say /v/ |
-| `z` | /ts/ as in German *Zentrum*, Italian *grazie* (or /z/) | `ziti`, `zentrum`, `zero`, `znar`. Both pronunciations are fine |
+| `z` | /ts/ as in German *Zentrum*, Italian *grazie* (or /z/) | `ziti`, `zentrum`, `zero`, `zebra`. Both pronunciations are fine |
 | `ch` | /tʃ/ as in *church* | `chiko`, `chika` |
 | `sh` | /ʃ/ as in *ship* | for future loans (Slavic *sz/š*, German *sch*) |
 | `zh` | /ʒ/ as in *measure* | for future loans (Slavic *ż/ž*) |

@@ -17,7 +17,7 @@ Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spell
   - *Example*: `un novo dom` ("a new house")
   - *Example*: `de bon libres` ("the good books")
 - **Subordinate clauses keep `SVO`**. The verb never moves to the end (unlike German or Dutch).
-  - *Example*: `Je znar ke on ar in de dom.` ("I know that he is in the house.")
+  - *Example*: `Je kenner ke on ar in de dom.` ("I know that he is in the house.")
 - **Adverbs**: Manner adverbs follow the verb (or its object). Time and place adverbs go at the start or the end of the sentence.
   - *Example*: `On parler rapid.` ("He speaks fast.")
   - *Example*: `Morgen we go a Berlin.` / `We go a Berlin morgen.` ("Tomorrow we go to Berlin.")
@@ -320,7 +320,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `mem if` | although, even if | `We go, mem if to ar kold.` |
 | `durant ke` | while | `Je lezer durant ke ju work.` |
 | `od kando` | since (time) | `Od kando je ar hir, …` |
-| `if` | whether | `Je ne znar if on kom.` |
+| `if` | whether | `Je ne kenner if on kom.` |
 | `o … o` | either … or | `o kafe o te` |
 | `ne … ne` | neither … nor | `ne kafe ne te` |
 | `ambo … i` | both … and | `ambo papa i mama` |
@@ -335,7 +335,7 @@ A single subordinator, **`ke`**, introduces every kind of subordinate clause. It
 - **Relative clause**: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.")
 - **Comparison**: `On ar mer grand ke je.` ("He is taller than me.")
 
-Indirect questions use the question word directly: `Je ne znar wo on ar.` ("I don't know where he is.")
+Indirect questions use the question word directly: `Je ne kenner wo on ar.` ("I don't know where he is.")
 
 ---
 
