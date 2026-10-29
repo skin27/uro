@@ -4,7 +4,7 @@ Uro is designed with an analytical, rule-based structure inspired by European la
 
 Where natural European languages diverge, Uro allows **at most two valid variants** for a grammatical construction.
 
-Version: **0.3.0** (see [`changelog.md`](changelog.md)). Pronunciation and spelling: [`pronunciation.md`](pronunciation.md). Word formation: [`word_formation.md`](word_formation.md).
+Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spelling: [`pronunciation.md`](pronunciation.md). Word formation: [`word_formation.md`](word_formation.md).
 
 ---
 
@@ -17,7 +17,7 @@ Version: **0.3.0** (see [`changelog.md`](changelog.md)). Pronunciation and spell
   - *Example*: `un novo dom` ("a new house")
   - *Example*: `de bon libres` ("the good books")
 - **Subordinate clauses keep `SVO`**. The verb never moves to the end (unlike German or Dutch).
-  - *Example*: `Je znar ke on ar in de dom.` ("I know that he is in the house.")
+  - *Example*: `Je kenner dat on ar in de dom.` ("I know that he is in the house.")
 - **Adverbs**: Manner adverbs follow the verb (or its object). Time and place adverbs go at the start or the end of the sentence.
   - *Example*: `On parler rapid.` ("He speaks fast.")
   - *Example*: `Morgen we go a Berlin.` / `We go a Berlin morgen.` ("Tomorrow we go to Berlin.")
@@ -50,7 +50,7 @@ Articles are **invariant** (they do not change for gender, number, or case) and 
 | a consonant | `-s` | `-i` | `dom` → `doms` / `domi`; `brat` → `brats` / `brati` |
 | `-s`, `-ks`, `-z`, `-sh`, `-ch` | `-es` | `-i` | `bus` → `buses` / `busi` |
 | `-a`, `-e`, `-o`, `-u` | `-s` | `-i` replaces the vowel | `chiko` → `chikos` / `chiki`; `libre` → `libres` / `libri`; `ninio` → `ninios` / `ninii` |
-| `-i` | `-s` | — | `siti` → `sitis`; `famili` → `familis`; `taksi` → `taksis` |
+| `-i` | `-s` | — | `ziti` → `zitis`; `famili` → `familis`; `taksi` → `taksis` |
 
 - **Gender**: Nouns are gender-neutral by default. Where a female form is wanted, the optional suffix **`-a`** marks it, usually replacing a final `-o` (`chiko` → `chika`, `on` → `ona`). Word pairs such as `papa`/`mama` and `brat`/`sister` stay as they are.
 
@@ -95,14 +95,23 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 | `dat` | that / those | `dat dom` |
 | `al` | all | `al ludi` ("everyone") |
 | `som` | some | `som water` |
-| `mult` | many / much / very | `mult libres`, `mult bon` |
+| `mult` | many / much | `mult libres` |
 | `poko` | few / little | `poko temp` |
 | `nul` | no / none | `nul penge` |
 | `kada` | every / each | `kada den` |
 | `alter` | other | `de alter chiko` |
+| `ambo` | both | `ambo brats` |
+| `vari` | several | `vari libres` |
 
 - Demonstratives and quantifiers can stand alone as pronouns: `Je voler dis.` ("I want this.")
 - Combined with `ting` (thing) and `un` (one), they form indefinite pronouns: `somting` (something), `nulting` (nothing), `alting` (everything), `somun` (someone), `nulun` (nobody).
+- **Any**: Uro has no separate *any* words. Like Scandinavian *nogen/någon* and Czech *nějaký*, it uses:
+  - `som` in questions and `if` clauses: `Haf ju som frags?` ("Do you have any questions?"), `If somun kom, …` ("If anyone comes, …").
+  - `nul` with negation: `Je haf nul penge.` ("I don't have any money.")
+  - `kada` for "any you like": `Ju kan kom kada den.` ("You can come any day.")
+- **Other and else**: `un alter` (another, like French *un autre*); `alter` after a pronoun means *else*: `somun alter` (someone else), `ke alter?` (what else?).
+- **Whatever**: `al ke` ("all that"), like French *tout ce que*, German *alles, was* and Polish *wszystko, co*: `Ju kan nemer al ke ju voler.` ("You can take whatever you want.")
+- **Same, such, own** are ordinary adjectives and go before the noun: `de idem dom` (the same house), `un tal frag` (such a question), `mi propri auto` (my own car).
 
 ---
 
@@ -112,20 +121,33 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 An adverb of manner is either the **bare adjective** (German/Dutch style) or the adjective + **`-li`**:
 - `On parler rapid.` / `On parler rapidli.` ("He speaks quickly.")
 - `Je slaper bon.` / `Je slaper bonli.` ("I sleep well.")
+- Every English adverb in *-ly* follows this rule, so it needs no word of its own: `klar` → `klar` / `klarli` (clearly), `normal` → `normalli` (usually), `posibel` → `posibelli` (possibly).
+- Comparison works on adverbs too: `plus tard` (later), like French *plus tard* and Spanish *más tarde*.
 
 ### Comparison
 Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endings, which would clash with the verb ending `-er`.
 
 | Degree | Uro | Example |
 |--------|-----|---------|
-| More … (than) | `mer` + Adj (+ `ke` …) | `Mi auto ar mer rapid ke tu auto.` |
-| Most … | `de mest` + Adj | `de mest bel siti` |
-| Less … (than) | `min` + Adj (+ `ke` …) | `Dis libre ar min dorog.` |
-| Least … | `de minst` + Adj | `de minst difisil frag` |
-| As … as | `so` + Adj + `komo` | `On ar so grand komo su brat.` |
+| More … (than) | `plus` + Adj (+ `niz` …) | `Mi auto ar plus rapid niz tu auto.` |
+| Most … | `de plus` + Adj | `de plus bel ziti` |
+| Less … (than) | `min` + Adj (+ `niz` …) | `Dis libre ar min dorog.` |
+| Least … | `de minst` + Adj | `de minst difizil frag` |
+| As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
-- There are no irregular comparatives: `mer bon` ("better"), `de mest bon` ("the best").
-- *Sources*: `mer`/`mest` (Dutch *meer/meest*, German *mehr/meist*, Scandinavian *mer/mest*, English *more/most*); `min`/`minst` (Romance *meno/moins/menos*, Slavic *mniej/méně/manje*, Dutch *minder/minst*, Swedish *mindre/minst*).
+- There are no irregular comparatives: `plus bon` ("better"), `de plus bon` ("the best").
+
+### Degree words
+Degree words go before an adjective or adverb:
+
+| Uro | English | Example |
+|-----|---------|---------|
+| `multi` | very | `multi bon` (also *a lot*) |
+| `zu` | too | `zu dorog` ("too expensive", German *zu*) |
+| `genug` | quite, rather | `genug bon` ("quite good"), like French *assez*, Italian *abbastanza*, Polish *dość* |
+| `skoro` | almost, nearly | `skoro plen` ("almost full") |
+| `mem` | even | `mem on` ("even he") |
+- *Sources*: `plus` / `de plus` (French *plus / le plus*, Italian *più / il più*, Latin *plus*; known everywhere from maths); `min`/`minst` (Romance *meno/moins/menos*, Slavic *mniej/méně/manje*, Dutch *minder/minst*, Swedish *mindre/minst*).
 
 ---
 
@@ -137,9 +159,9 @@ Lexical verbs follow **2 valid morphological patterns**:
 1. **Bare root form**: `hor` (hear), `go` (go), `appel` (call), `sit` (sit), `smil` (smile), `walk` (walk), `work` (work), `pluk` (pick), `listen` (listen).
 2. **Unified `-er` suffix**: `vider` (see), `vender` (sell), `parler` (speak), `penser` (think), `skriber` (write), `speler` (play), `jester` (eat), `rirer` (laugh).
 
-**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`).
+**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`akzepter`, `dezider`, `ekspliker`).
 
-The verb root can also be used as a noun: `frager` → `frag` (question), `finer` → `fin` (end), `work` → `work`.
+The verb root can also be used as a noun: `finer` → `fin` (end), `work` → `work`.
 
 Irregular/Auxiliary verbs in the present tense are invariant:
 - **To be**: `ar` ([`to_be.md`](../verbs/to_be.md)) — `je ar`, `ju ar`, `on ar`, `we ar`, `oni ar`.
@@ -157,6 +179,21 @@ Both forms are valid in each tense:
 - The future with `go` follows the European "going to" construction: French *je vais voir*, Spanish *voy a ver*, Dutch *ik ga zien*, English *I'm going to see*.
 - The past of `ar` and `haf` follows the same rule: `je ared` / `je haf ar` ("I was"), `je hafed` / `je haf haf` ("I had").
 
+### Conditional
+The conditional is **`wud` + bare verb**, built like the future with `wil` (English *would*, German *würde*, Dutch *zou*, Swedish *skulle*, and the Slavic particle *by*):
+
+| English | Uro |
+|---------|-----|
+| I would go | `je wud go` |
+| I would have gone | `je wud haf go` |
+| I could go / I might go | `je wud kan go` |
+
+- An `if` clause takes the present for a real condition and the past for an unreal one. Only the main clause takes `wud`:
+  - `If ju kom, we go a de museum.` ("If you come, we will go to the museum.")
+  - `If je hafed penge, je wud kuper un auto.` ("If I had money, I would buy a car.")
+- `wud` also makes a request polite: `Je wud voler un kafe.` ("I would like a coffee.")
+- `could` in the sense of past ability is the past of `kan`: `je kaned` / `je haf kan` ("I could, I was able to").
+
 ### Modal Verbs & Verb Chains
 A modal or other verb is followed directly by the **bare verb**. There is no infinitive marker like *to* or *zu*:
 - `Je voler go.` ("I want to go.")
@@ -169,6 +206,10 @@ The modal verbs are `kan` (can, may), `mus` (must), `dever` (should), `voler` (w
 **Causative**: `fakter` + object + bare verb ("make someone do something"), like French *faire rire* and Italian *fare ridere*:
 - `De sol fakter de man open su mantel.` ("The sun makes the man open his coat.")
 
+**Permission**: `las` + object + bare verb ("let someone do something"), from the root shared by German *lassen*, Dutch *laten*, Swedish *låta*, French *laisser*, Italian *lasciare* and Romanian *a lăsa*:
+- `Las me help ju.` ("Let me help you.")
+- `Las nos go!` ("Let's go!")
+
 ### Imperative
 The imperative is the base form, with no subject:
 - `Go!` ("Go!")
@@ -179,11 +220,13 @@ The imperative is the base form, with no subject:
 
 ## 8. Negation
 
-- **Rule**: Negation is formed exclusively by placing **`ne`** directly before the verb (or auxiliary particle).
-  - *Present*: `Je ne vider de auto.` ("I do not see the car.")
-  - *With `ar`*: `On ne ar in de dom.` ("He is not in the house.")
-  - *Past/Future*: `We ne haf vider` / `We ne videred` ("We did not see") | `Ju ne wil go` / `Ju ne go go` ("You will not go").
-- `ne` is also the answer "no" (see §9).
+- **Rule**: Negation is formed exclusively by placing **`not`** directly before the verb (or auxiliary particle).
+  - *Present*: `Je not vider de auto.` ("I do not see the car.")
+  - *With `ar`*: `On not ar in de dom.` ("He is not in the house.")
+  - *Past/Future*: `We not haf vider` / `We not videred` ("We did not see") | `Ju not wil go` / `Ju not go go` ("You will not go").
+- The answer *no* is `no` (see §9).
+- **Negative words** (`nul`, `nulting`, `nulun`, `nikdi`) are negative by themselves. They can be used with or without `not` (2 variants): Germanic style `Je vider nulting.` or Romance/Slavic style `Je not vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
+- **Neither … nor** is `not … not`, which replaces the `not` before the verb: `Je drink not kafe not te.` ("I drink neither coffee nor tea.")
 
 ---
 
@@ -198,7 +241,7 @@ The imperative is the base form, with no subject:
    - `Ar on tu brat?` ("Is he your brother?")
    - `Haf ju vider mi libre?` ("Have you seen my book?")
 
-The answer is **`ja`** (yes) or **`ne`** (no).
+The answer is **`ja`** (yes) or **`no`** (no).
 
 ### Question words
 A question word comes first. It is followed by `SVO` or by inversion (2 variants) ([`questions.md`](../basic/questions.md)):
@@ -207,7 +250,7 @@ A question word comes first. It is followed by `SVO` or by inversion (2 variants
 |-----|---------|---------|
 | `ki` | who | `Ki ar dat?` ("Who is that?") |
 | `ke` | what | `Ke ju voler?` ("What do you want?") |
-| `wo` | where | `Wo ar de stasion?` ("Where is the station?") |
+| `wo` | where | `Wo ar de stazion?` ("Where is the station?") |
 | `kando` | when | `Kando de tren kom?` / `Kando kom de tren?` |
 | `komo` | how | `Komo ju ar?` ("How are you?") |
 | `kuanto` | how much / many | `Kuanto to kost?` ("How much does it cost?") |
@@ -215,6 +258,8 @@ A question word comes first. It is followed by `SVO` or by inversion (2 variants
 | `pro ke` | why | `Pro ke ju rirer?` ("Why are you laughing?") |
 
 `pro ke` literally means "for what". It is built like Italian *perché*, Spanish *por qué*, Czech *proč* and French *pourquoi*.
+
+`ki` is also the object form (*whom*), because Uro word order already shows the object: `Ki ju vider?` ("Whom do you see?"). Possession uses `fon`, as with nouns: `Fon ki ar dis libre?` ("Whose book is this?")
 
 ---
 
@@ -225,9 +270,10 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | Uro | English | Example |
 |-----|---------|---------|
 | `in` | in, into | `in de dom` |
-| `fon` | of, from | `de dom fon mi papa` ("my father's house"); `Je kom fon Polska.` |
+| `fon` | of | `de dom fon mi papa` ("my father's house") |
+| `od` | from | `Je kom od Polska.` (Slavic *od*, *ot*) |
 | `a` | to (direction, recipient) | `We go a Paris.`; `Je dar de libre a ju.` |
-| `op` | on, onto | `de libre op de stol` |
+| `op` | on, onto | `de libre op de tabel` |
 | `mit` / `bez` | with / without | `kafe mit melk`, `kafe bez suker` |
 | `pro` | for | `un libre pro ju` |
 | `pre` / `post` | before / after | `pre de den`, `post de work` |
@@ -237,13 +283,23 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `under` / `over` | under / over, above, about | `under de baum`; `un libre over Europa` |
 | `til` | until, till | `til morgen` |
 | `bi` | at, by, near | `bi de porta`, `bi mi mama` |
-| `rund` | around | `rund de siti` |
+| `rund` | around | `rund de ziti` |
 | `eks` | out of | `eks de dom` |
 | `za` | behind | `za de dom` |
 | `durant` | during | `durant de nok` |
+| `trans` | across, beyond | `trans de strada`, `trans de monts` |
+| `langs` | along | `langs de reka` (like Dutch and Danish *langs*) |
+| `vers` | toward | `vers de stazion` |
+| `trots` | despite | `trots de regen` (German *trotz*, Swedish *trots*) |
+| `segun` | according to | `segun de doktor` |
+| `inklusiv` | including | `ten euro, inklusiv de te` |
+| `in plaza fon` | instead of | `te in plaza fon kafe` |
 
 - **Possession** is expressed with `fon`: `de nom fon de chiko` ("the boy's name"). There is no `'s` ending.
 - Uro never contracts a preposition with an article (no *du/del/zum*): `fon de`, `a de`, `in de`.
+- `in` and `eks` also mean *inside* and *outside*; `inter` also means *among*.
+- **Ago** is `pre` + a time: `pre tri ano` ("three years ago"), like German *vor drei Jahren*, Czech *před třemi lety* and Serbian *pre tri godine*.
+- **Direction adverbs**: `op` (up) and `ab` (down, off) are used without a noun, like German *auf und ab* and Dutch *op en af*: `On go op i ab.` ("He walks up and down."), `Nemer ab tu mantel.` ("Take off your coat.") Other direction adverbs are `weg` (away), `retur` (back) and `avant` (ahead, forward); see [`adverbs.md`](../basic/adverbs.md).
 
 ---
 
@@ -255,20 +311,33 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 |-----|---------|---------|
 | `i` | and | `papa i mama` |
 | `o` | or | `kafe o te?` |
-| `ma` | but | `Je voler go, ma je mus work.` |
+| `ale` | but | `Je voler go, ale je mus work.` |
 | `if` | if | `If ju haf temp, we go a de museum.` |
-| `ke` | that / which / who (relative) / than | see below |
+| `dat` | that | `Je penser dat on ar hir.` (Dutch *dat*, German *dass*) |
+| `ke` | which / who (relative) | see below |
+| `niz` | than | `On ar plus grand niz je.` (Polish *niż*, Czech *než*) |
 | `pro ke` | because | `We rester in de dom, pro ke to ar kold.` |
 | `kando` | when | `Kando je kom, we jester.` |
-| `komo` | as, like | `On parler komo un enginir.` |
+| `jak` | as, like | `On parler jak un enginir.` |
+| `mem if` | although, even if | `We go, mem if to ar kold.` |
+| `durant ke` | while | `Je lezer durant ke ju work.` |
+| `od kando` | since (time) | `Od kando je ar hir, …` |
+| `if` | whether | `Je not kenner if on kom.` |
+| `o … o` | either … or | `o kafe o te` |
+| `not … not` | neither … nor | `not kafe not te` |
+| `ambo … i` | both … and | `ambo papa i mama` |
+| `pro dis` | therefore, thus | `To ar kold, pro dis we rester in de dom.` |
 
-### The universal `ke`
-A single subordinator, **`ke`**, introduces every kind of subordinate clause. It works like Romance *que/che/că* and Polish/Czech *że/že*:
-- **That-clause**: `Je penser ke on ar hir.` ("I think that he is here.")
-- **Relative clause**: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.")
-- **Comparison**: `On ar mer grand ke je.` ("He is taller than me.")
+- Like `pro ke`, the compound conjunctions are built from a preposition or adverb + a conjunction, as in French *pendant que* (`durant ke`), Italian *da quando*, Polish *od kiedy* (`od kando`) and Danish *selv om* (`mem if`).
+- *However* at the start of a sentence is `ale` (but).
 
-Indirect questions use the question word directly: `Je ne znar wo on ar.` ("I don't know where he is.")
+### Subordinate clauses: `dat`, `ke`, `niz`
+Three short words introduce subordinate clauses:
+- **That-clause**: `dat`, like Dutch *dat* and German *dass*: `Je penser dat on ar hir.` ("I think that he is here.") `dat` is also the demonstrative *that*, as in Dutch and English.
+- **Relative clause**: `ke`, like Romance *que/che*: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.") `ke` also stays in the compounds `pro ke` (because), `durant ke` (while) and `al ke` (whatever).
+- **Comparison**: `niz`, like Polish *niż* and Czech *než*: `On ar plus grand niz je.` ("He is taller than me.")
+
+Indirect questions use the question word directly: `Je not kenner wo on ar.` ("I don't know where he is.")
 
 ---
 
@@ -279,15 +348,15 @@ Indirect questions use the question word directly: `Je ne znar wo on ar.` ("I do
 - **Units**: `un du tri fir fif siks set okt nin ten`.
 - **Teens**: unit + `ten`: `unten` (11), `duten` (12) … `ninten` (19).
 - **Tens**: unit + `-ti` (like English *-ty*): `triti` (30), `firti` (40) … `ninti` (90). The exception is `vinti` (20).
-- **Larger numbers** are written big to small, units last (no German/Dutch reversal): `vinti un` (21), `sent triti du` (132), `mil nin sent ninti nin` (1999).
-- `sent` (100), `mil` (1000), `milion` (10⁶), `miliard` (10⁹). Uro uses `miliard` to avoid the *billion* ambiguity.
+- **Larger numbers** are written big to small, units last (no German/Dutch reversal): `vinti un` (21), `zent triti du` (132), `mil nin zent ninti nin` (1999).
+- `zent` (100), `mil` (1000), `milion` (10⁶), `miliard` (10⁹). Uro uses `miliard` to avoid the *billion* ambiguity.
 - **Ordinals**: `prim` (first) and `sekund` (second) are irregular, as in nearly every European language. All others take **`-de`**: `tride`, `firde`, `fifde`, `tende`. Uro does not use `-te`, which would sound almost the same as the tens (`fifti` vs *fifte*).
 
 ---
 
 ## 13. Word Formation
 
-New words are derived with a small set of internationally recognizable affixes, such as `-ist`, `-or`, `-sion`, `-iti`, `-ism`, `-logi`, `-al`, `-ik`, `-iv`, `non-` and `re-`, and with transparent compounds (`dis den` "today", `fon novo` "again"). Agent nouns **never** use `-er`, because that is the verb ending. See [`word_formation.md`](word_formation.md).
+New words are derived with a small set of internationally recognizable affixes, such as `-ist`, `-or`, `-zion`, `-iti`, `-ism`, `-logi`, `-al`, `-ik`, `-iv`, `non-` and `re-`, and with transparent compounds (`dis den` "today", `fon novo` "again"). Agent nouns **never** use `-er`, because that is the verb ending. See [`word_formation.md`](word_formation.md).
 
 ---
 
@@ -300,12 +369,14 @@ Short function words are reserved. A new content word must not take any of these
 | Articles | `un`, `de` |
 | Pronouns | `je`, `me`, `ju`, `on`, `ona`, `to`, `it`, `we`, `nos`, `oni`, `se` |
 | Possessives | `mi`, `tu`, `su` |
-| Demonstratives & quantifiers | `dis`, `dat`, `al`, `som`, `mult`, `poko`, `nul`, `kada`, `alter` |
-| Degree | `mer`, `mest`, `min`, `minst`, `so` |
-| Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb` |
-| Negation & answers | `ne`, `ja` |
-| Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant` |
-| Conjunctions | `i`, `o`, `ma`, `if`, `ke`, `kando`, `komo` |
+| Demonstratives & quantifiers | `dis`, `dat`, `al`, `som`, `mult`, `poko`, `nul`, `kada`, `alter`, `ambo`, `vari` |
+| Determiner-like adjectives | `idem`, `tal`, `propri` |
+| Degree | `plus`, `min`, `minst`, `multi`, `so`, `zu`, `skoro`, `mem` |
+| Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb`, `wud`, `las` |
+| Negation & answers | `not`, `no`, `ja` |
+| Prepositions | `in`, `fon`, `od`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
+| Direction adverbs | `ab` (and `op`, above) |
+| Conjunctions | `i`, `o`, `ale`, `if`, `dat`, `ke`, `niz`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
 
 ---
@@ -319,33 +390,36 @@ Clause         ::= NP VP
 Question       ::= Clause
                  | Verb NP (Complement)*
                  | QWord (Clause | VP | Verb NP (Complement)*)
-Imperative     ::= ("ne")? VerbChain (Complement)*
+Imperative     ::= ("not")? VerbChain (Complement)*
 
 NP             ::= Pronoun
                  | (Determiner)? (Quantifier)? (AdjP)* Noun (PP)* (RelClause)?
 Determiner     ::= "un" | "de" | Possessive | Demonstrative
 Demonstrative  ::= "dis" | "dat"
-Quantifier     ::= "al" | "som" | "mult" | "poko" | "nul" | "kada" | "alter" | Number
+Quantifier     ::= "al" | "som" | "mult" | "poko" | "nul" | "kada" | "alter" | "ambo" | "vari" | Number
 Possessive     ::= "mi" | "tu" | "ju" | "su" | "on" | "ona" | "to" | "we" | "nos" | "oni"
 Pronoun        ::= "je" | "me" | "ju" | "on" | "ona" | "to" | "it" | "we" | "nos" | "oni" | "se"
 AdjP           ::= (Degree)? Adj
-Degree         ::= "mer" | "mest" | "min" | "minst" | "mult" | "so"
+Degree         ::= "plus" | "min" | "minst" | "multi" | "so" | "zu" | "genug" | "skoro" | "mem"
 PP             ::= Prep NP
-Prep           ::= "in" | "fon" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
+Prep           ::= "in" | "fon" | "od" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
-                 | "rund" | "eks" | "za" | "durant"
+                 | "rund" | "eks" | "za" | "durant" | "trans" | "langs" | "vers"
+                 | "trots" | "segun" | "inklusiv" | "in plaza fon"
 RelClause      ::= "ke" (NP)? VP
 
-VP             ::= ("ne")? (Aux)? VerbChain (Complement)*
-Aux            ::= "haf" | "wil" | "go"
+VP             ::= ("not")? (Aux)? VerbChain (Complement)*
+Aux            ::= "haf" | "wil" | "go" | "wud"
 VerbChain      ::= Verb (Verb)*
 Verb           ::= BaseVerb | BaseVerb "ed"
 Complement     ::= NP | AdjP | PP | Adv | ThatClause | Comparison | Causative
 Causative      ::= NP VerbChain (Complement)*
-ThatClause     ::= "ke" Clause
-Comparison     ::= "ke" NP | "komo" NP
-Adv            ::= Adj | Adj "li" | TimeAdv | PlaceAdv
+ThatClause     ::= "dat" Clause
+Comparison     ::= "niz" NP | "jak" NP
+Adv            ::= Adj | Adj "li" | TimeAdv | PlaceAdv | DirAdv
+DirAdv         ::= "op" | "ab" | "weg" | "retur" | "avant"
 
-Conj           ::= "i" | "o" | "ma" | "if" | "pro ke" | "kando"
+Conj           ::= "i" | "o" | "ale" | "if" | "pro ke" | "kando" | "pro dis"
+                 | "mem if" | "durant ke" | "od kando"
 QWord          ::= "ki" | "ke" | "wo" | "kando" | "komo" | "kuanto" | "kual" | "pro ke"
 ```

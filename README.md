@@ -15,8 +15,8 @@ The basic rules for the construction of new words is as follows
 
 One letter, one sound. See **[`grammar/pronunciation.md`](grammar/pronunciation.md)** for the full letter-to-sound table, stress rule and spelling rules.
 
-- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `siti`, `desember`, `sigarette`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
-- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `siti`, `enemi`, `universiti`, `whiski`) and internally (e.g. `sistem`).
+- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `sol`, `sistem`). A Latin `c` before *e* or *i* becomes `z`, pronounced /ts/ or /z/ (e.g. `ziti`, `dezember`, `zigarette`, `sozial`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
+- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `ziti`, `enemi`, `universiti`, `whiski`) and internally (e.g. `sistem`).
 - **Stress**: always on the second-to-last syllable (`VI-der`, `ka-LEN-dar`).
 
 ### Grammar & Morphology (Max 2 Variants)
@@ -31,16 +31,16 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
 - **Pronouns & Possessives**: Personal pronouns ([`pronoun/personal_pronoun.md`](pronoun/personal_pronoun.md)), object pronouns `me`/`nos` and reflexive `se` ([`pronoun/object_pronoun.md`](pronoun/object_pronoun.md)), and possessives ([`pronoun/possessive_pronoun.md`](pronoun/possessive_pronoun.md)).
 - **Verbs & Tenses (2 variants)**:
   - Base forms use either bare roots (`hor`, `go`, `work`) or `-er` (`vider`, `parler`, `speler`, `jester`).
-  - Past: `haf vider` or `videred`. Future: `wil vider` or `go vider`.
-  - Modals take a bare verb (`Je voler go.`); the imperative is the base form (`Go!`).
-- **Adverbs & Comparison**: bare adjective or `-li` (`rapid` / `rapidli`); `mer` / `mest` / `min` / `minst` + adjective, `ke` = than.
-- **Prepositions**: `in`, `fon` (of/from), `a` (to), `op` (on), `mit` / `bez` (with/without), `pro` (for), `pre` / `post` (before/after), …
-- **Conjunctions**: `i`, `o`, `ma`, `if`, and the universal subordinator `ke` (that / which / than).
-- **Negation**: `ne` placed before the verb (`je ne vider`).
+  - Past: `haf vider` or `videred`. Future: `wil vider` or `go vider`. Conditional: `wud vider`.
+  - Modals take a bare verb (`Je voler go.`); `las` + object + verb means *let* (`Las nos go!`); the imperative is the base form (`Go!`).
+- **Adverbs & Comparison**: bare adjective or `-li` (`rapid` / `rapidli`); `plus` / `de plus` / `min` / `minst` + adjective, `niz` = than.
+- **Prepositions**: `in`, `fon` (of), `od` (from), `a` (to), `op` (on), `mit` / `bez` (with/without), `pro` (for), `pre` / `post` (before/after), `trans` (across), `vers` (toward), `trots` (despite), …
+- **Conjunctions**: `i`, `o`, `ale`, `if`, `dat` (that), `ke` (which, who) and `niz` (than); compounds such as `mem if` (although) and `durant ke` (while).
+- **Negation**: `not` placed before the verb (`je not vider`); the answer is `no`. Negative words such as `nulting` and `nikdi` work with or without `not` (2 variants).
 - **Questions (2 variants)**: `SVO?` (`Ju parler Uro?`) or Verb–Subject inversion (`Parler ju Uro?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
-- **Word Formation**: international affixes (`-ist`, `-sion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
+- **Word Formation**: international affixes (`-ist`, `-zion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
 
-The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md). A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
+The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.4.md`](plans/v0.4.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
 
 ## Vocabulary
 
@@ -51,8 +51,18 @@ Examples of the vocabulary can be found in the various markdown files:
   - [`basic/international.md`](basic/international.md) — International words
   - [`basic/everyday.md`](basic/everyday.md) — Everyday nouns (person, thing, place, money, language…)
   - [`basic/travel.md`](basic/travel.md) — Travel & services
+  - [`basic/people.md`](basic/people.md) — People & roles
+  - [`basic/home.md`](basic/home.md) — Home, things & materials
+  - [`basic/places.md`](basic/places.md) — Places & directions
+  - [`basic/health.md`](basic/health.md) — Health
+  - [`basic/society.md`](basic/society.md) — Society, politics & law
+  - [`basic/work.md`](basic/work.md) — Business, money & work
+  - [`basic/media.md`](basic/media.md) — Knowledge, media & technology
+  - [`basic/leisure.md`](basic/leisure.md) — Arts, sport & leisure
+  - [`basic/abstract.md`](basic/abstract.md) — Abstract nouns
   - [`basic/phrases.md`](basic/phrases.md) — Greetings & useful phrases
   - [`basic/adjectives.md`](basic/adjectives.md) — Common adjectives & opposites
+  - [`basic/adjectives_international.md`](basic/adjectives_international.md) — International adjectives (`-al`, `-ik`, `-iv`, …)
   - [`basic/adverbs.md`](basic/adverbs.md) — Adverbs of time, place & degree; yes/no
   - [`basic/prepositions.md`](basic/prepositions.md) — Prepositions
   - [`basic/conjunctions.md`](basic/conjunctions.md) — Conjunctions
