@@ -130,7 +130,7 @@ Uro does not copy every English distinction. When the main language families use
 | `konduser` | drive, lead | Spanish *conducir*, Portuguese *conduzir*, Romanian *a conduce* |
 | `paser` | pass, happen | Spanish *pasar*, Portuguese *passar*, German *passieren* |
 | `prober` | try, prove | Italian *provare*, Spanish *probar*, Portuguese *provar* |
-| `bater` | beat, hit | Portuguese *bater*, German *schlagen*, Dutch *slaan* |
+| `biter` | beat, hit | Czech *bít*, Polish *bić*, Russian *bit'* |
 | `aparer` | appear, seem | English *appear*, French *paraître* |
 | `kontroler` | control, check | German *kontrollieren*, Dutch *controleren*, Polish *kontrolować* |
 | `luk` | look, watch | Dutch *kijken*, French *regarder*, Italian *guardare* |

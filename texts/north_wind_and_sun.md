@@ -7,7 +7,7 @@ A short retelling of Aesop's fable *The North Wind and the Sun*, the classic tes
 De wind i de sol demandered: "Ki fon we ar mer sterk?"
 Then un man komed op de weg, in un warm mantel.
 De wind i de sol saged: "De prim ke fakter de man open su mantel, ar de mest sterk."
-De wind blased so sterk jak on kan, ma de man holded su mantel mer sterk rund se.
+De wind blased so sterk jak on kan, ale de man holded su mantel mer sterk rund se.
 Then de wind stoped.
 Then de sol komed, warm i bel, i de man direkt opened su mantel.
 Pro dis, de wind haf sag ke de sol ar de mest sterk fon de du.

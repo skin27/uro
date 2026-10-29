@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 8 of 99 done** (next: *basic*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 13 of 99 done** (next: *career*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -86,3 +86,53 @@ Status: **batch 8 of 99 done** (next: *basic*). Batches 4 onward are reviewed in
 | 8 | bank | bank | kept |
 | 8 | bar | bar | kept |
 | 8 | base | baza | kept |
+| 9 | be | ar | kept |
+| 9 | beat | biter | changed (was bater; *hit* follows: `biter`) |
+| 9 | beautiful | bel | kept |
+| 9 | because | pro ke | kept |
+| 9 | become | devener | changed (was werd) |
+| 9 | bed | bed | kept |
+| 9 | before | pre | kept |
+| 9 | begin | begin | kept |
+| 9 | behavior | kondukt | changed (was komportament) |
+| 9 | behind | za | kept |
+| 10 | believe | verer | changed (was kreder) |
+| 10 | benefit | benefisio | kept |
+| 10 | best | de mest bon | kept |
+| 10 | better | mer bon | kept |
+| 10 | between | inter | kept |
+| 10 | beyond | trans | kept |
+| 10 | big | grand | kept |
+| 10 | bill | faktura | kept |
+| 10 | billion | miliard | kept |
+| 10 | bit (a bit) | un poko | kept |
+| 11 | black | nero | kept |
+| 11 | blood | krov | kept |
+| 11 | blue | blau | kept |
+| 11 | board | plank | kept |
+| 11 | body | korp | kept |
+| 11 | book | libre | kept |
+| 11 | born | rodjen | changed (was nat) |
+| 11 | both | ambo | kept |
+| 11 | box | boks | kept |
+| 11 | boy | chiko | kept |
+| 12 | break | brek | kept |
+| 12 | bring | bring | kept |
+| 12 | brother | brat | kept |
+| 12 | budget | budjet | kept |
+| 12 | build | konstruer | kept |
+| 12 | building | budova | changed (was edifisio) |
+| 12 | business | biznes | kept |
+| 12 | but | ale | changed (was ma; *however* follows; `ma` is free) |
+| 12 | buy | kuper | kept |
+| 12 | by | bi | kept |
+| 13 | call | appel | kept |
+| 13 | camera | kamera | kept |
+| 13 | campaign | kampania | kept |
+| 13 | can | kan | kept |
+| 13 | cancer | kanser | kept |
+| 13 | candidate | kandidat | kept |
+| 13 | capital | kapital | kept |
+| 13 | car | auto | kept |
+| 13 | card | karta | kept |
+| 13 | care | kura | changed (was sorg; *worry* stays `sorg`) |

@@ -310,7 +310,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 |-----|---------|---------|
 | `i` | and | `papa i mama` |
 | `o` | or | `kafe o te?` |
-| `ma` | but | `Je voler go, ma je mus work.` |
+| `ale` | but | `Je voler go, ale je mus work.` |
 | `if` | if | `If ju haf temp, we go a de museum.` |
 | `ke` | that / which / who (relative) / than | see below |
 | `pro ke` | because | `We rester in de dom, pro ke to ar kold.` |
@@ -326,7 +326,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `pro dis` | therefore, thus | `To ar kold, pro dis we rester in de dom.` |
 
 - Like `pro ke`, the compound conjunctions are built from a preposition or adverb + a conjunction, as in French *pendant que* (`durant ke`), Italian *da quando* (`fon kando`) and Danish *selv om* (`mem if`).
-- *However* at the start of a sentence is `ma` (but).
+- *However* at the start of a sentence is `ale` (but).
 
 ### The universal `ke`
 A single subordinator, **`ke`**, introduces every kind of subordinate clause. It works like Romance *que/che/că* and Polish/Czech *że/že*:
@@ -373,7 +373,7 @@ Short function words are reserved. A new content word must not take any of these
 | Negation & answers | `ne`, `ja` |
 | Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `malgre`, `segun`, `inklusiv` |
 | Direction adverbs | `ab` (and `op`, above) |
-| Conjunctions | `i`, `o`, `ma`, `if`, `ke`, `kando`, `jak` |
+| Conjunctions | `i`, `o`, `ale`, `if`, `ke`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
 
 ---
@@ -416,7 +416,7 @@ Comparison     ::= "ke" NP | "jak" NP
 Adv            ::= Adj | Adj "li" | TimeAdv | PlaceAdv | DirAdv
 DirAdv         ::= "op" | "ab" | "weg" | "retur" | "avant"
 
-Conj           ::= "i" | "o" | "ma" | "if" | "pro ke" | "kando" | "pro dis"
+Conj           ::= "i" | "o" | "ale" | "if" | "pro ke" | "kando" | "pro dis"
                  | "mem if" | "durant ke" | "fon kando"
 QWord          ::= "ki" | "ke" | "wo" | "kando" | "komo" | "kuanto" | "kual" | "pro ke"
 ```
