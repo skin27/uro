@@ -1,9 +1,9 @@
-| English  | Uro (M)   | Uro (AI) | Croatian | Czech | Danish | Dutch  | French | German | Italian | Polish    | Portuguese | Romanian | Russian   | Serbian   | Slovak | Spanish | Swedish |
-|----------|-----------|----------|----------|-------|--------|--------|--------|--------|---------|-----------|------------|----------|-----------|-----------|--------|---------|---------|
-| am       | ar        | es       | sam      | jsem  | er     | ben    | suis   | bin    | sono    | jestem    | sou        | sunt     | я [ya]    | сам [sam] | som    | soy     | är      |
-| are      | ar        | tu       | si       | jsi   | du     | ben    | es     | bist   | sei     | jesteś    | és         | ești     | ты [ty]   | си [si]   | si     | eres    | är      |
-| is       | ar        | ille     | je       | je    | han    | hij    | est    | ist    | è       | jest      | é          | este     | он [on]   | је [je]   | je     | es      | är      |
-| is       | ar        | nos      | smo      | jsme  | vi     | we     | sommes | sind   | siamo   | jesteśmy  | somos      | suntem   | мы [my]   | смо [smo] | sme    | somos   | är      |
-| are      | ar        | vos      | ste      | jste  | I      | jullie | êtes   | seid   | siete   | jesteście | sois       | sunteți  | вы [vy]   | сте [ste] | ste    | sois    | är      |
-| are      | ar        | illes    | su       | jsou  | de     | zij    | sont   | sind   | sono    | są        | são        | sunt     | они [oni] | су [su]   | sú     | son     | är      |
-
+| English  | Uro (M)   | Uro (AI) | Croatian | Czech | Danish | Dutch  | French | German | Italian | Polish    | Portuguese | Romanian | Russian     | Serbian   | Slovak | Spanish | Swedish |
+|----------|-----------|----------|----------|-------|--------|--------|--------|--------|---------|-----------|------------|----------|-------------|-----------|--------|---------|---------|
+| I am     | ar        | sum      | sam      | jsem  | er     | ben    | suis   | bin    | sono    | jestem    | sou        | sunt     | есть [jest']| сам [sam] | som    | soy     | är      |
+| you are  | ar        | es       | si       | jsi   | er     | bent   | es     | bist   | sei     | jesteś    | és         | ești     | есть [jest']| си [si]   | si     | eres    | är      |
+| he is    | ar        | est      | je       | je    | er     | is     | est    | ist    | è       | jest      | é          | este     | есть [jest']| је [je]   | je     | es      | är      |
+| she is   | ar        | est      | je       | je    | er     | is     | est    | ist    | è       | jest      | é          | este     | есть [jest']| је [je]   | je     | es      | är      |
+| it is    | ar        | est      | je       | je    | er     | is     | est    | ist    | è       | jest      | é          | este     | есть [jest']| је [je]   | je     | es      | är      |
+| we are   | ar        | sumus    | smo      | jsme  | er     | zijn   | sommes | sind   | siamo   | jesteśmy  | somos      | suntem   | есть [jest']| смо [smo] | sme    | somos   | är      |
+| they are | ar        | sunt     | su       | jsou  | er     | zijn   | sont   | sind   | sono    | są        | são        | sunt     | есть [jest']| су [su]   | sú     | son     | är      |
