@@ -21,6 +21,8 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - Verbs: `biter` (beat, hit, was `bater`), `devener` (become, was `werd`), `verer` (believe, was `kreder`).
 - Adjective: `rodjen` (born, was `nat`).
 - Conjunction: `ale` (but, however, was `ma`). The reserved list and the EBNF are updated.
+- **Breaking spelling rule**: a Latin *c* before *e* or *i* is now written `z`, and `z` is pronounced /ts/ (as in German *Zentrum*, Italian *grazie*) or /z/. About 60 words were respelled, among them `ziti` (city, town), `zentrum`, `zentral`, `zivil`, `zitadin`, `dezember`, `zigarette`, `poliz`, `sozial`, `spezial`, `prozes`, `kapaziti`, `akzepter`, `dezider` / `dezision`, `produzer`, `reziver`, `plaz` (place, site; `in plaz fon`), `priz`, `serviz`, `zent` (100). *sc* (`sijensa`) and *-sion* (`nasion`) are unchanged.
+- Other words: `kariera` (career, was `karijera`), `zenturi` (century, was `sekul`), `zertan` (certain, was `sert`), `stul` (chair, was `stol`), `okasion` (chance, was `shans`), `lader` (charge, was `lad`), `reklamer` (claim, was `afirmer`), `fermer` (close, was `kloz`).
 
 ---
 

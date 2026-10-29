@@ -15,8 +15,8 @@ The basic rules for the construction of new words is as follows
 
 One letter, one sound. See **[`grammar/pronunciation.md`](grammar/pronunciation.md)** for the full letter-to-sound table, stress rule and spelling rules.
 
-- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `siti`, `desember`, `sigarette`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
-- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `siti`, `enemi`, `universiti`, `whiski`) and internally (e.g. `sistem`).
+- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `sol`, `sistem`). A Latin `c` before *e* or *i* becomes `z`, pronounced /ts/ or /z/ (e.g. `ziti`, `dezember`, `zigarette`, `sozial`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
+- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `ziti`, `enemi`, `universiti`, `whiski`) and internally (e.g. `sistem`).
 - **Stress**: always on the second-to-last syllable (`VI-der`, `ka-LEN-dar`).
 
 ### Grammar & Morphology (Max 2 Variants)

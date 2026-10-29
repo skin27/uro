@@ -14,7 +14,7 @@ Vowels are "pure" continental vowels, as in Italian, Spanish, Polish or Dutch. T
 |--------|-------|---------|
 | `a` | /a/ as in *father* | `papa`, `mama` |
 | `e` | /e/ as in *bed* | `den`, `ten` |
-| `i` | /i/ as in *machine* | `vin`, `siti` |
+| `i` | /i/ as in *machine* | `vin`, `ziti` |
 | `o` | /o/ as in *more* | `dom`, `nos` |
 | `u` | /u/ as in *rule* | `ur`, `fut` |
 
@@ -42,15 +42,15 @@ All other vowel combinations are pronounced as separate syllables: `ninio` = *ni
 | `j` | /j/ as in *yes* | `je`, `jar`, `jung`, `jellow` |
 | `k` | /k/ | `kalendar`, `klub` |
 | `r` | trilled, tapped or uvular /r ʀ ʁ/ | all are fine |
-| `s` | /s/ as in *sun* | always voiceless: `sol`, `siti`, `polis` |
+| `s` | /s/ as in *sun* | always voiceless: `sol`, `sistem`, `nasion` |
 | `v` | /v/ | `vider`, `vin` |
 | `w` | /w/ as in *water* (or /v/) | `water`, `we`, `wil`. German, Dutch and Slavic speakers may say /v/ |
-| `z` | /z/ as in *zoo* | `zero`, `zebra`, `znar` |
+| `z` | /ts/ as in German *Zentrum*, Italian *grazie* (or /z/) | `ziti`, `zentrum`, `zero`, `znar`. Both pronunciations are fine |
 | `ch` | /tʃ/ as in *church* | `chiko`, `chika` |
 | `sh` | /ʃ/ as in *ship* | for future loans (Slavic *sz/š*, German *sch*) |
 | `zh` | /ʒ/ as in *measure* | for future loans (Slavic *ż/ž*) |
 
-- `c` appears **only** in the digraph `ch`. The sound /s/ is always `s` (`siti`, `desember`, `sigarette`) and /k/ is always `k` (`kafe`, `elektrik`).
+- `c` appears **only** in the digraph `ch`. The sound /s/ is always `s` (`sol`, `sistem`), a Latin *c* before *e* or *i* is `z` (`ziti`, `dezember`, `zigarette`), and /k/ is always `k` (`kafe`, `elektrik`).
 - `q`, `x` and `y` are not used in Uro words. They appear only in unadapted proper names (`New York`).
 - `ng` is /ŋg/ or /ŋ/ (`jung`, `long`). Both are fine.
 
@@ -73,19 +73,19 @@ New words, especially international ones, are adapted with these rules (see also
 | Source spelling | Uro | Example |
 |-----------------|-----|---------|
 | `c`, `ck`, `ch`, `q` pronounced /k/ | `k` | electric → `elektrik`, club → `klub`, cocktail → `koktail` |
-| `c` pronounced /s/ | `s` | city → `siti`, cigarette → `sigarette`, December → `desember` |
+| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarette`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sijensa`), and *-tion* stays `-sion` |
 | `x` | `ks` | six → `siks`, taxi → `taksi` |
 | `qu` | `ku` | quality → `kualiti` |
 | `y` at the start of a word | `j` | yellow → `jellow` |
-| `y` as a vowel | `i` | family → `famili`, city → `siti`, system → `sistem` |
+| `y` as a vowel | `i` | family → `famili`, city → `ziti`, system → `sistem` |
 | `ph` | `f` | telephone → `telefon` |
 | `ee`, `ea` | `ie` | (vowel /i/) |
 | `ou` | `au` | |
 | `oe`, `ue` | `u` | |
 | `eau` | `o` | |
 | `-le` at the end | `-el` | example → `eksampel`, uncle → `unkel`, apple → `apel` |
-| double letter at the end | single | process → `proses`, ball → `bal` |
-| *i* + *e* in two syllables (*client*, *patient*, *society*) | `ije`, because `ie` is /i/ | client → `klijent`, patient → `pasijent`, society → `sosijeti` (like Croatian *klijent*, *pacijent*) |
+| double letter at the end | single | process → `prozes`, ball → `bal` |
+| *i* + *e* in two syllables (*client*, *patient*, *society*) | `ije`, because `ie` is /i/ | client → `klijent`, patient → `pasijent`, society → `sozijeti` (like Croatian *klijent*, *pacijent*) |
 
 ---
 

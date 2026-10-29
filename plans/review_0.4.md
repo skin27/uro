@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 13 of 99 done** (next: *career*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 18 of 99 done** (next: *cost*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -136,3 +136,55 @@ Status: **batch 13 of 99 done** (next: *career*). Batches 4 onward are reviewed 
 | 13 | car | auto | kept |
 | 13 | card | karta | kept |
 | 13 | care | kura | changed (was sorg; *worry* stays `sorg`) |
+| 14 | career | kariera | changed (was karijera) |
+| 14 | carry | porter | kept |
+| 14 | case | kaso | kept |
+| 14 | catch | fang | kept |
+| 14 | cause | kauser | kept |
+| 14 | cell | zelula | respelled (was selula; c → z rule) |
+| 14 | center | zentrum | changed (was sentrum) |
+| 14 | central | zentral | respelled (was sentral; c → z rule) |
+| 14 | century | zenturi | changed (was sekul) |
+| 14 | certain | zertan | changed (was sert; chosen as *sertan*, then *z* by the new spelling rule) |
+| 15 | certainly | zertanli | respelled (was sertli; c → z rule) |
+| 15 | chair | stul | changed (was stol) |
+| 15 | challenge | desafio | kept |
+| 15 | chance | okasion | changed (was shans) |
+| 15 | change | kamber | kept |
+| 15 | character | karakter | kept |
+| 15 | charge | lader | changed (was lad) |
+| 15 | check | kontroler | kept |
+| 15 | child | ninio | kept |
+| 15 | choice | eleksion | kept |
+| 16 | choose | elekter | kept |
+| 16 | church | kirk | kept |
+| 16 | citizen | zitadin | changed (was sitadin) |
+| 16 | city | ziti | changed (was siti; *town* follows) |
+| 16 | civil | zivil | changed (was sivil) |
+| 16 | claim | reklamer | changed (was afirmer) |
+| 16 | class | klas | kept |
+| 16 | clear | klar | kept |
+| 16 | clearly | klarli | kept |
+| 16 | close | fermer | changed (was kloz) |
+| 17 | coach | trenor | kept |
+| 17 | cold | kold | kept |
+| 17 | collection | koleksion | kept |
+| 17 | college | universiti | kept |
+| 17 | color | kolor | kept |
+| 17 | come | kom | kept |
+| 17 | commercial | komerzial | respelled (was komersial; c → z rule) |
+| 17 | common | komun | kept |
+| 17 | community | komuniti | kept |
+| 17 | company | kompania | kept |
+| 18 | compare | komparer | kept |
+| 18 | computer | komputer | kept |
+| 18 | concern | konzerner | respelled (was konserner; c → z rule) |
+| 18 | condition | kondision | kept |
+| 18 | conference | konferenz | respelled (was konferens; c → z rule) |
+| 18 | consider | konsiderer | kept |
+| 18 | consumer | konsument | kept |
+| 18 | contain | kontener | kept |
+| 18 | continue | kontinuer | kept |
+| 18 | control | kontroler | kept |
+
+**Spelling rule (batch 14–16):** choosing *zentrum*, *ziti*, *zivil* … led to a new rule: a Latin *c* before *e* or *i* is written `z`, pronounced /ts/ or /z/. All earlier words were respelled with it (about 60, e.g. `kapaziti`, `akzepter`, `dezember`, `sozial`, `prozes`, `plaz`, `zent`). *sc* and *-sion* are unchanged.

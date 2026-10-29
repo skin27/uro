@@ -19,7 +19,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `-iti` | quality, state (English *-ity*) | `universiti`, `kualiti`, `realiti` |
 | `-ism` | doctrine, system | `turism`, `sosialism` |
 | `-logi` | field of study | `biologi`, `teknologi` |
-| `-al` | adjective: "relating to" | `nasional`, `normal`, `sentral` |
+| `-al` | adjective: "relating to" | `nasional`, `normal`, `zentral` |
 | `-ik` | adjective: "of the kind" | `elektrik`, `publik`, `klasik` |
 | `-iv` | adjective: "tending to" | `aktiv`, `positiv` |
 | `-li` | adverb (optional variant) | `rapid` → `rapidli`, `feli` → `felili` |
@@ -57,7 +57,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `som temps` | some times | sometimes | English *sometimes*, Dutch *soms* |
 | `alting` / `somting` / `nulting` | all/some/no thing | everything / something / nothing | Swedish *allting*, English *everything* |
 | `somun` / `nulun` | some/no one | someone / nobody | English *someone*, *no one* |
-| `in plas fon` | in place of | instead of | Dutch *in plaats van*, Danish *i stedet for*, Romanian *în loc de*, Russian *vmesto*, Croatian *umjesto* |
+| `in plaz fon` | in place of | instead of | Dutch *in plaats van*, Danish *i stedet for*, Romanian *în loc de*, Russian *vmesto*, Croatian *umjesto* |
 | `mem if` | even if | although | Danish *selv om*, French *même si*, Czech *i když*, Croatian *iako* |
 | `durant ke` | during that | while | French *pendant que*, Spanish *mientras que* |
 | `fon kando` | from when | since | Italian *da quando*, Polish *od kiedy*, Croatian *otkad* |
@@ -76,7 +76,7 @@ International words are taken from the shared European form and adapted with the
 | Source ending / letters | Uro | Examples |
 |-------------------------|-----|----------|
 | *-tion*, *-sion* | `-sion` | nation → `nasion`, information → `informasion`, station → `stasion`, television → `television` |
-| *-ity*, *-ität*, *-ité*, *-idad* | `-iti` | university → `universiti`, quality → `kualiti`, city → `siti` |
+| *-ity*, *-ität*, *-ité*, *-idad* | `-iti` | university → `universiti`, quality → `kualiti`, city → `ziti` |
 | *-ic*, *-ique*, *-isch* | `-ik` | electric → `elektrik`, music → `muzik`, public → `publik` |
 | *-ive*, *-iv*, *-ivo* | `-iv` | active → `aktiv`, positive → `positiv` |
 | *-ism*, *-isme*, *-ismo* | `-ism` | tourism → `turism` |
@@ -84,7 +84,7 @@ International words are taken from the shared European form and adapted with the
 | *-y* (vowel) | `-i` | family → `famili`, taxi → `taksi` |
 | *-le* | `-el` | example → `eksampel` |
 | *c* /k/, *ch* /k/, *ck*, *q* | `k`, `ku` | club → `klub`, technology → `teknologi`, quality → `kualiti` |
-| *c* /s/ | `s` | centre → `sentrum`, social → `sosial` |
+| *c* before *e*, *i* | `z` | centre → `zentrum`, social → `sozial` (*-tion* stays `-sion`) |
 | *x* | `ks` | taxi → `taksi`, example → `eksampel` |
 | *ph* | `f` | telephone → `telefon`, photo → `foto` |
 | *th* | `t` | technology → `teknologi`, theme → `tema` |
@@ -105,16 +105,16 @@ Most verbs that Europeans share come from Latin. They are found as *accepter / a
 
 | English | Shared stem | Uro |
 |---------|-------------|-----|
-| accept | *accept-* (Fr *accepter*, De *akzeptieren*, Pl *akceptować*) | `aksepter` |
-| decide | *decid-* (It *decidere*, Es *decidir*) | `desider` |
+| accept | *accept-* (Fr *accepter*, De *akzeptieren*, Pl *akceptować*) | `akzepter` |
+| decide | *decid-* (It *decidere*, Es *decidir*) | `dezider` |
 | explain | *explic-* (Es *explicar*, Ro *a explica*) | `ekspliker` |
 | discuss | *discut-* (Fr *discuter*, De *diskutieren*, Pl *dyskutować*) | `diskuter` |
-| produce | *produc-* (Es *producir*, Nl *produceren*) | `produser` |
+| produce | *produc-* (Es *producir*, Nl *produceren*) | `produzer` |
 
 - A stem that ends in a vowel keeps the *-t-* of its noun: create (*kreasion*) → `kreater`.
 - English *-fy* becomes `-fiker`: identify → `identifiker`, mean (signify) → `signifiker`.
 - English *-ize* becomes `-izer`: realize → `realizer`.
-- The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `desider` / `desision`, `kreater` / `kreasion`, `produser` / `produksion`.
+- The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `dezider` / `dezision`, `kreater` / `kreasion`, `produzer` / `produksion`.
 
 A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `fang`, `folg`, `forget`, `hang`, `sing`, `spend`, `start`.
 

@@ -50,7 +50,7 @@ Articles are **invariant** (they do not change for gender, number, or case) and 
 | a consonant | `-s` | `-i` | `dom` → `doms` / `domi`; `brat` → `brats` / `brati` |
 | `-s`, `-ks`, `-z`, `-sh`, `-ch` | `-es` | `-i` | `bus` → `buses` / `busi` |
 | `-a`, `-e`, `-o`, `-u` | `-s` | `-i` replaces the vowel | `chiko` → `chikos` / `chiki`; `libre` → `libres` / `libri`; `ninio` → `ninios` / `ninii` |
-| `-i` | `-s` | — | `siti` → `sitis`; `famili` → `familis`; `taksi` → `taksis` |
+| `-i` | `-s` | — | `ziti` → `zitis`; `famili` → `familis`; `taksi` → `taksis` |
 
 - **Gender**: Nouns are gender-neutral by default. Where a female form is wanted, the optional suffix **`-a`** marks it, usually replacing a final `-o` (`chiko` → `chika`, `on` → `ona`). Word pairs such as `papa`/`mama` and `brat`/`sister` stay as they are.
 
@@ -130,9 +130,9 @@ Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endi
 | Degree | Uro | Example |
 |--------|-----|---------|
 | More … (than) | `mer` + Adj (+ `ke` …) | `Mi auto ar mer rapid ke tu auto.` |
-| Most … | `de mest` + Adj | `de mest bel siti` |
+| Most … | `de mest` + Adj | `de mest bel ziti` |
 | Less … (than) | `min` + Adj (+ `ke` …) | `Dis libre ar min dorog.` |
-| Least … | `de minst` + Adj | `de minst difisil frag` |
+| Least … | `de minst` + Adj | `de minst difizil frag` |
 | As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
 - There are no irregular comparatives: `mer bon` ("better"), `de mest bon` ("the best").
@@ -159,7 +159,7 @@ Lexical verbs follow **2 valid morphological patterns**:
 1. **Bare root form**: `hor` (hear), `go` (go), `appel` (call), `sit` (sit), `smil` (smile), `walk` (walk), `work` (work), `pluk` (pick), `listen` (listen).
 2. **Unified `-er` suffix**: `vider` (see), `vender` (sell), `parler` (speak), `penser` (think), `skriber` (write), `speler` (play), `jester` (eat), `rirer` (laugh).
 
-**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`aksepter`, `desider`, `ekspliker`).
+**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`akzepter`, `dezider`, `ekspliker`).
 
 The verb root can also be used as a noun: `finer` → `fin` (end), `work` → `work`.
 
@@ -282,7 +282,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `under` / `over` | under / over, above, about | `under de baum`; `un libre over Europa` |
 | `til` | until, till | `til morgen` |
 | `bi` | at, by, near | `bi de porta`, `bi mi mama` |
-| `rund` | around | `rund de siti` |
+| `rund` | around | `rund de ziti` |
 | `eks` | out of | `eks de dom` |
 | `za` | behind | `za de dom` |
 | `durant` | during | `durant de nok` |
@@ -292,7 +292,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `malgre` | despite | `malgre de regen` |
 | `segun` | according to | `segun de doktor` |
 | `inklusiv` | including | `ten euro, inklusiv de te` |
-| `in plas fon` | instead of | `te in plas fon kafe` |
+| `in plaz fon` | instead of | `te in plaz fon kafe` |
 
 - **Possession** is expressed with `fon`: `de nom fon de chiko` ("the boy's name"). There is no `'s` ending.
 - Uro never contracts a preposition with an article (no *du/del/zum*): `fon de`, `a de`, `in de`.
@@ -345,8 +345,8 @@ Indirect questions use the question word directly: `Je ne znar wo on ar.` ("I do
 - **Units**: `un du tri fir fif siks set okt nin ten`.
 - **Teens**: unit + `ten`: `unten` (11), `duten` (12) … `ninten` (19).
 - **Tens**: unit + `-ti` (like English *-ty*): `triti` (30), `firti` (40) … `ninti` (90). The exception is `vinti` (20).
-- **Larger numbers** are written big to small, units last (no German/Dutch reversal): `vinti un` (21), `sent triti du` (132), `mil nin sent ninti nin` (1999).
-- `sent` (100), `mil` (1000), `milion` (10⁶), `miliard` (10⁹). Uro uses `miliard` to avoid the *billion* ambiguity.
+- **Larger numbers** are written big to small, units last (no German/Dutch reversal): `vinti un` (21), `zent triti du` (132), `mil nin zent ninti nin` (1999).
+- `zent` (100), `mil` (1000), `milion` (10⁶), `miliard` (10⁹). Uro uses `miliard` to avoid the *billion* ambiguity.
 - **Ordinals**: `prim` (first) and `sekund` (second) are irregular, as in nearly every European language. All others take **`-de`**: `tride`, `firde`, `fifde`, `tende`. Uro does not use `-te`, which would sound almost the same as the tens (`fifti` vs *fifte*).
 
 ---

@@ -11,5 +11,5 @@
 | September | september |septembro | rujan    | září     | september   | september | septembre | September | settembre | wrzesień    | setembro   | septembrie | сентябрь [sentyabr'] | септембар [septembar] | september | septiembre | september | 
 | October   | oktober   |octobro   | listopad | říjen    | oktober     | oktober   | octobre   | Oktober   | ottobre   | październik | outubro    | octombrie  | октябрь [oktyabr']   | октобар [oktobar]     | október   | octubre    | oktober   | 
 | November  | november  |novembro  | studeni  | listopad | november    | november  | novembre  | November  | novembre  | listopad    | novembro   | noiembrie  | ноябрь [noyabr']     | новембар [novembar]   | november  | noviembre  | november  | 
-| December  | desember  |decembro  | prosinac | prosinec | december    | december  | décembre  | Dezember  | dicembre  | grudzień    | dezembro   | decembrie  | декабрь [dekabr']    | децембар [decembar]   | december  | diciembre  | december  | 
+| December  | dezember  |decembro  | prosinac | prosinec | december    | december  | décembre  | Dezember  | dicembre  | grudzień    | dezembro   | decembrie  | декабрь [dekabr']    | децембар [decembar]   | december  | diciembre  | december  | 
 
