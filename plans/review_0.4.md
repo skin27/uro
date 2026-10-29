@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 48 of 99 done** (next: *machine*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 58 of 99 done** (next: *operation*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -488,3 +488,105 @@ Status: **batch 48 of 99 done** (next: *machine*). Batches 4 onward are reviewed
 | 48 | lot (a lot) | multi | changed (was mult; `mult` stays *many, much, very*) |
 | 48 | love | amer | changed (was luber; chosen as *amar*, -er by grammar §7) |
 | 48 | low | bas | kept |
+| 49 | machine | mashina | changed (was mashin) |
+| 49 | magazine | magazin | changed (was revista) |
+| 49 | main | prinzipal | kept |
+| 49 | maintain | mantener | kept |
+| 49 | major | major | kept |
+| 49 | majority | majoriti | kept |
+| 49 | make | fakter | kept |
+| 49 | man | man | kept |
+| 49 | manage | manejer | kept |
+| 49 | management | manajement | changed (was manejment) |
+| 50 | manager | manejor | kept |
+| 50 | many | mult | kept |
+| 50 | market | market | kept |
+| 50 | marriage | matrimonio | changed (was mariazh) |
+| 50 | material | material | kept |
+| 50 | matter (affair) | afer | changed (was kestion; issue is problem) |
+| 50 | May (month) | mai | kept |
+| 50 | maybe | kan ar | kept |
+| 50 | me | me | kept |
+| 50 | mean | signifiker | kept |
+| 51 | measure | mezurer | kept |
+| 51 | media | media | kept |
+| 51 | medical | medikal | kept |
+| 51 | meet | tref | kept |
+| 51 | meeting | tref | kept |
+| 51 | member | membro | kept |
+| 51 | memory | memori | kept |
+| 51 | mention | mensioner | kept |
+| 51 | message | messager | changed (was mesazh) |
+| 51 | method | metod | kept |
+| 52 | middle | medio | kept |
+| 52 | might | wud kan | kept |
+| 52 | military | militar | kept |
+| 52 | million | milion | kept |
+| 52 | mind | mente | kept |
+| 52 | minute | minut | kept |
+| 52 | miss | manker | kept |
+| 52 | mission | mision | kept |
+| 52 | model | model | kept |
+| 52 | modern | modern | kept |
+| 53 | moment | moment | kept |
+| 53 | money | monni | changed (was penge) |
+| 53 | month | monat | changed (was mes) |
+| 53 | more | plus | changed (was mer; comparison is now plus / de plus) |
+| 53 | morning | matin | changed (was morgen) |
+| 53 | most | de plus | changed (was mest; chosen as *most*, then *de plus* by the comparison decision) |
+| 53 | mother | mama | kept |
+| 53 | mouth | mund | kept |
+| 53 | move | mover | kept |
+| 53 | movement | moviment | kept |
+| 54 | movie | film | kept |
+| 54 | much | mult | kept |
+| 54 | music | muzik | kept |
+| 54 | must | mus | kept |
+| 54 | my | mi | kept |
+| 54 | myself | se | kept |
+| 54 | name | nom | kept |
+| 54 | nation | nazion | changed (was nasion; all -sion words became -zion) |
+| 54 | national | nazional | changed (was nasional; all -sion words became -zion) |
+| 54 | natural | natural | kept |
+| 55 | nature | natur | kept |
+| 55 | near | bi | kept |
+| 55 | nearly | skoro | kept |
+| 55 | necessary | nezesar | kept |
+| 55 | need | treb | kept |
+| 55 | network | net | kept |
+| 55 | never | nikdi | changed (was nunka) |
+| 55 | new | novo | kept |
+| 55 | news | noviti | kept |
+| 55 | newspaper | gazeta | kept |
+| 56 | next | nekst | kept |
+| 56 | nice | simpatik | kept |
+| 56 | night | noht | changed (was nok) |
+| 56 | no | no | changed (was ne; negation is now not) |
+| 56 | none | nul | kept |
+| 56 | nor | ne … ne | kept |
+| 56 | north | nord | kept |
+| 56 | not | not | changed (was ne; ne is gone) |
+| 56 | note | nota | kept |
+| 56 | nothing | nulting | kept |
+| 57 | notice | noter | kept |
+| 57 | now | nu | kept |
+| 57 | n't (not) | not | changed (was ne; ne is gone) |
+| 57 | number | numer | kept |
+| 57 | occur | okurer | kept |
+| 57 | of | fon | kept |
+| 57 | off | ab | kept |
+| 57 | offer | oferer | kept |
+| 57 | office | biuro | changed (was biro) |
+| 57 | officer | ofizir | kept |
+| 58 | official | ofizial | kept |
+| 58 | often | often | kept |
+| 58 | oil | oli | kept |
+| 58 | old | star | kept |
+| 58 | on | op | kept |
+| 58 | once | un temp | kept |
+| 58 | one | un | kept |
+| 58 | only | solo | kept |
+| 58 | onto | op | kept |
+| 58 | open | open | kept |
+
+**Grammar decisions (batches 49–58):** all *-sion* words became *-zion*; comparison is `plus` / `de plus` (`mer`, `mest` removed); negation is `not` with the answer `no` (`ne` removed); `not … not` for *neither … nor*.

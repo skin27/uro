@@ -122,20 +122,20 @@ An adverb of manner is either the **bare adjective** (German/Dutch style) or the
 - `On parler rapid.` / `On parler rapidli.` ("He speaks quickly.")
 - `Je slaper bon.` / `Je slaper bonli.` ("I sleep well.")
 - Every English adverb in *-ly* follows this rule, so it needs no word of its own: `klar` → `klar` / `klarli` (clearly), `normal` → `normalli` (usually), `posibel` → `posibelli` (possibly).
-- Comparison works on adverbs too: `mer tard` (later), like Spanish *más tarde* and French *plus tard*.
+- Comparison works on adverbs too: `plus tard` (later), like French *plus tard* and Spanish *más tarde*.
 
 ### Comparison
 Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endings, which would clash with the verb ending `-er`.
 
 | Degree | Uro | Example |
 |--------|-----|---------|
-| More … (than) | `mer` + Adj (+ `ke` …) | `Mi auto ar mer rapid ke tu auto.` |
-| Most … | `de mest` + Adj | `de mest bel ziti` |
+| More … (than) | `plus` + Adj (+ `ke` …) | `Mi auto ar plus rapid ke tu auto.` |
+| Most … | `de plus` + Adj | `de plus bel ziti` |
 | Less … (than) | `min` + Adj (+ `ke` …) | `Dis libre ar min dorog.` |
 | Least … | `de minst` + Adj | `de minst difizil frag` |
 | As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
-- There are no irregular comparatives: `mer bon` ("better"), `de mest bon` ("the best").
+- There are no irregular comparatives: `plus bon` ("better"), `de plus bon` ("the best").
 
 ### Degree words
 Degree words go before an adjective or adverb:
@@ -147,7 +147,7 @@ Degree words go before an adjective or adverb:
 | `genug` | quite, rather | `genug bon` ("quite good"), like French *assez*, Italian *abbastanza*, Polish *dość* |
 | `skoro` | almost, nearly | `skoro plen` ("almost full") |
 | `mem` | even | `mem on` ("even he") |
-- *Sources*: `mer`/`mest` (Dutch *meer/meest*, German *mehr/meist*, Scandinavian *mer/mest*, English *more/most*); `min`/`minst` (Romance *meno/moins/menos*, Slavic *mniej/méně/manje*, Dutch *minder/minst*, Swedish *mindre/minst*).
+- *Sources*: `plus` / `de plus` (French *plus / le plus*, Italian *più / il più*, Latin *plus*; known everywhere from maths); `min`/`minst` (Romance *meno/moins/menos*, Slavic *mniej/méně/manje*, Dutch *minder/minst*, Swedish *mindre/minst*).
 
 ---
 
@@ -220,13 +220,13 @@ The imperative is the base form, with no subject:
 
 ## 8. Negation
 
-- **Rule**: Negation is formed exclusively by placing **`ne`** directly before the verb (or auxiliary particle).
-  - *Present*: `Je ne vider de auto.` ("I do not see the car.")
-  - *With `ar`*: `On ne ar in de dom.` ("He is not in the house.")
-  - *Past/Future*: `We ne haf vider` / `We ne videred` ("We did not see") | `Ju ne wil go` / `Ju ne go go` ("You will not go").
-- `ne` is also the answer "no" (see §9).
-- **Negative words** (`nul`, `nulting`, `nulun`, `nunka`) are negative by themselves. They can be used with or without `ne` (2 variants): Germanic style `Je vider nulting.` or Romance/Slavic style `Je ne vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
-- **Neither … nor** is `ne … ne`, which replaces the `ne` before the verb: `Je drink ne kafe ne te.` ("I drink neither coffee nor tea.")
+- **Rule**: Negation is formed exclusively by placing **`not`** directly before the verb (or auxiliary particle).
+  - *Present*: `Je not vider de auto.` ("I do not see the car.")
+  - *With `ar`*: `On not ar in de dom.` ("He is not in the house.")
+  - *Past/Future*: `We not haf vider` / `We not videred` ("We did not see") | `Ju not wil go` / `Ju not go go` ("You will not go").
+- The answer *no* is `no` (see §9).
+- **Negative words** (`nul`, `nulting`, `nulun`, `nikdi`) are negative by themselves. They can be used with or without `not` (2 variants): Germanic style `Je vider nulting.` or Romance/Slavic style `Je not vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
+- **Neither … nor** is `not … not`, which replaces the `not` before the verb: `Je drink not kafe not te.` ("I drink neither coffee nor tea.")
 
 ---
 
@@ -241,7 +241,7 @@ The imperative is the base form, with no subject:
    - `Ar on tu brat?` ("Is he your brother?")
    - `Haf ju vider mi libre?` ("Have you seen my book?")
 
-The answer is **`ja`** (yes) or **`ne`** (no).
+The answer is **`ja`** (yes) or **`no`** (no).
 
 ### Question words
 A question word comes first. It is followed by `SVO` or by inversion (2 variants) ([`questions.md`](../basic/questions.md)):
@@ -250,7 +250,7 @@ A question word comes first. It is followed by `SVO` or by inversion (2 variants
 |-----|---------|---------|
 | `ki` | who | `Ki ar dat?` ("Who is that?") |
 | `ke` | what | `Ke ju voler?` ("What do you want?") |
-| `wo` | where | `Wo ar de stasion?` ("Where is the station?") |
+| `wo` | where | `Wo ar de stazion?` ("Where is the station?") |
 | `kando` | when | `Kando de tren kom?` / `Kando kom de tren?` |
 | `komo` | how | `Komo ju ar?` ("How are you?") |
 | `kuanto` | how much / many | `Kuanto to kost?` ("How much does it cost?") |
@@ -289,7 +289,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `durant` | during | `durant de nok` |
 | `trans` | across, beyond | `trans de strada`, `trans de monts` |
 | `langs` | along | `langs de reka` (like Dutch and Danish *langs*) |
-| `vers` | toward | `vers de stasion` |
+| `vers` | toward | `vers de stazion` |
 | `trots` | despite | `trots de regen` (German *trotz*, Swedish *trots*) |
 | `segun` | according to | `segun de doktor` |
 | `inklusiv` | including | `ten euro, inklusiv de te` |
@@ -320,9 +320,9 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `mem if` | although, even if | `We go, mem if to ar kold.` |
 | `durant ke` | while | `Je lezer durant ke ju work.` |
 | `od kando` | since (time) | `Od kando je ar hir, …` |
-| `if` | whether | `Je ne kenner if on kom.` |
+| `if` | whether | `Je not kenner if on kom.` |
 | `o … o` | either … or | `o kafe o te` |
-| `ne … ne` | neither … nor | `ne kafe ne te` |
+| `not … not` | neither … nor | `not kafe not te` |
 | `ambo … i` | both … and | `ambo papa i mama` |
 | `pro dis` | therefore, thus | `To ar kold, pro dis we rester in de dom.` |
 
@@ -333,9 +333,9 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 A single subordinator, **`ke`**, introduces every kind of subordinate clause. It works like Romance *que/che/că* and Polish/Czech *że/že*:
 - **That-clause**: `Je penser ke on ar hir.` ("I think that he is here.")
 - **Relative clause**: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.")
-- **Comparison**: `On ar mer grand ke je.` ("He is taller than me.")
+- **Comparison**: `On ar plus grand ke je.` ("He is taller than me.")
 
-Indirect questions use the question word directly: `Je ne kenner wo on ar.` ("I don't know where he is.")
+Indirect questions use the question word directly: `Je not kenner wo on ar.` ("I don't know where he is.")
 
 ---
 
@@ -354,7 +354,7 @@ Indirect questions use the question word directly: `Je ne kenner wo on ar.` ("I 
 
 ## 13. Word Formation
 
-New words are derived with a small set of internationally recognizable affixes, such as `-ist`, `-or`, `-sion`, `-iti`, `-ism`, `-logi`, `-al`, `-ik`, `-iv`, `non-` and `re-`, and with transparent compounds (`dis den` "today", `fon novo` "again"). Agent nouns **never** use `-er`, because that is the verb ending. See [`word_formation.md`](word_formation.md).
+New words are derived with a small set of internationally recognizable affixes, such as `-ist`, `-or`, `-zion`, `-iti`, `-ism`, `-logi`, `-al`, `-ik`, `-iv`, `non-` and `re-`, and with transparent compounds (`dis den` "today", `fon novo` "again"). Agent nouns **never** use `-er`, because that is the verb ending. See [`word_formation.md`](word_formation.md).
 
 ---
 
@@ -369,9 +369,9 @@ Short function words are reserved. A new content word must not take any of these
 | Possessives | `mi`, `tu`, `su` |
 | Demonstratives & quantifiers | `dis`, `dat`, `al`, `som`, `mult`, `poko`, `nul`, `kada`, `alter`, `ambo`, `vari` |
 | Determiner-like adjectives | `idem`, `tal`, `propri` |
-| Degree | `mer`, `mest`, `min`, `minst`, `so`, `trop`, `skoro`, `mem` |
+| Degree | `plus`, `min`, `minst`, `so`, `trop`, `skoro`, `mem` |
 | Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb`, `wud`, `las` |
-| Negation & answers | `ne`, `ja` |
+| Negation & answers | `not`, `no`, `ja` |
 | Prepositions | `in`, `fon`, `od`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
 | Direction adverbs | `ab` (and `op`, above) |
 | Conjunctions | `i`, `o`, `ale`, `if`, `ke`, `kando`, `jak` |
@@ -388,7 +388,7 @@ Clause         ::= NP VP
 Question       ::= Clause
                  | Verb NP (Complement)*
                  | QWord (Clause | VP | Verb NP (Complement)*)
-Imperative     ::= ("ne")? VerbChain (Complement)*
+Imperative     ::= ("not")? VerbChain (Complement)*
 
 NP             ::= Pronoun
                  | (Determiner)? (Quantifier)? (AdjP)* Noun (PP)* (RelClause)?
@@ -398,7 +398,7 @@ Quantifier     ::= "al" | "som" | "mult" | "poko" | "nul" | "kada" | "alter" | "
 Possessive     ::= "mi" | "tu" | "ju" | "su" | "on" | "ona" | "to" | "we" | "nos" | "oni"
 Pronoun        ::= "je" | "me" | "ju" | "on" | "ona" | "to" | "it" | "we" | "nos" | "oni" | "se"
 AdjP           ::= (Degree)? Adj
-Degree         ::= "mer" | "mest" | "min" | "minst" | "mult" | "so" | "trop" | "genug" | "skoro" | "mem"
+Degree         ::= "plus" | "min" | "minst" | "mult" | "so" | "trop" | "genug" | "skoro" | "mem"
 PP             ::= Prep NP
 Prep           ::= "in" | "fon" | "od" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
@@ -406,7 +406,7 @@ Prep           ::= "in" | "fon" | "od" | "a" | "op" | "mit" | "bez" | "pro" | "p
                  | "trots" | "segun" | "inklusiv" | "in plaz fon"
 RelClause      ::= "ke" (NP)? VP
 
-VP             ::= ("ne")? (Aux)? VerbChain (Complement)*
+VP             ::= ("not")? (Aux)? VerbChain (Complement)*
 Aux            ::= "haf" | "wil" | "go" | "wud"
 VerbChain      ::= Verb (Verb)*
 Verb           ::= BaseVerb | BaseVerb "ed"

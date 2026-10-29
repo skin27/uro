@@ -15,11 +15,11 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 |--------|---------|----------|
 | `-ist` | person: profession, follower | `piano` → `pianist`; `turist`; `artist` |
 | `-or` | person or thing that acts; replaces the verb ending `-er` or follows a bare root | `autor`, `direktor`, `aktor`; `speler` → `spelor` (player), `trener` → `trenor` (coach, like Romanian *antrenor*), `manejer` → `manejor`, `work` → `workor` |
-| `-sion` | action or result (English *-tion*, *-sion*) | `nasion`, `stasion`, `informasion` |
+| `-zion` | action or result (English *-tion*, *-sion*) | `nazion`, `stazion`, `informazion` |
 | `-iti` | quality, state (English *-ity*) | `universiti`, `kualiti`, `realiti` |
 | `-ism` | doctrine, system | `turism`, `sosialism` |
 | `-logi` | field of study | `biologi`, `teknologi` |
-| `-al` | adjective: "relating to" | `nasional`, `normal`, `zentral` |
+| `-al` | adjective: "relating to" | `nazional`, `normal`, `zentral` |
 | `-ik` | adjective: "of the kind" | `elektrik`, `publik`, `klasik` |
 | `-iv` | adjective: "tending to" | `aktiv`, `positiv` |
 | `-li` | adverb (optional variant) | `rapid` → `rapidli`, `feli` → `felili` |
@@ -37,7 +37,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `eks-` | former | `eks-president` |
 | `anti-` | against | `anti-sistem` |
 | `pre-` / `post-` | before / after | `pre-historik`, `post-work` |
-| `inter-` | between | `internasional` |
+| `inter-` | between | `internazional` |
 
 `pre-`, `post-`, `inter-` and `eks-` are also prepositions (see [`grammar.md`](grammar.md) §10). A Uro speaker who knows one use knows the other.
 
@@ -65,7 +65,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `un alter` | an other | another | French *un autre*, Italian *un altro*, German *ein anderer* |
 | `al ke` | all that | whatever | French *tout ce que*, German *alles, was*, Polish *wszystko, co* |
 | `pre` + time | before … | … ago | German *vor drei Jahren*, Czech *před třemi lety*, Serbian *pre tri godine* |
-| `nunka` | not-ever | never | Latin *numquam*, Spanish *nunca*, Croatian *nikad* (*ever* is `ever`) |
+| `nikdi` | not-ever | never | Czech *nikdy*, Polish *nigdy*, Croatian *nikad* (*ever* is `ever`) |
 
 ---
 
@@ -75,7 +75,7 @@ International words are taken from the shared European form and adapted with the
 
 | Source ending / letters | Uro | Examples |
 |-------------------------|-----|----------|
-| *-tion*, *-sion* | `-sion` | nation → `nasion`, information → `informasion`, station → `stasion`, television → `television` |
+| *-tion*, *-sion* | `-zion` | nation → `nazion`, information → `informazion`, station → `stazion`, television → `televizion` |
 | *-ity*, *-ität*, *-ité*, *-idad* | `-iti` | university → `universiti`, quality → `kualiti`, city → `ziti` |
 | *-ic*, *-ique*, *-isch* | `-ik` | electric → `elektrik`, music → `muzik`, public → `publik` |
 | *-ive*, *-iv*, *-ivo* | `-iv` | active → `aktiv`, positive → `positiv` |
@@ -84,7 +84,7 @@ International words are taken from the shared European form and adapted with the
 | *-y* (vowel) | `-i` | family → `famili`, taxi → `taksi` |
 | *-le* | `-el` | example → `eksampel` |
 | *c* /k/, *ch* /k/, *ck*, *q* | `k`, `ku` | club → `klub`, technology → `teknologi`, quality → `kualiti` |
-| *c* before *e*, *i* | `z` | centre → `zentrum`, social → `sozial` (*-tion* stays `-sion`) |
+| *c* before *e*, *i* | `z` | centre → `zentrum`, social → `sozial` (*-tion* → `-zion`) |
 | *x* | `ks` | taxi → `taksi`, example → `eksampel` |
 | *ph* | `f` | telephone → `telefon`, photo → `foto` |
 | *th* | `t` | technology → `teknologi`, theme → `tema` |
@@ -114,7 +114,7 @@ Most verbs that Europeans share come from Latin. They are found as *accepter / a
 - A stem that ends in a vowel keeps the *-t-* of its noun: create (*kreasion*) → `kreater`.
 - English *-fy* becomes `-fiker`: identify → `identifiker`, mean (signify) → `signifiker`.
 - English *-ize* becomes `-izer`: realize → `realizer`.
-- The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `dezider` / `dezision`, `kreater` / `kreasion`, `produzer` / `produksion`.
+- The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `dezider` / `dezizion`, `kreater` / `kreazion`, `produzer` / `produkzion`.
 
 A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `fang`, `find`, `forget`, `help`, `sing`, `spend`, `start`.
 

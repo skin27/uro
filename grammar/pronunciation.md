@@ -42,7 +42,7 @@ All other vowel combinations are pronounced as separate syllables: `ninio` = *ni
 | `j` | /j/ as in *yes* | `je`, `jar`, `jung`, `jellow` |
 | `k` | /k/ | `kalendar`, `klub` |
 | `r` | trilled, tapped or uvular /r ʀ ʁ/ | all are fine |
-| `s` | /s/ as in *sun* | always voiceless: `sol`, `sistem`, `nasion` |
+| `s` | /s/ as in *sun* | always voiceless: `sol`, `sistem`, `rasa` |
 | `v` | /v/ | `vider`, `vin` |
 | `w` | /w/ as in *water* (or /v/) | `water`, `we`, `wil`. German, Dutch and Slavic speakers may say /v/ |
 | `z` | /ts/ as in German *Zentrum*, Italian *grazie* (or /z/) | `ziti`, `zentrum`, `zero`, `zebra`. Both pronunciations are fine |
@@ -73,7 +73,7 @@ New words, especially international ones, are adapted with these rules (see also
 | Source spelling | Uro | Example |
 |-----------------|-----|---------|
 | `c`, `ck`, `ch`, `q` pronounced /k/ | `k` | electric → `elektrik`, club → `klub`, cocktail → `koktail` |
-| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarette`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sijensa`), and *-tion* stays `-sion` |
+| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarette`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sijensa`), and *-tion* / *-sion* become `-zion` (nation → `nazion`) |
 | `x` | `ks` | six → `siks`, taxi → `taksi` |
 | `qu` | `ku` | quality → `kualiti` |
 | `y` at the start of a word | `j` | yellow → `jellow` |

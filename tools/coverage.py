@@ -42,10 +42,10 @@ GRAMMAR = {
     "herself": "se (§4)",
     "itself": "se (§4)",
     "themselves": "se (§4)",
-    "n't": "ne (§8)",
+    "n't": "not (§8)",
     "so": "so (§6)",
-    "better": "mer bon (§6)",
-    "best": "de mest bon (§6)",
+    "better": "plus bon (§6)",
+    "best": "de plus bon (§6)",
 }
 
 # American or informal words that a European language does not need.
