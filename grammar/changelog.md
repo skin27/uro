@@ -24,6 +24,7 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - **Breaking spelling rule**: a Latin *c* before *e* or *i* is now written `z`, and `z` is pronounced /ts/ (as in German *Zentrum*, Italian *grazie*) or /z/. About 60 words were respelled, among them `ziti` (city, town), `zentrum`, `zentral`, `zivil`, `zitadin`, `dezember`, `zigarette`, `poliz`, `sozial`, `spezial`, `prozes`, `kapaziti`, `akzepter`, `dezider` / `dezision`, `produzer`, `reziver`, `plaz` (place, site; `in plaz fon`), `priz`, `serviz`, `zent` (100), `konduzer` (drive, lead). *sc* (`sijensa`) and *-sion* (`nasion`) are unchanged.
 - Other words: `kariera` (career, was `karijera`), `zenturi` (century, was `sekul`), `zertan` (certain, was `sert`), `stul` (chair, was `stol`), `okasion` (chance, was `shans`), `lader` (charge, was `lad`), `reklamer` (claim, was `afirmer`), `fermer` (close, was `kloz`).
 - `delikt` (crime, was `krimen`), `rezer` (cut, was `tajer`), `design` (design, was `dizain`), `trots` (despite, was `malgre`; the reserved list and the EBNF are updated).
+- `hund` (dog, was `dog`), `drop` (drop, was `las fal`), `emploje` (employee; *worker* stays `workor`), `enter` (enter, was `entrer`), `entero` (entire; *whole* stays `hel`), `medio` (environment, was `ambijent`), `ekologik` (environmental, was `ambijental`), `etabler` (establish, was `stabiler`), `ever` (ever, was `unka`), `eksist` (exist, was `eksister`).
 
 ---
 

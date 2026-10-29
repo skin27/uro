@@ -65,7 +65,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `un alter` | an other | another | French *un autre*, Italian *un altro*, German *ein anderer* |
 | `al ke` | all that | whatever | French *tout ce que*, German *alles, was*, Polish *wszystko, co* |
 | `pre` + time | before … | … ago | German *vor drei Jahren*, Czech *před třemi lety*, Serbian *pre tri godine* |
-| `unka` / `nunka` | ever / not-ever | ever / never | Latin *umquam* / *numquam*, Croatian *ikad* / *nikad*, Dutch *ooit* / *nooit* |
+| `nunka` | not-ever | never | Latin *numquam*, Spanish *nunca*, Croatian *nikad* (*ever* is `ever`) |
 
 ---
 
@@ -141,7 +141,6 @@ Uro does not copy every English distinction. When the main language families use
 
 | Uro | Literally | English | Same pattern in |
 |-----|-----------|---------|-----------------|
-| `las fal` | let fall | drop | French *laisser tomber*, German *fallen lassen*, Dutch *laten vallen* |
 | `lever se` | raise oneself | rise, get up | French *se lever*, Spanish *levantarse*, Italian *alzarsi* |
 | `demander se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
 | `ariver a` | arrive at | reach | Spanish *llegar a*, Portuguese *chegar a*, Romanian *a ajunge la* |

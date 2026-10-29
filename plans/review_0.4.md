@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 23 of 99 done** (next: *dog*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 28 of 99 done** (next: *expert*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -238,3 +238,53 @@ Status: **batch 23 of 99 done** (next: *dog*). Batches 4 onward are reviewed in 
 | 23 | disease | maladi | kept |
 | 23 | do | fakter | kept |
 | 23 | doctor | doktor | kept |
+| 24 | dog | hund | changed (was dog) |
+| 24 | door | porta | kept |
+| 24 | down | ab | kept |
+| 24 | draw | desiner | kept |
+| 24 | dream | drom | kept |
+| 24 | drive | konduzer | kept |
+| 24 | drop | drop | changed (was las fal; the phrase `las fal` is dropped from word_formation.md) |
+| 24 | drug | medikament | kept |
+| 24 | during | durant | kept |
+| 24 | each | kada | kept |
+| 25 | early | rano | kept |
+| 25 | east | ost | kept |
+| 25 | easy | fazil | kept |
+| 25 | eat | jester | kept |
+| 25 | economic | ekonomik | kept |
+| 25 | economy | ekonomi | kept |
+| 25 | edge | kant | kept |
+| 25 | education | edukasion | kept |
+| 25 | effect | efekt | kept |
+| 25 | effort | efort | kept |
+| 26 | eight | okt | kept |
+| 26 | either … or | o … o | kept |
+| 26 | election | eleksion | kept |
+| 26 | else | alter | kept |
+| 26 | employee | emploje | changed (was workor; *worker* stays `workor` in its own row) |
+| 26 | end | fin | kept |
+| 26 | energy | energi | kept |
+| 26 | enjoy | goder | kept |
+| 26 | enough | genug | kept |
+| 26 | enter | enter | changed (was entrer) |
+| 27 | entire | entero | changed (was hel; *whole* stays `hel` in its own row) |
+| 27 | environment | medio | changed (was ambijent) |
+| 27 | environmental | ekologik | changed (was ambijental) |
+| 27 | especially | spezialli | kept |
+| 27 | establish | etabler | changed (was stabiler) |
+| 27 | even | mem | kept |
+| 27 | evening | vecher | kept |
+| 27 | event | event | kept |
+| 27 | ever | ever | changed (was unka; *never* stays `nunka`) |
+| 27 | every | kada | kept |
+| 28 | everybody | al ludi | kept |
+| 28 | everyone | al ludi | kept |
+| 28 | everything | alting | kept |
+| 28 | evidence | evidenz | kept |
+| 28 | exactly | eksaktli | kept |
+| 28 | example | eksampel | kept |
+| 28 | executive | eksekutiv | kept |
+| 28 | exist | eksist | changed (was eksister) |
+| 28 | expect | ekspekter | kept |
+| 28 | experience | eksperijenz | kept |
