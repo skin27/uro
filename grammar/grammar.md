@@ -293,7 +293,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `trots` | despite | `trots de regen` (German *trotz*, Swedish *trots*) |
 | `segun` | according to | `segun de doktor` |
 | `inklusiv` | including | `ten euro, inklusiv de te` |
-| `in plaz fon` | instead of | `te in plaz fon kafe` |
+| `in plaza fon` | instead of | `te in plaza fon kafe` |
 
 - **Possession** is expressed with `fon`: `de nom fon de chiko` ("the boy's name"). There is no `'s` ending.
 - Uro never contracts a preposition with an article (no *du/del/zum*): `fon de`, `a de`, `in de`.
@@ -403,7 +403,7 @@ PP             ::= Prep NP
 Prep           ::= "in" | "fon" | "od" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
                  | "rund" | "eks" | "za" | "durant" | "trans" | "langs" | "vers"
-                 | "trots" | "segun" | "inklusiv" | "in plaz fon"
+                 | "trots" | "segun" | "inklusiv" | "in plaza fon"
 RelClause      ::= "ke" (NP)? VP
 
 VP             ::= ("not")? (Aux)? VerbChain (Complement)*

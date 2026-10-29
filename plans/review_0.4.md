@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 58 of 99 done** (next: *operation*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 68 of 99 done** (next: *read*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -590,3 +590,103 @@ Status: **batch 58 of 99 done** (next: *operation*). Batches 4 onward are review
 | 58 | open | open | kept |
 
 **Grammar decisions (batches 49–58):** all *-sion* words became *-zion*; comparison is `plus` / `de plus` (`mer`, `mest` removed); negation is `not` with the answer `no` (`ne` removed); `not … not` for *neither … nor*.
+| 59 | operation | operazion | kept |
+| 59 | opportunity | oportuniti | kept |
+| 59 | option | opzion | kept |
+| 59 | or | o | kept |
+| 59 | order | orden | kept |
+| 59 | organization | organizazion | kept |
+| 59 | other | alter | kept |
+| 59 | others | alters / alteri | kept |
+| 59 | our | nos / we | kept |
+| 59 | out | eks | kept |
+| 60 | outside | eks | kept |
+| 60 | over | over | kept |
+| 60 | own | propri | kept |
+| 60 | owner | proprijetar | kept |
+| 60 | page | pagina | kept |
+| 60 | pain | dolor | kept |
+| 60 | painting | pintura | kept |
+| 60 | paper | papir | kept |
+| 60 | parent | parent | kept |
+| 60 | part | part | kept |
+| 61 | participant | partizipant | kept |
+| 61 | particular | partikular | kept |
+| 61 | particularly | partikularli | kept |
+| 61 | partner | partner | kept |
+| 61 | party (celebration) | festa | changed (was fest) |
+| 61 | pass | paser | kept |
+| 61 | past | pasat | kept |
+| 61 | patient | pazient | changed (was pasijent; no ije, like Czech pacient) |
+| 61 | pattern | patron | kept |
+| 61 | pay | pager | kept |
+| 62 | peace | mir | kept |
+| 62 | people | ludi | kept |
+| 62 | per (through) | per | kept |
+| 62 | perform | performer | changed (was eksekuter) |
+| 62 | performance | performanz | changed (was eksekuzion) |
+| 62 | perhaps | kan ar | kept |
+| 62 | period | period | kept |
+| 62 | person | person | kept |
+| 62 | personal | personal | kept |
+| 62 | phone | telefon | kept |
+| 63 | physical | fizikal | changed (was fizik) |
+| 63 | pick | pluk | kept |
+| 63 | picture | imagin | kept |
+| 63 | piece | stuk | kept |
+| 63 | place | plaza | changed (was plaz; *site* and `in plaza fon` follow) |
+| 63 | plan | plan | kept |
+| 63 | plant | plant | kept |
+| 63 | play | speler | kept |
+| 63 | player | spelor | kept |
+| 63 | point | punkt | kept |
+| 64 | police | polizia | changed (was poliz) |
+| 64 | policy | politik | kept |
+| 64 | political | politik | kept |
+| 64 | politics | politik | kept |
+| 64 | poor | pobre | kept |
+| 64 | popular | popular | kept |
+| 64 | population | populazion | kept |
+| 64 | position | posizion | kept |
+| 64 | positive | positiv | kept |
+| 64 | possible | posibel | kept |
+| 65 | power | potenz | kept |
+| 65 | practice | praktik | kept |
+| 65 | prepare | preparer | kept |
+| 65 | present | present | kept |
+| 65 | president | president | kept |
+| 65 | pressure | prezion | kept |
+| 65 | pretty | bel | kept |
+| 65 | prevent | prevener | kept |
+| 65 | price | priz | kept |
+| 65 | private | privat | kept |
+| 66 | probably | probabelli | kept |
+| 66 | problem | problem | kept |
+| 66 | process | prozes | kept |
+| 66 | produce | produzer | kept |
+| 66 | product | produkt | kept |
+| 66 | production | produkzion | kept |
+| 66 | professional | profezional | kept |
+| 66 | professor | profesor | kept |
+| 66 | program | program | kept |
+| 66 | project | projekt | kept |
+| 67 | property | properti | changed (was proprijeti) |
+| 67 | protect | protekter | kept |
+| 67 | prove | prober | kept |
+| 67 | provide | provider | kept |
+| 67 | public | publik | kept |
+| 67 | pull | trek | kept |
+| 67 | purpose | objektiv | changed (was skop; the same word as goal) |
+| 67 | push | push | kept |
+| 67 | put | leger | kept |
+| 67 | quality | kualiti | kept |
+| 68 | question | frag | kept |
+| 68 | quickly | rapidli | kept |
+| 68 | quite | genug | kept |
+| 68 | race (contest) | korsa | kept |
+| 68 | radio | radio | kept |
+| 68 | raise | lever | kept |
+| 68 | range | gama | kept |
+| 68 | rate | rata | kept |
+| 68 | rather | genug | kept |
+| 68 | reach | ariver a | kept |
