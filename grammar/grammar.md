@@ -289,7 +289,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `trans` | across, beyond | `trans de strada`, `trans de monts` |
 | `langs` | along | `langs de reka` (like Dutch and Danish *langs*) |
 | `vers` | toward | `vers de stasion` |
-| `malgre` | despite | `malgre de regen` |
+| `trots` | despite | `trots de regen` (German *trotz*, Swedish *trots*) |
 | `segun` | according to | `segun de doktor` |
 | `inklusiv` | including | `ten euro, inklusiv de te` |
 | `in plaz fon` | instead of | `te in plaz fon kafe` |
@@ -371,7 +371,7 @@ Short function words are reserved. A new content word must not take any of these
 | Degree | `mer`, `mest`, `min`, `minst`, `so`, `trop`, `skoro`, `mem` |
 | Verbs & auxiliaries | `ar`, `haf`, `wil`, `go`, `kan`, `mus`, `dever`, `treb`, `wud`, `las` |
 | Negation & answers | `ne`, `ja` |
-| Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `malgre`, `segun`, `inklusiv` |
+| Prepositions | `in`, `fon`, `a`, `op`, `mit`, `bez`, `pro`, `pre`, `post`, `inter`, `kontra`, `per`, `under`, `over`, `til`, `bi`, `rund`, `eks`, `za`, `durant`, `trans`, `langs`, `vers`, `trots`, `segun`, `inklusiv` |
 | Direction adverbs | `ab` (and `op`, above) |
 | Conjunctions | `i`, `o`, `ale`, `if`, `ke`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
@@ -402,7 +402,7 @@ PP             ::= Prep NP
 Prep           ::= "in" | "fon" | "a" | "op" | "mit" | "bez" | "pro" | "pre" | "post"
                  | "inter" | "kontra" | "per" | "under" | "over" | "til" | "bi"
                  | "rund" | "eks" | "za" | "durant" | "trans" | "langs" | "vers"
-                 | "malgre" | "segun" | "inklusiv" | "in plas fon"
+                 | "trots" | "segun" | "inklusiv" | "in plaz fon"
 RelClause      ::= "ke" (NP)? VP
 
 VP             ::= ("ne")? (Aux)? VerbChain (Complement)*

@@ -34,7 +34,7 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
   - Past: `haf vider` or `videred`. Future: `wil vider` or `go vider`. Conditional: `wud vider`.
   - Modals take a bare verb (`Je voler go.`); `las` + object + verb means *let* (`Las nos go!`); the imperative is the base form (`Go!`).
 - **Adverbs & Comparison**: bare adjective or `-li` (`rapid` / `rapidli`); `mer` / `mest` / `min` / `minst` + adjective, `ke` = than.
-- **Prepositions**: `in`, `fon` (of/from), `a` (to), `op` (on), `mit` / `bez` (with/without), `pro` (for), `pre` / `post` (before/after), `trans` (across), `vers` (toward), `malgre` (despite), …
+- **Prepositions**: `in`, `fon` (of/from), `a` (to), `op` (on), `mit` / `bez` (with/without), `pro` (for), `pre` / `post` (before/after), `trans` (across), `vers` (toward), `trots` (despite), …
 - **Conjunctions**: `i`, `o`, `ale`, `if`, and the universal subordinator `ke` (that / which / than); compounds such as `mem if` (although) and `durant ke` (while).
 - **Negation**: `ne` placed before the verb (`je ne vider`). Negative words such as `nulting` and `nunka` work with or without `ne` (2 variants).
 - **Questions (2 variants)**: `SVO?` (`Ju parler Uro?`) or Verb–Subject inversion (`Parler ju Uro?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.

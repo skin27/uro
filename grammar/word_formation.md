@@ -127,7 +127,7 @@ Uro does not copy every English distinction. When the main language families use
 | `porter` | carry, wear | French *porter*, German *tragen*, Dutch *dragen*, Polish *nosić*, Russian *nosit'* |
 | `hold` | hold, keep | Dutch *houden*, Italian *tenere*, Polish *trzymać*, Russian *deržat'* |
 | `leg` | put, lay, set | German *legen*, Dutch *leggen*, Swedish *lägga* |
-| `konduser` | drive, lead | Spanish *conducir*, Portuguese *conduzir*, Romanian *a conduce* |
+| `konduzer` | drive, lead | Spanish *conducir*, Portuguese *conduzir*, Romanian *a conduce* |
 | `paser` | pass, happen | Spanish *pasar*, Portuguese *passar*, German *passieren* |
 | `prober` | try, prove | Italian *provare*, Spanish *probar*, Portuguese *provar* |
 | `biter` | beat, hit | Czech *bít*, Polish *bić*, Russian *bit'* |

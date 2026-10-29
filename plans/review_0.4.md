@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **batch 18 of 99 done** (next: *cost*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **batch 23 of 99 done** (next: *dog*). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -188,3 +188,53 @@ Status: **batch 18 of 99 done** (next: *cost*). Batches 4 onward are reviewed in
 | 18 | control | kontroler | kept |
 
 **Spelling rule (batch 14–16):** choosing *zentrum*, *ziti*, *zivil* … led to a new rule: a Latin *c* before *e* or *i* is written `z`, pronounced /ts/ or /z/. All earlier words were respelled with it (about 60, e.g. `kapaziti`, `akzepter`, `dezember`, `sozial`, `prozes`, `plaz`, `zent`). *sc* and *-sion* are unchanged.
+| 19 | cost | kost | kept |
+| 19 | could | wud kan | kept |
+| 19 | country | land | kept |
+| 19 | couple | par | kept |
+| 19 | course | kurs | kept |
+| 19 | court | tribunal | kept |
+| 19 | cover | kover | kept |
+| 19 | create | kreater | kept |
+| 19 | crime | delikt | changed (was krimen) |
+| 19 | cultural | kultural | kept |
+| 20 | culture | kultur | kept |
+| 20 | cup | tasa | kept |
+| 20 | current | aktual | kept |
+| 20 | customer | klijent | kept |
+| 20 | cut | rezer | changed (was tajer) |
+| 20 | dark | oskur | kept |
+| 20 | data | data | kept |
+| 20 | daughter | filia | kept |
+| 20 | day | den | kept |
+| 20 | dead | mort | kept |
+| 21 | deal (with) | trakter (mit) | kept |
+| 21 | death | mort | kept |
+| 21 | debate | debat | kept |
+| 21 | decade | dekad | kept |
+| 21 | decide | dezider | kept |
+| 21 | decision | dezision | kept |
+| 21 | deep | profund | kept |
+| 21 | defense | defens | kept |
+| 21 | degree | grado | kept |
+| 21 | democratic | demokratik | kept |
+| 22 | describe | deskriber | kept |
+| 22 | design | design | changed (was dizain; unadapted spelling) |
+| 22 | despite | trots | changed (was malgre; reserved preposition, grammar updated) |
+| 22 | detail | detal | kept |
+| 22 | determine | determiner | kept |
+| 22 | develop | developer | kept |
+| 22 | development | development | kept |
+| 22 | die | morer | kept |
+| 22 | difference | diferenz | kept |
+| 22 | different | diferent | kept |
+| 23 | difficult | difizil | kept |
+| 23 | dinner | diner | kept |
+| 23 | direction | direksion | kept |
+| 23 | director | direktor | kept |
+| 23 | discover | diskover | kept |
+| 23 | discuss | diskuter | kept |
+| 23 | discussion | diskusion | kept |
+| 23 | disease | maladi | kept |
+| 23 | do | fakter | kept |
+| 23 | doctor | doktor | kept |
