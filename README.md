@@ -40,7 +40,7 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
 - **Questions (2 variants)**: yes/no questions use `SVO?` by default (`Ju parler Uro?`), or inversion (`Parler ju Uro?`). After a question word the default is inversion (`Wo ar de stazion?`), unless the question word is the object (`Ki ju vider?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
 - **Word Formation**: international affixes (`-ist`, `-zion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
 
-The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.4.md`](plans/v0.4.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
+The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.5.md`](plans/v0.5.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word; `python tools/coverage.py tools/swadesh207.txt` does the same for the Swadesh list. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
 
 ## Learn Uro
 

@@ -381,6 +381,8 @@ Short function words are reserved. A new content word must not take any of these
 | Conjunctions | `i`, `o`, `ale`, `if`, `dat`, `ke`, `niz`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
 
+One exception: `rund` is both the preposition *around* (`rund de ziti`) and the adjective *round* (`un rund tabel`), as English *round* can be both.
+
 ---
 
 ## 15. Formal Grammar Summary (EBNF-Style for Parser Design)

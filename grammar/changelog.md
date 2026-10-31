@@ -10,6 +10,17 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 ---
 
+## Unreleased: 0.5
+
+Goal: cover the Swadesh 207-word list (see [`plans/v0.5.md`](../plans/v0.5.md)). `python tools/coverage.py tools/swadesh207.txt` went from 66.3% to 100%.
+
+- New `tools/swadesh207.txt`.
+- 70 new words in `nature_time.md`, `food_body.md`, `home.md`, `adjectives.md` and `verbs.md`, reviewed one by one in [`plans/review_0.5.md`](../plans/review_0.5.md): 61 proposed forms kept, 9 changed: `kosti` (bone), `koleno` (knee), `grizer` (bite), `spit` (spit), `numerer` (count), `lago` (lake), `led` (ice), `bruler` (burn), `rund` (round).
+- `rund` is both *around* and *round*, the one exception to the reserved list.
+- `lingua` now means both *language* and *tongue*. `dors` is *back* as a body part; `retur` stays the adverb.
+
+---
+
 ## Unreleased: 0.4 review
 
 A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](../plans/review_0.4.md).
