@@ -4,7 +4,7 @@ Uro is designed with an analytical, rule-based structure inspired by European la
 
 Where natural European languages diverge, Uro allows **at most two valid variants** for a grammatical construction.
 
-For plurals, the past, the future, adverbs, possessives and questions, the first form listed is the **default**: the one used in courses, vocabulary tables and texts. The second form stays correct and is understood.
+For plurals, the past, the future, adverbs, possessives, questions and negative words, the first form listed is the **default**: the one used in courses, vocabulary tables and texts. The second form stays correct and is understood.
 
 Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spelling: [`pronunciation.md`](pronunciation.md). Word formation: [`word_formation.md`](word_formation.md).
 
@@ -108,12 +108,12 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 - Demonstratives and quantifiers can stand alone as pronouns: `Je voler dis.` ("I want this.")
 - Combined with `ting` (thing) and `un` (one), they form indefinite pronouns: `somting` (something), `nulting` (nothing), `alting` (everything), `somun` (someone), `nulun` (nobody).
 - **Any**: Uro has no separate *any* words. Like Scandinavian *nogen/någon* and Czech *nějaký*, it uses:
-  - `som` in questions and `if` clauses: `Ju haf som frags?` ("Do you have any questions?"), `If somun kom, …` ("If anyone comes, …").
+  - `som` in questions and `if` clauses: `Ju haf som kwestias?` ("Do you have any questions?"), `If somun kom, …` ("If anyone comes, …").
   - `nul` with negation: `Je haf nul monni.` ("I don't have any money.")
   - `kada` for "any you like": `Ju kan kom kada den.` ("You can come any day.")
 - **Other and else**: `un alter` (another, like French *un autre*); `alter` after a pronoun means *else*: `somun alter` (someone else), `ke alter?` (what else?).
 - **Whatever**: `al ke` ("all that"), like French *tout ce que*, German *alles, was* and Polish *wszystko, co*: `Ju kan nemer al ke ju voler.` ("You can take whatever you want.")
-- **Same, such, own** are ordinary adjectives and go before the noun: `de idem dom` (the same house), `un tal frag` (such a question), `mi propri auto` (my own car).
+- **Same, such, own** are ordinary adjectives and go before the noun: `de idem dom` (the same house), `un tal kwestia` (such a question), `mi propri auto` (my own car).
 
 ---
 
@@ -134,7 +134,7 @@ Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endi
 | More … (than) | `plus` + Adj (+ `niz` …) | `Mi auto ar plus rapid niz tu auto.` |
 | Most … | `de plus` + Adj | `de plus bel ziti` |
 | Less … (than) | `min` + Adj (+ `niz` …) | `Dis libre ar min dorog.` |
-| Least … | `de minst` + Adj | `de minst difizil frag` |
+| Least … | `de minst` + Adj | `de minst difizil kwestia` |
 | As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
 - There are no irregular comparatives: `plus bon` ("better"), `de plus bon` ("the best").
@@ -227,7 +227,7 @@ The imperative is the base form, with no subject:
   - *With `ar`*: `On not ar in de dom.` ("He is not in the house.")
   - *Past/Future*: `We not haf vider` / `We not videred` ("We did not see") | `Ju not wil go` / `Ju not go go` ("You will not go").
 - The answer *no* is `no` (see §9).
-- **Negative words** (`nul`, `nulting`, `nulun`, `nikdi`) are negative by themselves. They can be used with or without `not` (2 variants): Germanic style `Je vider nulting.` or Romance/Slavic style `Je not vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
+- **Negative words** (`nul`, `nulting`, `nulun`, `nikdi`) are negative by themselves. By default they replace `not`, Germanic style: `Je vider nulting.` The variant keeps `not`, Romance/Slavic style: `Je not vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
 - **Neither … nor** is `not … not`, which replaces the `not` before the verb: `Je drink not kafe not te.` ("I drink neither coffee nor tea.")
 
 ---
@@ -235,7 +235,7 @@ The imperative is the base form, with no subject:
 ## 9. Questions
 
 ### Yes/No questions (2 valid forms)
-1. **`SVO` + Question Mark (`?`)** (Intonation / Punctuation), the default:
+1. **`SVO` + Question Mark (`?`)** (Intonation / Punctuation), the default for yes/no questions:
    - `Ju parler Uro?` ("Do you speak Uro?")
    - `On ar tu brat?` ("Is he your brother?")
 2. **Verb–Subject Inversion (`VSO`)**:
@@ -246,18 +246,18 @@ The imperative is the base form, with no subject:
 The answer is **`ja`** (yes) or **`no`** (no).
 
 ### Question words
-A question word comes first. It is followed by `SVO` (the default) or by inversion (2 variants) ([`questions.md`](../basic/questions.md)):
+A question word comes first. By default it is followed by inversion (Verb–Subject), and the variant is `SVO` (2 variants). If the question word is the object of the verb, the default is `SVO`, because inversion would change the meaning: `Ki ju vider?` ("Whom do you see?") against `Ki vider ju?` ("Who sees you?") ([`questions.md`](../basic/questions.md)):
 
 | Uro | English | Example |
 |-----|---------|---------|
 | `ki` | who | `Ki ar dat?` ("Who is that?") |
 | `ke` | what | `Ke ju voler?` ("What do you want?") |
-| `wo` | where | `Wo de stazion ar?` ("Where is the station?") |
-| `kando` | when | `Kando de tren kom?` / `Kando kom de tren?` |
-| `komo` | how | `Komo ju ar?` ("How are you?") |
-| `kuanto` | how much / many | `Kuanto to kost?` ("How much does it cost?") |
+| `wo` | where | `Wo ar de stazion?` ("Where is the station?") |
+| `kando` | when | `Kando kom de tren?` / `Kando de tren kom?` |
+| `komo` | how | `Komo ar ju?` ("How are you?") |
+| `kuanto` | how much / many | `Kuanto kost to?` ("How much does it cost?") |
 | `kual` | which | `Kual libre ju voler?` ("Which book do you want?") |
-| `pro ke` | why | `Pro ke ju rirer?` ("Why are you laughing?") |
+| `pro ke` | why | `Pro ke rirer ju?` ("Why are you laughing?") |
 
 `pro ke` literally means "for what". It is built like Italian *perché*, Spanish *por qué*, Czech *proč* and French *pourquoi*.
 

@@ -36,8 +36,8 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
 - **Adverbs & Comparison**: `-li` by default, or the bare adjective (`rapidli` / `rapid`); `plus` / `de plus` / `min` / `minst` + adjective, `niz` = than.
 - **Prepositions**: `in`, `fon` (of), `od` (from), `a` (to), `op` (on), `mit` / `bez` (with/without), `pro` (for), `pre` / `post` (before/after), `trans` (across), `vers` (toward), `trots` (despite), …
 - **Conjunctions**: `i`, `o`, `ale`, `if`, `dat` (that), `ke` (which, who) and `niz` (than); compounds such as `mem if` (although) and `durant ke` (while).
-- **Negation**: `not` placed before the verb (`je not vider`); the answer is `no`. Negative words such as `nulting` and `nikdi` work with or without `not` (2 variants).
-- **Questions (2 variants)**: `SVO?` by default (`Ju parler Uro?`), or Verb–Subject inversion (`Parler ju Uro?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
+- **Negation**: `not` placed before the verb (`je not vider`); the answer is `no`. Negative words such as `nulting` and `nikdi` replace `not` by default (`je vider nulting`), or can keep it (2 variants).
+- **Questions (2 variants)**: yes/no questions use `SVO?` by default (`Ju parler Uro?`), or inversion (`Parler ju Uro?`). After a question word the default is inversion (`Wo ar de stazion?`), unless the question word is the object (`Ki ju vider?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
 - **Word Formation**: international affixes (`-ist`, `-zion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
 
 The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.4.md`](plans/v0.4.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).

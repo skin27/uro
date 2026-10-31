@@ -990,7 +990,7 @@ Status: **review complete: all 99 batches done**. 988 rows: 857 kept, 131 change
 | 98 | would | wud | kept |
 | 98 | write | skriber | kept |
 | 98 | writer | skritor | kept |
-| 99 | wrong | fals | kept |
+| 99 | wrong | wrong | changed (was fals; *false* stays `fals`; re-saved after the first apply) |
 | 99 | year | ano | changed (was jar; `pre tri ano` (three years ago)) |
 | 99 | yes | ja | kept |
 | 99 | yet | ankora | kept |
@@ -998,3 +998,23 @@ Status: **review complete: all 99 batches done**. 988 rows: 857 kept, 131 change
 | 99 | young | jung | kept |
 | 99 | your | tu / ju | kept |
 | 99 | yourself | se | kept |
+
+## Core word pass
+
+A second look at broken word families, odd forms and mismatched pairs among the most common words.
+
+| Batch | English | Uro (M) | Decision |
+|------:|---------|---------|----------|
+| 100 | recognize | rekenner | changed (was rekonozer) |
+| 100 | building | konstrukzion | changed (was budova) |
+| 100 | environment | ekologi | changed (was medio) |
+| 100 | environmental | ekologik | kept |
+| 100 | question | kwestia | changed (was frag; typed in the review) |
+| 100 | message | message | changed (was messager; typed in the review) |
+| 100 | research | reserch | changed (was resercher) |
+| 101 | brother | brat | kept |
+| 101 | sister | sister | kept |
+| 101 | son | son | kept |
+| 101 | daughter | filia | kept |
+| 101 | there | tam | kept |
+| 101 | where | wo | kept |
