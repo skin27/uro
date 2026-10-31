@@ -2,7 +2,7 @@
 
 A word-by-word review of the 988 words of the EF top 1000 that Uro covers (the 12 skipped words left out), in batches of 10 in the order of `tools/top1000.txt`. For each word, the canonical `Uro (M)` form is either kept or replaced.
 
-Status: **review complete: all 99 batches done**. 988 rows: 857 kept, 131 changed or respelled. Grammar-level decisions are listed in the Unreleased section of [`changelog.md`](../grammar/changelog.md). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
+Status: **review complete: all 99 batches done**. 988 rows: 857 kept, 131 changed or respelled. After the review, each two-variant rule got a default, so *simply* is now `simpelli` by default (`simpel`, chosen in batch 77, stays valid). Grammar-level decisions are listed in the Unreleased section of [`changelog.md`](../grammar/changelog.md). Batches 4 onward are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
