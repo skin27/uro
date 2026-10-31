@@ -15,8 +15,8 @@ The basic rules for the construction of new words is as follows
 
 One letter, one sound. See **[`grammar/pronunciation.md`](grammar/pronunciation.md)** for the full letter-to-sound table, stress rule and spelling rules.
 
-- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `sol`, `sistem`). A Latin `c` before *e* or *i* becomes `z`, pronounced /ts/ or /z/ (e.g. `ziti`, `dezember`, `zigarette`, `sozial`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
-- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `ziti`, `enemi`, `universiti`, `whiski`) and internally (e.g. `sistem`).
+- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `sol`, `sistem`). A Latin `c` before *e* or *i* becomes `z`, pronounced /ts/ or /z/ (e.g. `ziti`, `dezember`, `zigarete`, `sozial`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
+- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `ziti`, `enemi`, `universiti`, `wiski`) and internally (e.g. `sistem`).
 - **Stress**: always on the second-to-last syllable (`VI-der`, `ka-LEN-dar`).
 
 ### Grammar & Morphology (Max 2 Variants)
@@ -40,7 +40,7 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
 - **Questions (2 variants)**: yes/no questions use `SVO?` by default (`Ju parler Uro?`), or inversion (`Parler ju Uro?`). After a question word the default is inversion (`Wo ar de stazion?`), unless the question word is the object (`Ki ju vider?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
 - **Word Formation**: international affixes (`-ist`, `-zion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
 
-The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.5.md`](plans/v0.5.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word; `python tools/coverage.py tools/swadesh207.txt` does the same for the Swadesh list. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
+The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.5.md`](plans/v0.5.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word; `python tools/coverage.py tools/swadesh207.txt` does the same for the Swadesh list. `python tools/lint.py` checks the words against the spelling rules. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
 
 ## Learn Uro
 
