@@ -23,24 +23,36 @@ One letter, one sound. See **[`grammar/pronunciation.md`](grammar/pronunciation.
 
 Unlike strictly schematic languages such as Esperanto that enforce a single artificial suffix for every part of speech, Uro intentionally preserves a natural European feel by allowing **at most two valid variants** for morphological and syntactic forms.
 
-See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specification (including EBNF syntax rules):
+See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specification (including EBNF syntax rules). Where there are two variants, the default is what courses, tables and texts use:
 
 - **Word Order**: Strict `SVO` (Subject–Verb–Object), with invariant adjectives always before the noun (`novo dom`).
 - **Articles**: Invariant `un` (a/an) and `de` (the).
-- **Noun Plurals (2 variants)**: `-s` (`libres`, `ninios`) or `-i` (`brati`, `domi`).
+- **Noun Plurals (2 variants)**: `-s` by default (`libres`, `ninios`), or `-i` (`brati`, `domi`).
 - **Pronouns & Possessives**: Personal pronouns ([`pronoun/personal_pronoun.md`](pronoun/personal_pronoun.md)), object pronouns `me`/`nos` and reflexive `se` ([`pronoun/object_pronoun.md`](pronoun/object_pronoun.md)), and possessives ([`pronoun/possessive_pronoun.md`](pronoun/possessive_pronoun.md)).
 - **Verbs & Tenses (2 variants)**:
   - Base forms use either bare roots (`hor`, `go`, `work`) or `-er` (`vider`, `parler`, `speler`, `jester`).
-  - Past: `haf vider` or `videred`. Future: `wil vider` or `go vider`. Conditional: `wud vider`.
+  - Past: `haf vider` by default, or `videred` (`ared`, `hafed`, `kaned` for *was*, *had*, *could*). Future: `wil vider` by default, or `go vider`. Conditional: `wud vider`.
   - Modals take a bare verb (`Je voler go.`); `las` + object + verb means *let* (`Las nos go!`); the imperative is the base form (`Go!`).
-- **Adverbs & Comparison**: bare adjective or `-li` (`rapid` / `rapidli`); `plus` / `de plus` / `min` / `minst` + adjective, `niz` = than.
+- **Adverbs & Comparison**: `-li` by default, or the bare adjective (`rapidli` / `rapid`); `plus` / `de plus` / `min` / `minst` + adjective, `niz` = than.
 - **Prepositions**: `in`, `fon` (of), `od` (from), `a` (to), `op` (on), `mit` / `bez` (with/without), `pro` (for), `pre` / `post` (before/after), `trans` (across), `vers` (toward), `trots` (despite), …
 - **Conjunctions**: `i`, `o`, `ale`, `if`, `dat` (that), `ke` (which, who) and `niz` (than); compounds such as `mem if` (although) and `durant ke` (while).
-- **Negation**: `not` placed before the verb (`je not vider`); the answer is `no`. Negative words such as `nulting` and `nikdi` work with or without `not` (2 variants).
-- **Questions (2 variants)**: `SVO?` (`Ju parler Uro?`) or Verb–Subject inversion (`Parler ju Uro?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
+- **Negation**: `not` placed before the verb (`je not vider`); the answer is `no`. Negative words such as `nulting` and `nikdi` replace `not` by default (`je vider nulting`), or can keep it (2 variants).
+- **Questions (2 variants)**: yes/no questions use `SVO?` by default (`Ju parler Uro?`), or inversion (`Parler ju Uro?`). After a question word the default is inversion (`Wo ar de stazion?`), unless the question word is the object (`Ki ju vider?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
 - **Word Formation**: international affixes (`-ist`, `-zion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
 
 The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.4.md`](plans/v0.4.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
+
+## Learn Uro
+
+The starter kit is in [`learn/`](learn/):
+
+- [`learn/grammar.md`](learn/grammar.md): Uro on one page, using the default forms
+- [`learn/words.md`](learn/words.md): the 1000 most common words, most frequent first
+- [`learn/texts.md`](learn/texts.md): five graded texts, side by side with English, Dutch, Portuguese and Polish
+
+`python tools/kit.py` rebuilds the word list and checks that the kit only uses words from the tables.
+
+Uro is a work in progress. The grammar and core words aren't stable before 1.0, so the kit can change with them.
 
 ## Vocabulary
 

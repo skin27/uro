@@ -4,6 +4,8 @@ Uro is designed with an analytical, rule-based structure inspired by European la
 
 Where natural European languages diverge, Uro allows **at most two valid variants** for a grammatical construction.
 
+For plurals, the past, the future, adverbs, possessives, questions and negative words, the first form listed is the **default**: the one used in courses, vocabulary tables and texts. The second form stays correct and is understood.
+
 Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spelling: [`pronunciation.md`](pronunciation.md). Word formation: [`word_formation.md`](word_formation.md).
 
 ---
@@ -19,7 +21,7 @@ Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spell
 - **Subordinate clauses keep `SVO`**. The verb never moves to the end (unlike German or Dutch).
   - *Example*: `Je kenner dat on ar in de dom.` ("I know that he is in the house.")
 - **Adverbs**: Manner adverbs follow the verb (or its object). Time and place adverbs go at the start or the end of the sentence.
-  - *Example*: `On parler rapid.` ("He speaks fast.")
+  - *Example*: `On parler rapidli.` ("He speaks fast.")
   - *Example*: `Morgen we go a Berlin.` / `We go a Berlin morgen.` ("Tomorrow we go to Berlin.")
 
 ---
@@ -43,9 +45,9 @@ Articles are **invariant** (they do not change for gender, number, or case) and 
 ## 3. Nouns & Plurals
 
 - **Base Form**: Nouns in vocabulary tables are listed in their singular base form. There is no grammatical gender agreement or case inflection on nouns.
-- **Pluralization (2 valid variants)**: Plurals are formed by adding either **`-s`** (Western: Romance/Germanic) or **`-i`** (Slavic/Italian/Romanian) to the singular noun:
+- **Pluralization (2 valid variants)**: The default plural adds **`-s`** (Western: Romance/Germanic) to the singular noun. The variant adds **`-i`** (Slavic/Italian/Romanian); it can't be used on nouns that already end in `-i`, and it can make two nouns look the same (`taksa` → `taksi`), so `-s` is the safe choice:
 
-| Noun ends in | Variant 1 | Variant 2 | Examples |
+| Noun ends in | Default | Variant | Examples |
 |--------------|-----------|-----------|----------|
 | a consonant | `-s` | `-i` | `dom` → `doms` / `domi`; `brat` → `brats` / `brati` |
 | `-s`, `-ks`, `-z`, `-sh`, `-ch` | `-es` | `-i` | `bus` → `buses` / `busi` |
@@ -60,7 +62,7 @@ Articles are **invariant** (they do not change for gender, number, or case) and 
 
 Personal pronouns ([`personal_pronoun.md`](../pronoun/personal_pronoun.md)), object pronouns ([`object_pronoun.md`](../pronoun/object_pronoun.md)) and possessive determiners ([`possessive_pronoun.md`](../pronoun/possessive_pronoun.md)) are organized as follows:
 
-| Person | Subject | Object | Possessive (Max 2 Variants) |
+| Person | Subject | Object | Possessive (default first) |
 |--------|---------|--------|-----------------------------|
 | **1st sg.** (I / me / my) | `je` | `me` | `mi` |
 | **2nd sg./pl.** (you / your) | `ju` | `ju` | `tu` or `ju` |
@@ -97,7 +99,7 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 | `som` | some | `som water` |
 | `mult` | many / much | `mult libres` |
 | `poko` | few / little | `poko temp` |
-| `nul` | no / none | `nul penge` |
+| `nul` | no / none | `nul monni` |
 | `kada` | every / each | `kada den` |
 | `alter` | other | `de alter chiko` |
 | `ambo` | both | `ambo brats` |
@@ -106,22 +108,22 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 - Demonstratives and quantifiers can stand alone as pronouns: `Je voler dis.` ("I want this.")
 - Combined with `ting` (thing) and `un` (one), they form indefinite pronouns: `somting` (something), `nulting` (nothing), `alting` (everything), `somun` (someone), `nulun` (nobody).
 - **Any**: Uro has no separate *any* words. Like Scandinavian *nogen/någon* and Czech *nějaký*, it uses:
-  - `som` in questions and `if` clauses: `Haf ju som frags?` ("Do you have any questions?"), `If somun kom, …` ("If anyone comes, …").
-  - `nul` with negation: `Je haf nul penge.` ("I don't have any money.")
+  - `som` in questions and `if` clauses: `Ju haf som kwestias?` ("Do you have any questions?"), `If somun kom, …` ("If anyone comes, …").
+  - `nul` with negation: `Je haf nul monni.` ("I don't have any money.")
   - `kada` for "any you like": `Ju kan kom kada den.` ("You can come any day.")
 - **Other and else**: `un alter` (another, like French *un autre*); `alter` after a pronoun means *else*: `somun alter` (someone else), `ke alter?` (what else?).
 - **Whatever**: `al ke` ("all that"), like French *tout ce que*, German *alles, was* and Polish *wszystko, co*: `Ju kan nemer al ke ju voler.` ("You can take whatever you want.")
-- **Same, such, own** are ordinary adjectives and go before the noun: `de idem dom` (the same house), `un tal frag` (such a question), `mi propri auto` (my own car).
+- **Same, such, own** are ordinary adjectives and go before the noun: `de idem dom` (the same house), `un tal kwestia` (such a question), `mi propri auto` (my own car).
 
 ---
 
 ## 6. Adjectives, Adverbs & Comparison
 
 ### Adverbs (2 valid variants)
-An adverb of manner is either the **bare adjective** (German/Dutch style) or the adjective + **`-li`**:
-- `On parler rapid.` / `On parler rapidli.` ("He speaks quickly.")
-- `Je slaper bon.` / `Je slaper bonli.` ("I sleep well.")
-- Every English adverb in *-ly* follows this rule, so it needs no word of its own: `klar` → `klar` / `klarli` (clearly), `normal` → `normalli` (usually), `posibel` → `posibelli` (possibly).
+An adverb of manner is by default the adjective + **`-li`**. The variant is the **bare adjective** (German/Dutch style):
+- `On parler rapidli.` / `On parler rapid.` ("He speaks quickly.")
+- `Je slaper bonli.` / `Je slaper bon.` ("I sleep well.")
+- Every English adverb in *-ly* follows this rule, so it needs no word of its own: `klar` → `klarli` / `klar` (clearly), `normal` → `normalli` (usually), `posibel` → `posibelli` (possibly).
 - Comparison works on adverbs too: `plus tard` (later), like French *plus tard* and Spanish *más tarde*.
 
 ### Comparison
@@ -132,7 +134,7 @@ Comparison is **analytic only**. Uro does not use the Germanic `-er`/`-est` endi
 | More … (than) | `plus` + Adj (+ `niz` …) | `Mi auto ar plus rapid niz tu auto.` |
 | Most … | `de plus` + Adj | `de plus bel ziti` |
 | Less … (than) | `min` + Adj (+ `niz` …) | `Dis libre ar min dorog.` |
-| Least … | `de minst` + Adj | `de minst difizil frag` |
+| Least … | `de minst` + Adj | `de minst difizil kwestia` |
 | As … as | `so` + Adj + `jak` | `On ar so grand jak su brat.` |
 
 - There are no irregular comparatives: `plus bon` ("better"), `de plus bon` ("the best").
@@ -168,16 +170,16 @@ Irregular/Auxiliary verbs in the present tense are invariant:
 - **To have**: `haf` ([`to_have.md`](../verbs/to_have.md)) — `je haf`, `ju haf`, `on haf`, `we haf`, `oni haf`.
 
 ### Past & Future Tenses (2 Valid Variants)
-Both forms are valid in each tense:
+Both forms are valid in each tense. The first is the default:
 
-| Tense | Variant 1 | Variant 2 | Examples ("I saw" / "I will see") |
+| Tense | Default | Variant | Examples ("I saw" / "I will see") |
 |-------|-----------|-----------|-----------------------------------|
 | **Present** | `Verb` | — | `je vider` / `je work` |
 | **Past** | `haf + Verb` | `Verb-ed` | `je haf vider` or `je videred` (`je worked`) |
 | **Future** | `wil + Verb` | `go + Verb` | `je wil vider` or `je go vider` |
 
 - The future with `go` follows the European "going to" construction: French *je vais voir*, Spanish *voy a ver*, Dutch *ik ga zien*, English *I'm going to see*.
-- The past of `ar` and `haf` follows the same rule: `je ared` / `je haf ar` ("I was"), `je hafed` / `je haf haf` ("I had").
+- `ar`, `haf` and `kan` are the exception: their default past is `-ed`, because `je haf haf` reads badly. `je ared` / `je haf ar` ("I was"), `je hafed` / `je haf haf` ("I had"), `je kaned` / `je haf kan` ("I could").
 
 ### Conditional
 The conditional is **`wud` + bare verb**, built like the future with `wil` (English *would*, German *würde*, Dutch *zou*, Swedish *skulle*, and the Slavic particle *by*):
@@ -190,7 +192,7 @@ The conditional is **`wud` + bare verb**, built like the future with `wil` (Engl
 
 - An `if` clause takes the present for a real condition and the past for an unreal one. Only the main clause takes `wud`:
   - `If ju kom, we go a de museum.` ("If you come, we will go to the museum.")
-  - `If je hafed penge, je wud kuper un auto.` ("If I had money, I would buy a car.")
+  - `If je hafed monni, je wud kuper un auto.` ("If I had money, I would buy a car.")
 - `wud` also makes a request polite: `Je wud voler un kafe.` ("I would like a coffee.")
 - `could` in the sense of past ability is the past of `kan`: `je kaned` / `je haf kan` ("I could, I was able to").
 
@@ -225,7 +227,7 @@ The imperative is the base form, with no subject:
   - *With `ar`*: `On not ar in de dom.` ("He is not in the house.")
   - *Past/Future*: `We not haf vider` / `We not videred` ("We did not see") | `Ju not wil go` / `Ju not go go` ("You will not go").
 - The answer *no* is `no` (see §9).
-- **Negative words** (`nul`, `nulting`, `nulun`, `nikdi`) are negative by themselves. They can be used with or without `not` (2 variants): Germanic style `Je vider nulting.` or Romance/Slavic style `Je not vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
+- **Negative words** (`nul`, `nulting`, `nulun`, `nikdi`) are negative by themselves. By default they replace `not`, Germanic style: `Je vider nulting.` The variant keeps `not`, Romance/Slavic style: `Je not vider nulting.` ("I don't see anything.") Two negatives never cancel each other out.
 - **Neither … nor** is `not … not`, which replaces the `not` before the verb: `Je drink not kafe not te.` ("I drink neither coffee nor tea.")
 
 ---
@@ -233,7 +235,7 @@ The imperative is the base form, with no subject:
 ## 9. Questions
 
 ### Yes/No questions (2 valid forms)
-1. **`SVO` + Question Mark (`?`)** (Intonation / Punctuation):
+1. **`SVO` + Question Mark (`?`)** (Intonation / Punctuation), the default for yes/no questions:
    - `Ju parler Uro?` ("Do you speak Uro?")
    - `On ar tu brat?` ("Is he your brother?")
 2. **Verb–Subject Inversion (`VSO`)**:
@@ -244,18 +246,18 @@ The imperative is the base form, with no subject:
 The answer is **`ja`** (yes) or **`no`** (no).
 
 ### Question words
-A question word comes first. It is followed by `SVO` or by inversion (2 variants) ([`questions.md`](../basic/questions.md)):
+A question word comes first. By default it is followed by inversion (Verb–Subject), and the variant is `SVO` (2 variants). If the question word is the object of the verb, the default is `SVO`, because inversion would change the meaning: `Ki ju vider?` ("Whom do you see?") against `Ki vider ju?` ("Who sees you?") ([`questions.md`](../basic/questions.md)):
 
 | Uro | English | Example |
 |-----|---------|---------|
 | `ki` | who | `Ki ar dat?` ("Who is that?") |
 | `ke` | what | `Ke ju voler?` ("What do you want?") |
 | `wo` | where | `Wo ar de stazion?` ("Where is the station?") |
-| `kando` | when | `Kando de tren kom?` / `Kando kom de tren?` |
-| `komo` | how | `Komo ju ar?` ("How are you?") |
-| `kuanto` | how much / many | `Kuanto to kost?` ("How much does it cost?") |
+| `kando` | when | `Kando kom de tren?` / `Kando de tren kom?` |
+| `komo` | how | `Komo ar ju?` ("How are you?") |
+| `kuanto` | how much / many | `Kuanto kost to?` ("How much does it cost?") |
 | `kual` | which | `Kual libre ju voler?` ("Which book do you want?") |
-| `pro ke` | why | `Pro ke ju rirer?` ("Why are you laughing?") |
+| `pro ke` | why | `Pro ke rirer ju?` ("Why are you laughing?") |
 
 `pro ke` literally means "for what". It is built like Italian *perché*, Spanish *por qué*, Czech *proč* and French *pourquoi*.
 
@@ -286,7 +288,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `rund` | around | `rund de ziti` |
 | `eks` | out of | `eks de dom` |
 | `za` | behind | `za de dom` |
-| `durant` | during | `durant de nok` |
+| `durant` | during | `durant de noht` |
 | `trans` | across, beyond | `trans de strada`, `trans de monts` |
 | `langs` | along | `langs de reka` (like Dutch and Danish *langs*) |
 | `vers` | toward | `vers de stazion` |

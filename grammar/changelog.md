@@ -14,6 +14,11 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](../plans/review_0.4.md).
 
+- **Default forms**: where the grammar allows two variants, the first is now the default used in courses, tables and texts; the second stays correct. Plural `-s`; past `haf` + verb (but `ared`, `hafed`, `kaned`); future `wil` + verb; adverb `-li`; possessives `tu`, `su`, `nos`; yes/no questions in `SVO` order; inversion after a question word, unless it is the object (`Wo ar de stazion?`, but `Ki ju vider?`); negative words replace `not` (`Je vider nulting.`). The sample text and examples follow.
+- Out-of-date examples fixed: `bon matin`, `bon noht`, `dis noht`, `nul monni`, `durant de noht`.
+- Core word pass: `rekenner` (recognize; know, knowledge and recognize now share a root), `konstrukzion` (building, like `konstruer`), `ekologi` (environment, pairs with `ekologik`; `medio` is now only *middle*), `kwestia` (question), `message` (message), `reserch` (research), `wrong` (wrong; *false* stays `fals`).
+- New starter kit in `learn/`: a one-page grammar, the 1000 common words in frequency order, and five graded texts with Dutch, Portuguese and Polish beside them. `tools/kit.py` builds the word list and checks the kit against the tables.
+
 - Nouns: `aktion` (action, was `aksion`), `suma` (amount, was `kuantiti`), `analisis` (analysis, was `analiz`), `pristup` (approach, was `aproch`).
 - Verbs: `admit` (was `admiter`), `influer` (affect, was `afekter`), `permit` (allow, was `permiter`), `demander` (ask, was `frager`), `asumer` (assume, was `suposer`). *Wonder* follows *ask*: `demander se` (was `frager se`).
 - Function words: `skoro` (almost, was `kuasi`), `langs` (along, was `long`; `long` stays the adjective), `tambjen` (also, was `auk`), `jak` (as, like, was `komo`; *as … as* is now `so … jak`, and `komo` stays *how*). The reserved list and the EBNF are updated.
@@ -33,7 +38,7 @@ A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](.
 - **Breaking, negation**: `not` before the verb (`Je not vider.`), `no` as the answer, `not … not` for *neither … nor*. `ne` is gone. `nikdi` (never, was `nunka`).
 - `mashina` (machine), `magazin` (magazine), `manajement` (management), `matrimonio` (marriage), `afer` (matter), `messager` (message), `monni` (money), `monat` (month), `matin` (morning), `noht` (night), `biuro` (office).
 - `festa` (party), `pazient` (patient), `performer` / `performanz` (perform, performance), `fizikal` (physical), `plaza` (place, site; `in plaza fon`), `polizia` (police), `properti` (property), `objektiv` (purpose, the same word as goal).
-- `pronto` (ready), `rekonozer` (recognize), `resercher` (research), `resurs` (resource), `rich` (rich), `strada` (road; *way* stays `weg`), `dir` (say, tell, was `sag`), `skena` (scene, stage), `sijentia` / `sijentist` (science, scientist), `shaker` (shake); *simply* uses the bare adverb `simpel`.
+- `pronto` (ready), `rekonozer` (recognize), `resercher` (research), `resurs` (resource), `rich` (rich), `strada` (road; *way* stays `weg`), `dir` (say, tell, was `sag`), `skena` (scene, stage), `sijentia` / `sijentist` (science, scientist), `shaker` (shake).
 - `skin` (skin, was `pel`), `klang` (sound, was `zvuk`), `surza` (source), `etapa` (stage, phase), `ankora` (still, yet).
 - **Breaking, subordinate clauses**: `dat` (that, like Dutch *dat*), `niz` (than, like Polish *niż*); `ke` stays for relative clauses, *what* and the compounds `pro ke`, `durant ke`, `al ke`. The reserved list and the EBNF are updated.
 - `zu` (too, was `trop`), `multi` (very; *many, much* stay `mult`), `travel` (travel, trip, was `reis`), `krig` (war, was `vojna`), `watch` (watch, was `luk`), `breit` (wide, was `larg`), `win` (win, was `vinzer`), `okno` (window, was `fenestra`), `ano` (year, was `jar`).

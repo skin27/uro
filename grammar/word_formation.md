@@ -24,9 +24,9 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `-iv` | adjective: "tending to" | `aktiv`, `positiv` |
 | `-li` | adverb (optional variant) | `rapid` → `rapidli`, `feli` → `felili` |
 | `-a` | female (optional) | `chiko` → `chika`, `on` → `ona` |
-| `-ed` | past tense / participle | `work` → `worked`, `vider` → `videred` |
+| `-ed` | past tense (variant; the default past is `haf` + verb) | `work` → `worked`, `vider` → `videred` |
 
-> **Not `-er` for people.** In Uro `-er` is the verb ending (`speler` = to play), so it is never used for agent nouns (*player*, Dutch *speler*) or comparatives (*bigger*). Use `-ist`/`-or` for people and `mer` for comparison.
+> **Not `-er` for people.** In Uro `-er` is the verb ending (`speler` = to play), so it is never used for agent nouns (*player*, Dutch *speler*) or comparatives (*bigger*). Use `-ist`/`-or` for people and `plus` for comparison.
 
 ## 2. Prefixes
 
@@ -144,6 +144,6 @@ Uro does not copy every English distinction. When the main language families use
 | `lever se` | raise oneself | rise, get up | French *se lever*, Spanish *levantarse*, Italian *alzarsi* |
 | `demander se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
 | `ariver a` | arrive at | reach | Spanish *llegar a*, Portuguese *chegar a*, Romanian *a ajunge la* |
-| `rekonozer` | re-know | recognize | Latin *recognoscere*, Italian *riconoscere*, Spanish *reconocer* |
+| `rekenner` | re-know | recognize | Dutch *herkennen*, German *erkennen*, Italian *riconoscere* |
 | `diskover` | un-cover | discover | Spanish *descubrir*, German *entdecken*, Russian *otkryvat'* |
 | `plener` | make full (`plen`) | fill | French *remplir*, Polish *napełniać*, Russian *napolnjat'* |
