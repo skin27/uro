@@ -42,6 +42,18 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
 
 The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.4.md`](plans/v0.4.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
 
+## Learn Uro
+
+The starter kit is in [`learn/`](learn/):
+
+- [`learn/grammar.md`](learn/grammar.md): Uro on one page, using the default forms
+- [`learn/words.md`](learn/words.md): the 1000 most common words, most frequent first
+- [`learn/texts.md`](learn/texts.md): five graded texts, side by side with English, Dutch, Portuguese and Polish
+
+`python tools/kit.py` rebuilds the word list and checks that the kit only uses words from the tables.
+
+Uro is a work in progress. The grammar and core words aren't stable before 1.0, so the kit can change with them.
+
 ## Vocabulary
 
 Examples of the vocabulary can be found in the various markdown files:
