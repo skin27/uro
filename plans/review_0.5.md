@@ -2,7 +2,7 @@
 
 A word-by-word review of the 70 new Swadesh words (see [`v0.5.md`](v0.5.md)), in batches of 10 in Swadesh order. For each word, the proposed `Uro (M)` form is either kept or replaced. The batches are reviewed in the [Uro Word Review](https://claude.ai/artifact/Dha2PWhvzbC44wa2isb6sn) app.
 
-Status: **Swadesh words and rule pass complete**. Swadesh words: 7 batches, 70 rows, 61 kept and 9 changed. Rule pass: 5 batches, 48 words, 44 changed and 4 kept. Thesaurus words: first set 99 words, 80 kept and 19 changed; second set 100 words, 86 kept and 14 changed; third set 100 words, 87 kept and 13 changed. All three sets are applied; **58 more words are chosen but not prepared**.
+Status: **all reviews complete**. Swadesh words: 7 batches, 70 rows, 61 kept and 9 changed. Rule pass: 5 batches, 48 words, 44 changed and 4 kept. Thesaurus and everyday words: first set 99 words, 80 kept and 19 changed; second set 100 words, 86 kept and 14 changed; third set 100 words, 87 kept and 13 changed; fourth set 100 words, 93 kept and 7 changed; fifth set 100 words, 90 kept and 10 changed (see [`v0.5.md`](v0.5.md) §5).
 
 | Batch | English | Uro (M) | Decision |
 |------:|---------|---------|----------|
@@ -447,3 +447,213 @@ Third set:
 | 10 | hell | inferno | kept |
 | 10 | holy | sant | kept |
 | 10 | temple | tempel | kept |
+
+Fourth set:
+
+| Batch | English | Uro (M) | Decision |
+|------:|---------|---------|----------|
+| 1 | plain (land) | plain | kept |
+| 1 | mist | mist | kept |
+| 1 | desert | desert | kept |
+| 1 | pond | pond | kept |
+| 1 | meadow | luka | kept |
+| 1 | ancestor | predok | kept |
+| 1 | rooster | kogut | kept |
+| 1 | calf (animal) | kalf | kept |
+| 1 | kitten | kiten | kept |
+| 1 | cattle | katel | kept |
+| 2 | beak | bek | kept |
+| 2 | breath | respir | kept |
+| 2 | nostril | nozdra | kept |
+| 2 | bald | kalvo | kept |
+| 2 | alive | vivo | kept |
+| 2 | lick | lik | kept |
+| 2 | yawn | zever | kept |
+| 2 | corpse | kadaver | kept |
+| 2 | grave | grob | kept |
+| 2 | grain | grano | kept |
+| 3 | tasty | tasti | kept |
+| 3 | dough | testo | kept |
+| 3 | kettle | ketel | changed (was chainik) |
+| 3 | meal | maltid | kept |
+| 3 | stir | mesher | kept |
+| 3 | bracelet | armband | changed (was brazelet) |
+| 3 | collar | kolar | kept |
+| 3 | jewel | juvel | kept |
+| 3 | necklace | kolier | kept |
+| 3 | cap | kap | kept |
+| 4 | tailor | tailor | kept |
+| 4 | razor | razor | kept |
+| 4 | chimney | komin | kept |
+| 4 | hut | hut | kept |
+| 4 | barn | barn | kept |
+| 4 | fence | plot | kept |
+| 4 | yard | dvor | kept |
+| 4 | pillow | kusen | kept |
+| 4 | blanket | deka | kept |
+| 4 | carpet | tapet | kept |
+| 5 | curtain | kortina | kept |
+| 5 | shelf | regal | changed (was polka) |
+| 5 | ladder | skala | kept |
+| 5 | bucket | vedro | kept |
+| 5 | pipe | truba | changed (was tub) |
+| 5 | broom | metla | kept |
+| 5 | crop | krop | kept |
+| 5 | pine | pin | kept |
+| 5 | hay | seno | kept |
+| 5 | vine | vinia | kept |
+| 6 | shovel | lopata | kept |
+| 6 | tobacco | tabak | kept |
+| 6 | carve | skulpter | kept |
+| 6 | stretch | strech | kept |
+| 6 | knot | knot | kept |
+| 6 | string | string | kept |
+| 6 | screw | skru | kept |
+| 6 | wrap | envolver | kept |
+| 6 | anchor | anker | kept |
+| 6 | crawl | puzer | kept |
+| 7 | oar | veslo | kept |
+| 7 | slide | glid | kept |
+| 7 | raft | raft | kept |
+| 7 | hire | kontrakter | kept |
+| 7 | salary | salari | kept |
+| 7 | carpenter | karpenter | kept |
+| 7 | hook | hak | kept |
+| 7 | length | longiti | kept |
+| 7 | depth | profunditi | kept |
+| 7 | fault | falt | kept |
+| 8 | spirit | spirit | kept |
+| 8 | anxiety | angst | kept |
+| 8 | joy | radost | kept |
+| 8 | jealous | zelos | changed (was djelos) |
+| 8 | faithful | fidel | kept |
+| 8 | dare | oser | kept |
+| 8 | confess | konfeser | kept |
+| 8 | pen | pen | kept |
+| 8 | custom (habit) | kustom | kept |
+| 8 | noble | nobel | kept |
+| 9 | tribe | tribu | kept |
+| 9 | wedding | weding | changed (was svadba) |
+| 9 | funeral | funeral | kept |
+| 9 | host (of a guest) | host | kept |
+| 9 | castle | kastel | kept |
+| 9 | armor | armur | kept |
+| 9 | bow (weapon) | arko | kept |
+| 9 | defeat | poraz | kept |
+| 9 | helmet | helm | kept |
+| 9 | shield | shild | kept |
+| 10 | spear | lanza | kept |
+| 10 | surrender | kapituler | kept |
+| 10 | accuse | akuzer | kept |
+| 10 | condemn | kondemner | kept |
+| 10 | oath | eid | kept |
+| 10 | altar | altar | kept |
+| 10 | demon | demon | kept |
+| 10 | sacrifice | sakrifiz | kept |
+| 10 | witch | strega | changed (was heksa) |
+| 10 | worship | adorer | kept |
+
+Fifth set:
+
+| Batch | English | Uro (M) | Decision |
+|------:|---------|---------|----------|
+| 1 | quiet | silenz | changed (was kuiet) |
+| 1 | empty | pust | kept |
+| 1 | fresh | fresh | kept |
+| 1 | strange | strano | kept |
+| 1 | funny | komik | kept |
+| 1 | calm | kalm | kept |
+| 1 | honest | honest | kept |
+| 1 | polite | polit | kept |
+| 1 | rude | rud | kept |
+| 1 | shy | timid | kept |
+| 2 | curious | kurios | kept |
+| 2 | clever | klug | kept |
+| 2 | lonely | solitar | changed (was samotni) |
+| 2 | nervous | nervos | kept |
+| 2 | comfortable | komfortabel | kept |
+| 2 | boring | boring | kept |
+| 2 | drunk | drunk | kept |
+| 2 | pale | palid | kept |
+| 2 | celebrate | zelebrer | kept |
+| 2 | climb | klimer | kept |
+| 3 | kick | kik | kept |
+| 3 | knock | stuker | changed (was kloper) |
+| 3 | hug | hug | kept |
+| 3 | swallow | gloter | kept |
+| 3 | complain | klager | kept |
+| 3 | apologize | ekskuser | kept |
+| 3 | greet | saluter | kept |
+| 3 | pretend | pretender | kept |
+| 3 | hesitate | hesiter | kept |
+| 3 | regret | regreter | kept |
+| 4 | scare | strasher | kept |
+| 4 | warn | warn | kept |
+| 4 | advise | rader | kept |
+| 4 | remind | rememorer | kept |
+| 4 | rent | renter | kept |
+| 4 | repair | reparer | kept |
+| 4 | melt | melt | kept |
+| 4 | bottle | botel | kept |
+| 4 | bathroom | badrom | kept |
+| 4 | bedroom | slaprom | kept |
+| 5 | stairs | trepa | kept |
+| 5 | ceiling | plafon | kept |
+| 5 | sofa | sofa | kept |
+| 5 | drawer | lada | kept |
+| 5 | wardrobe | garderob | kept |
+| 5 | umbrella | paraplu | kept |
+| 5 | suitcase | kofer | kept |
+| 5 | wallet | portfel | kept |
+| 5 | glasses | okular | kept |
+| 5 | jacket | jaket | kept |
+| 6 | scarf | skarf | changed (was sharf) |
+| 6 | ring | ring | kept |
+| 6 | bell | zvono | kept |
+| 6 | toy | toi | changed (was igrachka) |
+| 6 | trash | trash | kept |
+| 6 | pencil | penzil | kept |
+| 6 | plastic | plastik | kept |
+| 6 | steel | stal | kept |
+| 6 | onion | zebula | kept |
+| 6 | garlic | chesnok | kept |
+| 7 | carrot | karot | kept |
+| 7 | tomato | tomato | kept |
+| 7 | lemon | limon | kept |
+| 7 | banana | banana | kept |
+| 7 | mushroom | fungo | kept |
+| 7 | cake | torta | kept |
+| 7 | chocolate | chokolat | kept |
+| 7 | juice | suko | kept |
+| 7 | strawberry | jagoda | kept |
+| 7 | bake | bak | kept |
+| 8 | storm | storm | kept |
+| 8 | flood | flud | kept |
+| 8 | earthquake | teremoto | kept |
+| 8 | beach | plaja | changed (was plazha) |
+| 8 | ocean | ozean | kept |
+| 8 | planet | planet | kept |
+| 8 | rainbow | regenbog | kept |
+| 8 | frog | zhaba | changed (was frog) |
+| 8 | butterfly | motil | changed (was papilon) |
+| 8 | spider | pauk | kept |
+| 9 | ant | ant | changed (was formika) |
+| 9 | owl | sova | kept |
+| 9 | rabbit | kanin | kept |
+| 9 | muscle | muskel | kept |
+| 9 | sweat | swet | kept |
+| 9 | fever | febra | kept |
+| 9 | pill | pil | kept |
+| 9 | thief | robor | kept |
+| 9 | hero | hero | kept |
+| 9 | twin | twin | kept |
+| 10 | nurse | medsestra | changed (was nurs) |
+| 10 | dentist | dentist | kept |
+| 10 | waiter | kelner | kept |
+| 10 | weekend | wikend | kept |
+| 10 | midnight | midnoht | kept |
+| 10 | birthday | aniversar | kept |
+| 10 | holiday | vakanza | kept |
+| 10 | flag | flag | kept |
+| 10 | traffic | trafik | kept |
+| 10 | surprise | surpriz | kept |

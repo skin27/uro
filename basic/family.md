@@ -1,5 +1,6 @@
 | English | Uro (M) | Uro (AI)  | Croatian |  Czech |  Danish |  Dutch  |  French |   German  |  Italian |  Polish | Portuguese | Romanian |     Russian     |       Serbian       | Slovak | Spanish | Swedish |
 |---------|---------|:---------:|:--------:|:------:|:-------:|:-------:|:-------:|:---------:|:--------:|:-------:|:----------:|:--------:|:---------------:|:-------------------:|:------:|:-------:|:-------:|
+| ancestor | predok  | —         | predak   | předek | forfader | voorouder | ancêtre | Vorfahr   | antenato | przodek | antepassado | strămoș  | предок [prédok] | предак [predak]     | predok | antepasado | förfader |
 | cousin  | kuzin   | —         | bratić   | bratranec | fætter  | neef    | cousin  | Cousin    | cugino   | kuzyn   | primo      | văr      | двоюродный брат [dvojúrodnyj brat] | брат од стрица [brat od strica] | bratranec | primo   | kusin   |
 | family  | famili  | familia   | obitelj  | rodina | familie | familie | famille | Familie   | famiglia | rodzina | família    | familie  | семья [sémja]   | породица [porodica] | rodina | familia | familj  |
 | granddaughter | granfilia | —         | unuka    | vnučka | barnebarn | kleindochter | petite-fille | Enkelin   | nipote   | wnuczka | neta       | nepoată  | внучка [vnúčka] | унука [unuka]       | vnučka | nieta   | barnbarn |

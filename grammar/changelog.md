@@ -19,6 +19,8 @@ Goals: cover the Swadesh 207-word list, make the rules and the words agree, and 
 - 100 new rows chosen from *A Conlanger's Thesaurus* (Annis 2014), reviewed in [`plans/review_0.5.md`](../plans/review_0.5.md): `kaval` (horse), `klima` (weather), `kniv` (knife), `brekfast`, `kral` (king), and more.
 - 100 more rows from the same source, also reviewed: `wolf`, `barba` (beard), `lunch`, `kandel` (candle), and more.
 - 100 more rows from the same source, also reviewed: `widow`, `leder` (leather), `tempel`, `tower`, and more.
+- 100 more rows from the same source and from everyday gaps, also reviewed: `ketel` (kettle), `regal` (shelf), `weding`, `strega` (witch), and more.
+- 100 more rows of everyday words, also reviewed: `silenz` (quiet), `botel` (bottle), `zhaba` (frog), `medsestra` (nurse), `plaja` (beach), and more. The vocabulary is now 1543 different forms, past the goal of 1500.
 - Three new sample texts in `texts/` that use 83 of the new words: `king_and_beggar.md`, `day_at_grandfathers.md`, `bean_soup.md`. `tools/kit.py` now checks the sample texts against the tables too.
 
 ### Rule pass
