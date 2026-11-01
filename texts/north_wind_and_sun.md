@@ -1,15 +1,15 @@
 # De Wind i de Sol
 
-A short retelling of Aesop's fable *The North Wind and the Sun*, the classic test text for languages. Every word comes from the vocabulary tables, and every sentence follows [`grammar.md`](../grammar/grammar.md) (v0.4), using the default forms.
+A short retelling of Aesop's fable *The North Wind and the Sun*, the classic test text for languages. Every word comes from the vocabulary tables, and every sentence follows [`grammar.md`](../grammar/grammar.md), using the default forms.
 
 ## Uro
 
 De wind i de sol haf demander: "Ki fon we ar plus sterk?"
-Then un man haf kom op de weg, in un warm mantel.
+Dan un man haf kom op de weg, in un warm mantel.
 De wind i de sol haf dir: "De prim ke fakter de man open su mantel, ar de plus sterk."
-De wind haf blas so sterkli jak on kaned, ale de man haf hold su mantel plus sterkli rund se.
-Then de wind haf stop.
-Then de sol haf kom, warm i bel, i de man haf open su mantel direkt.
+De wind haf blaser so sterkli jak on kaned, ale de man haf hold su mantel plus sterkli rund se.
+Dan de wind haf stop.
+Dan de sol haf kom, warm i bel, i de man haf open su mantel direkt.
 Pro dis, de wind haf dir dat de sol ar de plus sterk fon de du.
 
 ## English
@@ -26,7 +26,7 @@ Therefore the wind said that the sun was the strongest of the two.
 
 | Uro | Rule |
 |-----|------|
-| `haf demander`, `haf kom`, `haf blas`, `haf dir` | past tense, default (`haf` + verb) |
+| `haf demander`, `haf kom`, `haf blaser`, `haf dir` | past tense, default (`haf` + verb) |
 | `sterkli` | adverb, default (`-li`) |
 | `Ki fon we` | question word `ki` + preposition `fon` (of) + `we` |
 | `plus sterk` / `de plus sterk` | analytic comparison |

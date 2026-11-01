@@ -13,10 +13,10 @@ The basic rules for the construction of new words is as follows
 
 ### Orthography & Phonetics
 
-One letter, one sound. See **[`grammar/pronunciation.md`](grammar/pronunciation.md)** for the full letter-to-sound table, stress rule and spelling rules.
+Each letter or digraph (`ch`, `sh`, `zh`) always has the same sound, so a word is read as it is written. A few letters have one accepted alternative, such as `w` (/w/ or /v/) and `z` (/ts/ or /z/). See **[`grammar/pronunciation.md`](grammar/pronunciation.md)** for the full letter-to-sound table, stress rule and spelling rules.
 
-- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `sol`, `sistem`). A Latin `c` before *e* or *i* becomes `z`, pronounced /ts/ or /z/ (e.g. `ziti`, `dezember`, `zigarette`, `sozial`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
-- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `ziti`, `enemi`, `universiti`, `whiski`) and internally (e.g. `sistem`).
+- **`k` vs `c`**: Always use `k` for the hard `/k/` sound (e.g. `kalendar`, `klub`, `koktail`, `blanko`). Use `s` for `/s/` (e.g. `sol`, `sistem`). A Latin `c` before *e* or *i* becomes `z`, pronounced /ts/ or /z/ (e.g. `ziti`, `dezember`, `zigarete`, `sozial`). `c` is only used in `ch` for `/tʃ/` (e.g. `chiko`, `chika`).
+- **`i` vs `y`**: Do not use `y` for vowel sounds; use `i` instead, both at the end of words (e.g. `famili`, `ziti`, `enemi`, `universiti`, `wiski`) and internally (e.g. `sistem`).
 - **Stress**: always on the second-to-last syllable (`VI-der`, `ka-LEN-dar`).
 
 ### Grammar & Morphology (Max 2 Variants)
@@ -25,7 +25,7 @@ Unlike strictly schematic languages such as Esperanto that enforce a single arti
 
 See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specification (including EBNF syntax rules). Where there are two variants, the default is what courses, tables and texts use:
 
-- **Word Order**: Strict `SVO` (Subject–Verb–Object), with invariant adjectives always before the noun (`novo dom`).
+- **Word Order**: `SVO` (Subject–Verb–Object) in statements, while questions can invert (see below), with invariant adjectives always before the noun (`novo dom`).
 - **Articles**: Invariant `un` (a/an) and `de` (the).
 - **Noun Plurals (2 variants)**: `-s` by default (`libres`, `ninios`), or `-i` (`brati`, `domi`).
 - **Pronouns & Possessives**: Personal pronouns ([`pronoun/personal_pronoun.md`](pronoun/personal_pronoun.md)), object pronouns `me`/`nos` and reflexive `se` ([`pronoun/object_pronoun.md`](pronoun/object_pronoun.md)), and possessives ([`pronoun/possessive_pronoun.md`](pronoun/possessive_pronoun.md)).
@@ -40,7 +40,7 @@ See **[`grammar/grammar.md`](grammar/grammar.md)** for the full grammar specific
 - **Questions (2 variants)**: yes/no questions use `SVO?` by default (`Ju parler Uro?`), or inversion (`Parler ju Uro?`). After a question word the default is inversion (`Wo ar de stazion?`), unless the question word is the object (`Ki ju vider?`). Question words `ki`, `ke`, `wo`, `kando`, `komo`, `kuanto`, `kual`, `pro ke`.
 - **Word Formation**: international affixes (`-ist`, `-zion`, `-iti`, `-ik`, `non-`, `re-`, …) and a conversion table for international words, see [`grammar/word_formation.md`](grammar/word_formation.md).
 
-The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.4.md`](plans/v0.4.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word. A sample text is in [`texts/north_wind_and_sun.md`](texts/north_wind_and_sun.md).
+The language is versioned; see [`grammar/changelog.md`](grammar/changelog.md) and the plan for the next version in [`plans/v0.5.md`](plans/v0.5.md). `python tools/coverage.py` reports how many of the 1000 most common English words have a Uro word; `python tools/coverage.py tools/swadesh207.txt` does the same for the Swadesh list. `python tools/lint.py` checks the words against the spelling rules. Sample texts with English translations are in [`texts/`](texts/): [*The North Wind and the Sun*](texts/north_wind_and_sun.md), [*The King and the Beggar*](texts/king_and_beggar.md), [*A Day at Grandfather's*](texts/day_at_grandfathers.md) and [*Bean Soup*](texts/bean_soup.md).
 
 ## Learn Uro
 
@@ -50,7 +50,7 @@ The starter kit is in [`learn/`](learn/):
 - [`learn/words.md`](learn/words.md): the 1000 most common words, most frequent first
 - [`learn/texts.md`](learn/texts.md): five graded texts, side by side with English, Dutch, Portuguese and Polish
 
-`python tools/kit.py` rebuilds the word list and checks that the kit only uses words from the tables.
+`python tools/kit.py` rebuilds the word list and checks that the kit and the sample texts only use words from the tables.
 
 Uro is a work in progress. The grammar and core words aren't stable before 1.0, so the kit can change with them.
 

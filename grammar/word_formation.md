@@ -17,7 +17,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `-or` | person or thing that acts; replaces the verb ending `-er` or follows a bare root | `autor`, `direktor`, `aktor`; `speler` → `spelor` (player), `trener` → `trenor` (coach, like Romanian *antrenor*), `manejer` → `manejor`, `work` → `workor` |
 | `-zion` | action or result (English *-tion*, *-sion*) | `nazion`, `stazion`, `informazion` |
 | `-iti` | quality, state (English *-ity*) | `universiti`, `kualiti`, `realiti` |
-| `-ism` | doctrine, system | `turism`, `sosialism` |
+| `-ism` | doctrine, system | `turism`, `sozialism` |
 | `-logi` | field of study | `biologi`, `teknologi` |
 | `-al` | adjective: "relating to" | `nazional`, `normal`, `zentral` |
 | `-ik` | adjective: "of the kind" | `elektrik`, `publik`, `klasik` |
@@ -26,7 +26,7 @@ All affixes are taken from international vocabulary, so a learner recognizes the
 | `-a` | female (optional) | `chiko` → `chika`, `on` → `ona` |
 | `-ed` | past tense (variant; the default past is `haf` + verb) | `work` → `worked`, `vider` → `videred` |
 
-> **Not `-er` for people.** In Uro `-er` is the verb ending (`speler` = to play), so it is never used for agent nouns (*player*, Dutch *speler*) or comparatives (*bigger*). Use `-ist`/`-or` for people and `plus` for comparison.
+> **Not `-er` for people.** In Uro `-er` is the verb ending (`speler` = to play), so a noun made from a Uro verb never uses it (*player*, Dutch *speler*), and neither do comparatives (*bigger*). Use `-ist`/`-or` for people and `plus` for comparison. Whole loans such as `lider` and `partner` are not verb + `-er`, so they keep their form.
 
 ## 2. Prefixes
 
@@ -93,7 +93,7 @@ International words are taken from the shared European form and adapted with the
 Rules for choosing the form:
 1. Prefer the form that is **shared by most of the Germanic, Romance and Slavic languages** (e.g. `bilet`: Polish *bilet*, Russian *bilet*, Romanian *bilet*, French *billet*, Danish *billet*, Swedish *biljett*).
 2. If the forms differ, prefer the **shortest recognizable** one (`bus` rather than `autobus`).
-3. Remove grammatical endings of individual languages (*-o*, *-a*, *-e*, *-um*, *-us*) unless they are needed for pronunciation (`auto`, `piano`, `radio` keep their vowel).
+3. Keep an ending (*-o*, *-a*, *-e*) when the form shared across language families has it and it helps people recognize the word (`auto`, `piano`, `lago`, `skola`). Otherwise use no ending (`dent`, `fum`). The same goes for adjectives (`alto`, `pronto`).
 
 ---
 
@@ -111,12 +111,12 @@ Most verbs that Europeans share come from Latin. They are found as *accepter / a
 | discuss | *discut-* (Fr *discuter*, De *diskutieren*, Pl *dyskutować*) | `diskuter` |
 | produce | *produc-* (Es *producir*, Nl *produceren*) | `produzer` |
 
-- A stem that ends in a vowel keeps the *-t-* of its noun: create (*kreasion*) → `kreater`.
+- A stem that ends in a vowel keeps the *-t-* of its noun: create (*kreazion*) → `kreater`.
 - English *-fy* becomes `-fiker`: identify → `identifiker`, mean (signify) → `signifiker`.
 - English *-ize* becomes `-izer`: realize → `realizer`.
 - The matching noun is the international *-tion* noun spelled by §4, not a form built from the Uro verb: `dezider` / `dezizion`, `kreater` / `kreazion`, `produzer` / `produkzion`.
 
-A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `fang`, `find`, `forget`, `help`, `sing`, `spend`, `start`.
+A short Germanic verb that English shares keeps the bare root (§3 and [`grammar.md`](grammar.md) §7): `brek`, `find`, `forget`, `help`, `sing`, `spend`, `start`. Every other verb takes `-er`, including verbs from German, Dutch or Slavic that English doesn't share: `speler`, `lezer`, `grizer`. The auxiliaries are the exception: `kan`, `mus`, `treb`, `las`, `wud`, `dever`. Two very common verbs are also exceptions: `dar` (give) and `dir` (say, tell).
 
 ### One verb, several English verbs
 
@@ -137,6 +137,17 @@ Uro does not copy every English distinction. When the main language families use
 | `rester` | stay, remain | French *rester*, German *bleiben*, Russian *ostavat'sja* |
 | `treb` | need, require | Croatian *trebati*, Russian *trebovat'* |
 
+### One word, several meanings
+
+The same goes for other words. One form may carry two meanings when a main language family does the same, or when the word class tells them apart:
+
+| Uro | English | Why |
+|-----|---------|-----|
+| `lingua` | language, tongue | Italian *lingua*, French *langue*, Polish *język*, Russian *jazyk* |
+| `mir` | peace, world | Russian *mir* |
+| `karta` | card, map | Italian *carta*, Polish *karta*, German *Karte* |
+| `rund` | around, round | English *round*; preposition or adjective |
+
 ### Verb phrases
 
 | Uro | Literally | English | Same pattern in |
@@ -144,6 +155,6 @@ Uro does not copy every English distinction. When the main language families use
 | `lever se` | raise oneself | rise, get up | French *se lever*, Spanish *levantarse*, Italian *alzarsi* |
 | `demander se` | ask oneself | wonder | French *se demander*, German *sich fragen*, Spanish *preguntarse* |
 | `ariver a` | arrive at | reach | Spanish *llegar a*, Portuguese *chegar a*, Romanian *a ajunge la* |
-| `rekenner` | re-know | recognize | Dutch *herkennen*, German *erkennen*, Italian *riconoscere* |
+| `rekener` | re-know | recognize | Dutch *herkennen*, German *erkennen*, Italian *riconoscere* |
 | `diskover` | un-cover | discover | Spanish *descubrir*, German *entdecken*, Russian *otkryvat'* |
 | `plener` | make full (`plen`) | fill | French *remplir*, Polish *napełniać*, Russian *napolnjat'* |

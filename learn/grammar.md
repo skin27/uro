@@ -2,7 +2,7 @@
 
 Everything here uses the default forms. The full rules, and the variants that are also correct, are in [`grammar/grammar.md`](../grammar/grammar.md). Uro is still a work in progress: the grammar and core words can change until version 1.0.
 
-**Spelling and sound.** One letter, one sound. `k` is /k/, `s` is /s/, `z` is /ts/ or /z/, `j` is /j/ as in *yes*, `ch` is /tʃ/, `sh` is /ʃ/, `zh` is /ʒ/. Stress the second-to-last syllable: `VI-der`, `ka-LEN-dar`.
+**Spelling and sound.** A word is read as it is written. `k` is /k/, `s` is /s/, `z` is /ts/ or /z/, `j` is /j/ as in *yes*, `ch` is /tʃ/, `sh` is /ʃ/, `zh` is /ʒ/. Stress the second-to-last syllable: `VI-der`, `ka-LEN-dar`.
 
 **Word order.** Subject, verb, object: `Je vider de dom.` Adjectives go before the noun and never change: `un novo dom`.
 
@@ -54,7 +54,7 @@ Mi auto ar plus rapid niz tu auto.
 - Prepositions: `in`, `fon` (of), `od` (from), `a` (to), `op` (on), `mit` (with), `bez` (without), `pro` (for), `pre` (before), `post` (after), `inter` (between), `under`, `over`, `til` (until), `bi` (at, near), `za` (behind).
 - Joining words: `i` (and), `o` (or), `ale` (but), `if`, `dat` (that), `ke` (which, who), `jak` (as, like), `kando` (when), `pro ke` (because).
 
-**Numbers.** `un du tri fir fif siks set okt nin ten`, then `unten` (11), `vinti` (20), `triti` (30), `zent` (100), `mil` (1000). First is `prim`, second is `sekund`, and the rest add `-de`: `tride`.
+**Numbers.** `un du tri fir fif siks set okt nin ten`, then `unten` (11), `duti` (20), `triti` (30), `zent` (100), `mil` (1000). First is `prim`, second is `sekund`, and the rest add `-de`: `tride`.
 
 **Making new words.** `-or` a person who does it (`work`, `workor`), `-ist` a profession (`artist`), `-zion` an action (`nazion`), `-iti` a quality (`universiti`), `-ik`, `-al` and `-iv` adjectives (`elektrik`, `nazional`, `aktiv`), `re-` again, `non-` not.
 

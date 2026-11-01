@@ -1,15 +1,26 @@
 | English | Uro (M) | Uro (AI)  | Croatian |  Czech |  Danish |  Dutch  |  French |   German  |  Italian |  Polish | Portuguese | Romanian |     Russian     |       Serbian       | Slovak | Spanish | Swedish |
 |---------|---------|:---------:|:--------:|:------:|:-------:|:-------:|:-------:|:---------:|:--------:|:-------:|:----------:|:--------:|:---------------:|:-------------------:|:------:|:-------:|:-------:|
+| ancestor | predok  | —         | predak   | předek | forfader | voorouder | ancêtre | Vorfahr   | antenato | przodek | antepassado | strămoș  | предок [prédok] | предак [predak]     | predok | antepasado | förfader |
+| cousin  | kuzin   | —         | bratić   | bratranec | fætter  | neef    | cousin  | Cousin    | cugino   | kuzyn   | primo      | văr      | двоюродный брат [dvojúrodnyj brat] | брат од стрица [brat od strica] | bratranec | primo   | kusin   |
 | family  | famili  | familia   | obitelj  | rodina | familie | familie | famille | Familie   | famiglia | rodzina | família    | familie  | семья [sémja]   | породица [porodica] | rodina | familia | familj  |
+| granddaughter | granfilia | —         | unuka    | vnučka | barnebarn | kleindochter | petite-fille | Enkelin   | nipote   | wnuczka | neta       | nepoată  | внучка [vnúčka] | унука [unuka]       | vnučka | nieta   | barnbarn |
+| grandfather | granpapa | —         | djed     | dědeček | bedstefar | opa     | grand-père | Großvater | nonno    | dziadek | avô        | bunic    | дедушка [déduška] | деда [deda]         | dedko  | abuelo  | farfar / morfar |
+| grandmother | granmama | —         | baka     | babička | bedstemor | oma     | grand-mère | Großmutter | nonna    | babcia  | avó        | bunică   | бабушка [bábuška] | бака [baka]         | babka  | abuela  | farmor / mormor |
+| grandson | granson | —         | unuk     | vnuk   | barnebarn | kleinzoon | petit-fils | Enkel     | nipote   | wnuk    | neto       | nepot    | внук [vnuk]     | унук [unuk]         | vnuk   | nieto   | barnbarn |
 | mother  | mama    | mater     | majka    | matka  | mor     | moeder  | mère    | Mutter    | madre    | matka   | mãe        | mamă     | мать [mat']     | мајка [majka]       | matka  | madre   | mor     |
 | father  | papa    | pater     | otac     | otec   | far     | vader   | père    | Vater     | padre    | ojciec  | pai        | tată     | отец [otéc]     | отац [otac]         | otec   | padre   | far     |
 | mum     | mama    | mater     | mama     | máma   | mor     | moeder  | mère    | Mutter    | mamma    | mama    | mãe        | mamă     | мать [mat']     | мајка [majka]       | mama   | madre   | mor     |
 | dad     | papa    | pater     | tata     | táta   | far     | vader   | père    | Vater     | papà     | tata    | pai        | tată     | отец [otéc]     | отац [otac]         | tata   | padre   | far     |
+| nephew  | nevo    | —         | nećak    | synovec | nevø    | neef    | neveu   | Neffe     | nipote   | bratanek | sobrinho   | nepot    | племянник [plemjánnik] | сестрић [sestrić]   | synovec | sobrino | brorson |
+| niece   | neva    | —         | nećakinja | neteř  | niece   | nicht   | nièce   | Nichte    | nipote   | bratanica | sobrinha   | nepoată  | племянница [plemjánnica] | сестричина [sestričina] | neter  | sobrina | brorsdotter |
+| orphan  | orfan   | —         | siroče   | sirotek | forældreløs | wees    | orphelin | Waise     | orfano   | sierota | órfão      | orfan    | сирота [sirotá] | сироче [siroče]     | sirota | huérfano | föräldralös |
+| relative | rodak   | —         | rođak    | příbuzný | slægtning | familielid | parent  | Verwandter | parente  | krewny  | parente    | rudă     | родственник [ródstvennik] | рођак [rođak]       | príbuzný | pariente | släkting |
 | son     | son     | filius    | sin      | syn    | søn     | zoon    | fils    | Sohn      | figlio   | syn     | filho      | fiul     | сын [syn]       | син [sin]           | syn    | hijo    | son     |
 | daughter| filia   | filia     | kći      | dcera  | datter  | dochter | fille   | Tochter   | figlia   | córka   | filha      | fiică    | дочь [doč']     | ћерка [ćerka]       | dcéra  | hija    | dotter  |
 | brother | brat    | fratre    | brat     | bratr  | bror    | broer   | frère   | Bruder    | fratello | brat    | irmão      | frate    | брат [brat]     | брат [brat]         | brat   | hermano | bror    |
 | sister  | sister  | soror     | sestra   | sestra | søster  | zus     | sœur    | Schwester | sorella  | siostra | irmã       | soră     | сестра [sestra] | сестра [sestra]     | sestra | hermana | syster  |
 | uncle   | unkel   | avunculus | ujak     | strýc  | onkel   | oom     | oncle   | Onkel     | zio      | wuj     | tio        | unchi    | дядя [djádja]   | ујак [ujak]         | strýko | tío     | morbror |
 | aunt    | tante   | amita     | tetka    | teta   | tante   | tante   | tante   | Tante     | zia      | ciocia  | tia        | mătușă   | тетя [tétja]    | тетка [tetka]       | teta   | tía     | moster  |
+| widow   | widow   | —         | udovica  | vdova  | enke    | weduwe  | veuve   | Witwe     | vedova   | wdowa   | viúva      | văduvă   | вдова [vdová]   | удовица [udovica]   | vdova  | viuda   | änka    |
 
 

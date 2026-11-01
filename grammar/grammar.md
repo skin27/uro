@@ -19,7 +19,7 @@ Version: **0.4.0** (see [`changelog.md`](changelog.md)). Pronunciation and spell
   - *Example*: `un novo dom` ("a new house")
   - *Example*: `de bon libres` ("the good books")
 - **Subordinate clauses keep `SVO`**. The verb never moves to the end (unlike German or Dutch).
-  - *Example*: `Je kenner dat on ar in de dom.` ("I know that he is in the house.")
+  - *Example*: `Je kener dat on ar in de dom.` ("I know that he is in the house.")
 - **Adverbs**: Manner adverbs follow the verb (or its object). Time and place adverbs go at the start or the end of the sentence.
   - *Example*: `On parler rapidli.` ("He speaks fast.")
   - *Example*: `Morgen we go a Berlin.` / `We go a Berlin morgen.` ("Tomorrow we go to Berlin.")
@@ -45,7 +45,7 @@ Articles are **invariant** (they do not change for gender, number, or case) and 
 ## 3. Nouns & Plurals
 
 - **Base Form**: Nouns in vocabulary tables are listed in their singular base form. There is no grammatical gender agreement or case inflection on nouns.
-- **Pluralization (2 valid variants)**: The default plural adds **`-s`** (Western: Romance/Germanic) to the singular noun. The variant adds **`-i`** (Slavic/Italian/Romanian); it can't be used on nouns that already end in `-i`, and it can make two nouns look the same (`taksa` → `taksi`), so `-s` is the safe choice:
+- **Pluralization (2 valid variants)**: The default plural adds **`-s`** (Western: Romance/Germanic) to the singular noun. The variant adds **`-i`** (Slavic/Italian/Romanian); it can't be used on nouns that already end in `-i`, and it can make two nouns look the same (`taksa` → `taksi`, `part` → `parti`), so `-s` is the safe choice:
 
 | Noun ends in | Default | Variant | Examples |
 |--------------|-----------|-----------|----------|
@@ -99,7 +99,7 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 | `som` | some | `som water` |
 | `mult` | many / much | `mult libres` |
 | `poko` | few / little | `poko temp` |
-| `nul` | no / none | `nul monni` |
+| `nul` | no / none | `nul moni` |
 | `kada` | every / each | `kada den` |
 | `alter` | other | `de alter chiko` |
 | `ambo` | both | `ambo brats` |
@@ -109,7 +109,7 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 - Combined with `ting` (thing) and `un` (one), they form indefinite pronouns: `somting` (something), `nulting` (nothing), `alting` (everything), `somun` (someone), `nulun` (nobody).
 - **Any**: Uro has no separate *any* words. Like Scandinavian *nogen/någon* and Czech *nějaký*, it uses:
   - `som` in questions and `if` clauses: `Ju haf som kwestias?` ("Do you have any questions?"), `If somun kom, …` ("If anyone comes, …").
-  - `nul` with negation: `Je haf nul monni.` ("I don't have any money.")
+  - `nul` with negation: `Je haf nul moni.` ("I don't have any money.")
   - `kada` for "any you like": `Ju kan kom kada den.` ("You can come any day.")
 - **Other and else**: `un alter` (another, like French *un autre*); `alter` after a pronoun means *else*: `somun alter` (someone else), `ke alter?` (what else?).
 - **Whatever**: `al ke` ("all that"), like French *tout ce que*, German *alles, was* and Polish *wszystko, co*: `Ju kan nemer al ke ju voler.` ("You can take whatever you want.")
@@ -122,7 +122,7 @@ Demonstratives and quantifiers are **invariant** and precede the noun, in the sa
 ### Adverbs (2 valid variants)
 An adverb of manner is by default the adjective + **`-li`**. The variant is the **bare adjective** (German/Dutch style):
 - `On parler rapidli.` / `On parler rapid.` ("He speaks quickly.")
-- `Je slaper bonli.` / `Je slaper bon.` ("I sleep well.")
+- `Je slap bonli.` / `Je slap bon.` ("I sleep well.")
 - Every English adverb in *-ly* follows this rule, so it needs no word of its own: `klar` → `klarli` / `klar` (clearly), `normal` → `normalli` (usually), `posibel` → `posibelli` (possibly).
 - Comparison works on adverbs too: `plus tard` (later), like French *plus tard* and Spanish *más tarde*.
 
@@ -158,10 +158,10 @@ Degree words go before an adjective or adverb:
 ### Base / Present Tense
 Verbs do **not** conjugate for person or number (`je vider`, `on vider`, `oni vider`).
 Lexical verbs follow **2 valid morphological patterns**:
-1. **Bare root form**: `hor` (hear), `go` (go), `appel` (call), `sit` (sit), `smil` (smile), `walk` (walk), `work` (work), `pluk` (pick), `listen` (listen).
+1. **Bare root form**: `hor` (hear), `go` (go), `sit` (sit), `smil` (smile), `walk` (walk), `work` (work), `pluk` (pick), `listen` (listen).
 2. **Unified `-er` suffix**: `vider` (see), `vender` (sell), `parler` (speak), `penser` (think), `skriber` (write), `speler` (play), `jester` (eat), `rirer` (laugh).
 
-**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic/English verb (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`akzepter`, `dezider`, `ekspliker`).
+**Choosing the pattern for a new verb**: use the bare root when the shared root is a short Germanic verb that English shares (`bring`, `send`, `begin`, `help`). Otherwise use root + `-er` (`prober`, `responder`, `visiter`), also for Germanic or Slavic verbs that English doesn't share (`speler`, `grizer`). Verbs from Latin roots follow the rule in [`word_formation.md`](word_formation.md) §5 (`akzepter`, `dezider`, `ekspliker`).
 
 The verb root can also be used as a noun: `finer` → `fin` (end), `work` → `work`.
 
@@ -192,7 +192,7 @@ The conditional is **`wud` + bare verb**, built like the future with `wil` (Engl
 
 - An `if` clause takes the present for a real condition and the past for an unreal one. Only the main clause takes `wud`:
   - `If ju kom, we go a de museum.` ("If you come, we will go to the museum.")
-  - `If je hafed monni, je wud kuper un auto.` ("If I had money, I would buy a car.")
+  - `If je hafed moni, je wud kuper un auto.` ("If I had money, I would buy a car.")
 - `wud` also makes a request polite: `Je wud voler un kafe.` ("I would like a coffee.")
 - `could` in the sense of past ability is the past of `kan`: `je kaned` / `je haf kan` ("I could, I was able to").
 
@@ -216,7 +216,7 @@ The modal verbs are `kan` (can, may), `mus` (must), `dever` (should), `voler` (w
 The imperative is the base form, with no subject:
 - `Go!` ("Go!")
 - `Skriber a me!` ("Write to me!")
-- `Ne go!` ("Don't go!")
+- `Not go!` ("Don't go!")
 
 ---
 
@@ -324,7 +324,7 @@ Prepositions are **invariant** and always precede their noun phrase ([`prepositi
 | `mem if` | although, even if | `We go, mem if to ar kold.` |
 | `durant ke` | while | `Je lezer durant ke ju work.` |
 | `od kando` | since (time) | `Od kando je ar hir, …` |
-| `if` | whether | `Je not kenner if on kom.` |
+| `if` | whether | `Je not kener if on kom.` |
 | `o … o` | either … or | `o kafe o te` |
 | `not … not` | neither … nor | `not kafe not te` |
 | `ambo … i` | both … and | `ambo papa i mama` |
@@ -339,7 +339,7 @@ Three short words introduce subordinate clauses:
 - **Relative clause**: `ke`, like Romance *que/che*: `De man ke ju vider ar mi brat.` ("The man that you see is my brother.") `ke` also stays in the compounds `pro ke` (because), `durant ke` (while) and `al ke` (whatever).
 - **Comparison**: `niz`, like Polish *niż* and Czech *než*: `On ar plus grand niz je.` ("He is taller than me.")
 
-Indirect questions use the question word directly: `Je not kenner wo on ar.` ("I don't know where he is.")
+Indirect questions use the question word directly: `Je not kener wo on ar.` ("I don't know where he is.")
 
 ---
 
@@ -349,8 +349,8 @@ Indirect questions use the question word directly: `Je not kenner wo on ar.` ("I
 
 - **Units**: `un du tri fir fif siks set okt nin ten`.
 - **Teens**: unit + `ten`: `unten` (11), `duten` (12) … `ninten` (19).
-- **Tens**: unit + `-ti` (like English *-ty*): `triti` (30), `firti` (40) … `ninti` (90). The exception is `vinti` (20).
-- **Larger numbers** are written big to small, units last (no German/Dutch reversal): `vinti un` (21), `zent triti du` (132), `mil nin zent ninti nin` (1999).
+- **Tens**: unit + `-ti` (like English *-ty*): `duti` (20), `triti` (30), `firti` (40) … `ninti` (90).
+- **Larger numbers** are written big to small, units last (no German/Dutch reversal): `duti un` (21), `zent triti du` (132), `mil nin zent ninti nin` (1999).
 - `zent` (100), `mil` (1000), `milion` (10⁶), `miliard` (10⁹). Uro uses `miliard` to avoid the *billion* ambiguity.
 - **Ordinals**: `prim` (first) and `sekund` (second) are irregular, as in nearly every European language. All others take **`-de`**: `tride`, `firde`, `fifde`, `tende`. Uro does not use `-te`, which would sound almost the same as the tens (`fifti` vs *fifte*).
 
@@ -358,7 +358,7 @@ Indirect questions use the question word directly: `Je not kenner wo on ar.` ("I
 
 ## 13. Word Formation
 
-New words are derived with a small set of internationally recognizable affixes, such as `-ist`, `-or`, `-zion`, `-iti`, `-ism`, `-logi`, `-al`, `-ik`, `-iv`, `non-` and `re-`, and with transparent compounds (`dis den` "today", `fon novo` "again"). Agent nouns **never** use `-er`, because that is the verb ending. See [`word_formation.md`](word_formation.md).
+New words are derived with a small set of internationally recognizable affixes, such as `-ist`, `-or`, `-zion`, `-iti`, `-ism`, `-logi`, `-al`, `-ik`, `-iv`, `non-` and `re-`, and with transparent compounds (`dis den` "today", `fon novo` "again"). Nouns made from a Uro verb **never** use `-er`, because that is the verb ending. See [`word_formation.md`](word_formation.md).
 
 ---
 
@@ -380,6 +380,8 @@ Short function words are reserved. A new content word must not take any of these
 | Direction adverbs | `ab` (and `op`, above) |
 | Conjunctions | `i`, `o`, `ale`, `if`, `dat`, `ke`, `niz`, `kando`, `jak` |
 | Question words | `ki`, `wo`, `kuanto`, `kual` |
+
+One exception: `rund` is both the preposition *around* (`rund de ziti`) and the adjective *round* (`un rund tabel`), as English *round* can be both.
 
 ---
 

@@ -10,6 +10,43 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 ---
 
+## Unreleased: 0.5
+
+Goals: cover the Swadesh 207-word list, make the rules and the words agree, and grow the vocabulary to at least 1500 words (see [`plans/v0.5.md`](../plans/v0.5.md)). `python tools/coverage.py tools/swadesh207.txt` went from 66.3% to 100%.
+
+### New words
+
+- 100 new rows chosen from *A Conlanger's Thesaurus* (Annis 2014), reviewed in [`plans/review_0.5.md`](../plans/review_0.5.md): `kaval` (horse), `klima` (weather), `kniv` (knife), `brekfast`, `kral` (king), and more.
+- 100 more rows from the same source, also reviewed: `wolf`, `barba` (beard), `lunch`, `kandel` (candle), and more.
+- 100 more rows from the same source, also reviewed: `widow`, `leder` (leather), `tempel`, `tower`, and more.
+- 100 more rows from the same source and from everyday gaps, also reviewed: `ketel` (kettle), `regal` (shelf), `weding`, `strega` (witch), and more.
+- 100 more rows of everyday words, also reviewed: `silenz` (quiet), `botel` (bottle), `zhaba` (frog), `medsestra` (nurse), `plaja` (beach), and more. The vocabulary is now 1543 different forms, past the goal of 1500.
+- Three new sample texts in `texts/` that use 83 of the new words: `king_and_beggar.md`, `day_at_grandfathers.md`, `bean_soup.md`. `tools/kit.py` now checks the sample texts against the tables too.
+
+### Rule pass
+
+- **Breaking, spelling**: `ie` is no longer /i/, and `ije` is gone; `ie` is now two syllables, like other vowel pairs (`pazient` = *pa-zi-ent*). `dinsden`, `klient`, `eksperienz`, `proprietar`, `seria`, `sientia`, `sientist`, `sozieti`.
+- **Breaking, double letters**: a double letter is single, unless two word parts meet (`realli`). `halo`, `jelow`, `kener`, `kenis`, `rekener`, `ader`, `mesage`, `moni`, `tera`, `vanila`, `zigarete`. *call* is now `klamer`, because `appel` sounded like `apel` (apple).
+- **Breaking, verbs**: the bare root is only for short Germanic verbs that English shares, and auxiliaries. Every other verb takes `-er`, apart from the named exceptions `dar` and `dir`. `admiter`, `permiter`, `eksister`, `failer`, `traveler`, `pusher`, `sercher`, `blaser`, `kapturer` (catch), `krazer`, `sorger`, `sparer`, `steker`, `trefer`, `treker`; and bare `slap` (sleep), `shek` (shake). The nouns `fail`, `travel`, `serch` and `tref` stay.
+- **Words from English**: keep the English spelling when Uro can read every letter of it, otherwise spell by sound. `wik` (week).
+- **Noun endings**: keep `-o`, `-a` or `-e` when the shared form has it and it helps people recognize the word.
+- **One form, two meanings** is now allowed for all words, not only verbs, when a main language family does the same or the word class tells them apart.
+- **`-er` for people**: the rule now covers nouns made from a Uro verb. Whole loans such as `lider` and `partner` keep their form.
+- Other words: `akzion`, `teater`, `wiski`, `djez` (jazz), `dan` (then, was `then`), `duti` (20, was `vinti`), so the tens are now regular. `zoo` and `ja` stay, which closes those open points from 0.3.
+- Corrected in `pronunciation.md`: `win` and `vin` can sound alike; the `sh` and `zh` notes; the source-spelling rows. The open points section is gone.
+- The *cigarette* row had the language columns of *tobacco*.
+- A negative order is `Not go!`; `grammar.md` still had `Ne go!`, from before `ne` was removed.
+- New `tools/lint.py` checks the mechanical spelling rules.
+
+### Swadesh list
+
+- New `tools/swadesh207.txt`.
+- 70 new words in `nature_time.md`, `food_body.md`, `home.md`, `adjectives.md` and `verbs.md`, reviewed one by one in [`plans/review_0.5.md`](../plans/review_0.5.md): 61 proposed forms kept, 9 changed: `kosti` (bone), `koleno` (knee), `grizer` (bite), `spit` (spit), `numerer` (count), `lago` (lake), `led` (ice), `bruler` (burn), `rund` (round).
+- `rund` is both *around* and *round*, the one exception to the reserved list.
+- `lingua` now means both *language* and *tongue*. `dors` is *back* as a body part; `retur` stays the adverb.
+
+---
+
 ## Unreleased: 0.4 review
 
 A word-by-word review of the 0.4 vocabulary, logged in [`plans/review_0.4.md`](../plans/review_0.4.md).

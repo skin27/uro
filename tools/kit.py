@@ -5,8 +5,9 @@ Usage:
     python tools/kit.py --check  # only check the kit
 
 The word list follows tools/top1000_ranked.txt (the EF top 1000, most frequent
-first). The check reports every word in learn/texts.md and in the example
-sentences of learn/grammar.md that is not in a vocabulary table. Plurals (-s,
+first). The check reports every word in learn/texts.md, in the example
+sentences of learn/grammar.md and in the Uro section of each file in texts/
+that is not in a vocabulary table. Plurals (-s,
 -es), adverbs (-li), past forms (-ed) and agent nouns (-or) count as known when
 their base word is in a table. Names are listed in NAMES.
 """
@@ -121,10 +122,17 @@ def uro_in_grammar():
             yield span
 
 
+def uro_in_samples():
+    """Yield the lines of the Uro section of each file in texts/."""
+    for path in sorted((ROOT / "texts").glob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        yield from text.split("## Uro")[1].split("\n## ")[0].splitlines()
+
+
 def check():
     words = known_words()
     unknown = {}
-    for name, sentences in (("texts.md", uro_in_texts()), ("grammar.md", uro_in_grammar())):
+    for name, sentences in (("texts.md", uro_in_texts()), ("grammar.md", uro_in_grammar()), ("texts/", uro_in_samples())):
         for sentence in sentences:
             for word in re.findall(r"[a-z]+", sentence.lower()):
                 if not is_known(word, words):

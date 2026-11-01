@@ -1,8 +1,8 @@
 # Uro Pronunciation & Spelling
 
-Uro uses the basic 26-letter Latin alphabet without diacritics. Every letter (or digraph) has **one sound**, so a word is pronounced as it is written and written as it is pronounced.
+Uro uses the basic 26-letter Latin alphabet without diacritics. Every letter (or digraph) always has the same **one sound**, apart from the few accepted alternatives below, so a word is pronounced as it is written and written as it is pronounced.
 
-Where European speakers naturally differ (for example `w` or `r`), Uro accepts **at most two pronunciations**. No two Uro words differ only by such a sound, so both are always understood.
+Where European speakers naturally differ (for example `w` or `r`), Uro accepts **at most two pronunciations**. Words that differ only by such a sound are rare: `win` (win) and `vin` (wine) sound alike when `w` is /v/, and the word class tells them apart.
 
 ---
 
@@ -26,9 +26,8 @@ Vowels are "pure" continental vowels, as in Italian, Spanish, Polish or Dutch. T
 | `au` | /au/ as in *house* | `blau`, `auto` |
 | `ei` | /ei/ as in *day* | `ei` (egg), `breit` |
 | `eu` | /eu/ (e + u) | `euro`, `feuer` |
-| `ie` | /i/ (long i, as in Dutch/German *ie*) | — |
 
-All other vowel combinations are pronounced as separate syllables: `ninio` = *ni-ni-o*, `filia` = *fi-li-a*, `aeroport` = *a-e-ro-port*.
+All other vowel combinations are pronounced as separate syllables: `ninio` = *ni-ni-o*, `filia` = *fi-li-a*, `pazient` = *pa-zi-ent*, `aeroport` = *a-e-ro-port*.
 
 ---
 
@@ -39,7 +38,7 @@ All other vowel combinations are pronounced as separate syllables: `ninio` = *ni
 | `b d f l m n p t` | as in English | |
 | `g` | /g/ as in *go* | always hard: `genug`, `regen` |
 | `h` | /h/ (or /x/) | always pronounced: `haf`, `hand`. Never silent, because `har` (hair) ≠ `ar` (is) |
-| `j` | /j/ as in *yes* | `je`, `ja`, `jung`, `jellow` |
+| `j` | /j/ as in *yes* | `je`, `ja`, `jung`, `jelow` |
 | `k` | /k/ | `kalendar`, `klub` |
 | `r` | trilled, tapped or uvular /r ʀ ʁ/ | all are fine |
 | `s` | /s/ as in *sun* | always voiceless: `sol`, `sistem`, `rasa` |
@@ -47,10 +46,10 @@ All other vowel combinations are pronounced as separate syllables: `ninio` = *ni
 | `w` | /w/ as in *water* (or /v/) | `water`, `we`, `wil`. German, Dutch and Slavic speakers may say /v/ |
 | `z` | /ts/ as in German *Zentrum*, Italian *grazie* (or /z/) | `ziti`, `zentrum`, `zero`, `zebra`. Both pronunciations are fine |
 | `ch` | /tʃ/ as in *church* | `chiko`, `chika` |
-| `sh` | /ʃ/ as in *ship* | for future loans (Slavic *sz/š*, German *sch*) |
-| `zh` | /ʒ/ as in *measure* | for future loans (Slavic *ż/ž*) |
+| `sh` | /ʃ/ as in *ship* | `sharp`, `mashina` (also for Slavic *sz/š*, German *sch*) |
+| `zh` | /ʒ/ as in *measure* | `etazh` (also for Slavic *ż/ž*) |
 
-- `c` appears **only** in the digraph `ch`. The sound /s/ is always `s` (`sol`, `sistem`), a Latin *c* before *e* or *i* is `z` (`ziti`, `dezember`, `zigarette`), and /k/ is always `k` (`kafe`, `elektrik`).
+- `c` appears **only** in the digraph `ch`. The sound /s/ is always `s` (`sol`, `sistem`), a Latin *c* before *e* or *i* is `z` (`ziti`, `dezember`, `zigarete`), and /k/ is always `k` (`kafe`, `elektrik`).
 - `q`, `x` and `y` are not used in Uro words. They appear only in unadapted proper names (`New York`).
 - `ng` is /ŋg/ or /ŋ/ (`jung`, `long`). Both are fine.
 
@@ -73,27 +72,19 @@ New words, especially international ones, are adapted with these rules (see also
 | Source spelling | Uro | Example |
 |-----------------|-----|---------|
 | `c`, `ck`, `ch`, `q` pronounced /k/ | `k` | electric → `elektrik`, club → `klub`, cocktail → `koktail` |
-| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarette`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sijentia`), and *-tion* / *-sion* become `-zion` (nation → `nazion`) |
+| `c` before *e*, *i*, *y* (Latin *c*) | `z` | city → `ziti`, cigarette → `zigarete`, December → `dezember`, social → `sozial`. *sc* stays `s` (science → `sientia`), and *-tion* / *-sion* become `-zion` (nation → `nazion`) |
 | `x` | `ks` | six → `siks`, taxi → `taksi` |
 | `qu` | `ku` | quality → `kualiti` |
-| `y` at the start of a word | `j` | yellow → `jellow` |
+| `y` at the start of a word | `j` | yellow → `jelow` |
+| `j` pronounced /dʒ/ | `dj` | jazz → `djez` |
 | `y` as a vowel | `i` | family → `famili`, city → `ziti`, system → `sistem` |
 | `ph` | `f` | telephone → `telefon` |
-| `ee`, `ea` | `ie` | (vowel /i/) |
-| `ou` | `au` | |
-| `oe`, `ue` | `u` | |
-| `eau` | `o` | |
+| `ou` | `u` | tourist → `turist`, shoulder → `shulder`, source → `surza` |
 | `-le` at the end | `-el` | example → `eksampel`, uncle → `unkel`, apple → `apel` |
-| double letter at the end | single | process → `prozes`, ball → `bal` |
-| *i* + *e* in two syllables (*client*, *society*) | `ije`, because `ie` is /i/ | client → `klijent`, society → `sozijeti` (like Croatian *klijent*, *pacijent*) |
+| double letter | single, unless two word parts meet | process → `prozes`, ball → `bal`; but `real` + `-li` → `realli`, `okt` + `ten` → `oktten`. `zoo` stays, because its two vowels are two syllables (*zo-o*) |
 
----
+### Words from English
 
-## 5. Open points
+Keep the English spelling when Uro can read every letter of it: `find`, `work`, `wait`, `water`. These are read with Uro's sounds, so `find` is /find/ and `wait` is /wait/.
 
-These existing words do not yet follow the rules above. They are kept until a decision is made:
-
-- `jez` (jazz): by the rules `j` = /j/, so it reads *yez*. A candidate respelling is `djez`.
-- `theater`: `th` is not a Uro digraph. A candidate respelling is `teater` (Italian *teatro*, Polish *teatr*).
-- `whiski`: `wh` is not a Uro digraph. A candidate respelling is `wiski`.
-- `zoo`: ends in a double letter. Keep it as an international word, or respell it `zo`.
+Respell by sound only when Uro can't read the spelling, as with a silent *e*, *y*, *oo*, *ee* or *ea*: fly → `flai`, wipe → `waip`, fine → `fain`, look → `luk`, freeze → `friz`, break → `brek`.
