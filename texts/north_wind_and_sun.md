@@ -1,6 +1,6 @@
 # De Wind i de Sol
 
-A short retelling of Aesop's fable *The North Wind and the Sun*, the classic test text for languages. Every word comes from the vocabulary tables, and every sentence follows [`grammar.md`](../grammar/grammar.md) (v0.4), using the default forms.
+A short retelling of Aesop's fable *The North Wind and the Sun*, the classic test text for languages. Every word comes from the vocabulary tables, and every sentence follows [`grammar.md`](../grammar/grammar.md), using the default forms.
 
 ## Uro
 

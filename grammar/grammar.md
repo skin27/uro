@@ -216,7 +216,7 @@ The modal verbs are `kan` (can, may), `mus` (must), `dever` (should), `voler` (w
 The imperative is the base form, with no subject:
 - `Go!` ("Go!")
 - `Skriber a me!` ("Write to me!")
-- `Ne go!` ("Don't go!")
+- `Not go!` ("Don't go!")
 
 ---
 

@@ -12,7 +12,14 @@ While Uro is below `1.0`, any minor version may still contain breaking changes.
 
 ## Unreleased: 0.5
 
-Goals: cover the Swadesh 207-word list, make the rules and the words agree, and later grow the vocabulary to at least 1500 words (see [`plans/v0.5.md`](../plans/v0.5.md)). `python tools/coverage.py tools/swadesh207.txt` went from 66.3% to 100%.
+Goals: cover the Swadesh 207-word list, make the rules and the words agree, and grow the vocabulary to at least 1500 words (see [`plans/v0.5.md`](../plans/v0.5.md)). `python tools/coverage.py tools/swadesh207.txt` went from 66.3% to 100%.
+
+### New words
+
+- 100 new rows chosen from *A Conlanger's Thesaurus* (Annis 2014), reviewed in [`plans/review_0.5.md`](../plans/review_0.5.md): `kaval` (horse), `klima` (weather), `kniv` (knife), `brekfast`, `kral` (king), and more.
+- 100 more rows from the same source, also reviewed: `wolf`, `barba` (beard), `lunch`, `kandel` (candle), and more.
+- 100 more rows from the same source, also reviewed: `widow`, `leder` (leather), `tempel`, `tower`, and more.
+- Three new sample texts in `texts/` that use 83 of the new words: `king_and_beggar.md`, `day_at_grandfathers.md`, `bean_soup.md`. `tools/kit.py` now checks the sample texts against the tables too.
 
 ### Rule pass
 
@@ -26,6 +33,7 @@ Goals: cover the Swadesh 207-word list, make the rules and the words agree, and 
 - Other words: `akzion`, `teater`, `wiski`, `djez` (jazz), `dan` (then, was `then`), `duti` (20, was `vinti`), so the tens are now regular. `zoo` and `ja` stay, which closes those open points from 0.3.
 - Corrected in `pronunciation.md`: `win` and `vin` can sound alike; the `sh` and `zh` notes; the source-spelling rows. The open points section is gone.
 - The *cigarette* row had the language columns of *tobacco*.
+- A negative order is `Not go!`; `grammar.md` still had `Ne go!`, from before `ne` was removed.
 - New `tools/lint.py` checks the mechanical spelling rules.
 
 ### Swadesh list

@@ -1,6 +1,6 @@
 # Uro Pronunciation & Spelling
 
-Uro uses the basic 26-letter Latin alphabet without diacritics. Every letter (or digraph) has **one sound**, so a word is pronounced as it is written and written as it is pronounced.
+Uro uses the basic 26-letter Latin alphabet without diacritics. Every letter (or digraph) always has the same **one sound**, apart from the few accepted alternatives below, so a word is pronounced as it is written and written as it is pronounced.
 
 Where European speakers naturally differ (for example `w` or `r`), Uro accepts **at most two pronunciations**. Words that differ only by such a sound are rare: `win` (win) and `vin` (wine) sound alike when `w` is /v/, and the word class tells them apart.
 
